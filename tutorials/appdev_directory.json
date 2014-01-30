@@ -18,7 +18,7 @@
             "cellphone": "641XXXXXXX",
             "email": "maroltso@grinnell.edu"
         },
-         {
+        {
             "id": 3,
             "name": "Patrick",
             "year": "2015",
@@ -26,7 +26,7 @@
             "cellphone": "641XXXXXXX",
             "email": "triestpa@grinnell.edu"
         },
-         {
+        {
             "id": 4,
             "name": "Colin",
             "year": "2014",
@@ -34,7 +34,7 @@
             "cellphone": "641XXXXXXX",
             "email": "tremblay@grinnell.edu"
         },
-         {
+        {
             "id": 5,
             "name": "Spencer",
             "year": "2015",
@@ -42,7 +42,7 @@
             "cellphone": "641XXXXXXX",
             "email": "liberto@grinnell.edu"
         },
-         {
+        {
             "id": 6,
             "name": "Tiffany",
             "year": "2016",
@@ -50,7 +50,7 @@
             "cellphone": "641XXXXXXX",
             "email": "nguyenti@grinnell.edu"
         },
-         {
+        {
             "id": 7,
             "name": "Daniel",
             "year": "2015",
@@ -58,14 +58,13 @@
             "cellphone": "641XXXXXXX",
             "email": "torresda@grinnell.edu"
         },
-         {
+        {
             "id": 8,
             "name": "Daniel",
             "year": "2016",
             "role": "Android Developer",
             "cellphone": "641XXXXXXX",
             "email": "goldstein@grinnell.edu"
-        },
-
+        }
     ]
 }
