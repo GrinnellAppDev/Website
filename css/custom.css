@@ -692,6 +692,13 @@ textarea {
 	text-shadow: none;
 }
 
+.radio {
+    margin-right: 10px;
+}
+
+
+
+
 /* Set the fixed height of the footer here */
 #footer {
   min-height: 40px;

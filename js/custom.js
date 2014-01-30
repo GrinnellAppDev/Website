@@ -7,7 +7,7 @@ var comm = false;
 $(document).ready(function() {
 	
 /*
-	var questions = ["How many windows are there in north campus?"];
+	var questions = ["How many windows are there in north campus?", "Why do the fire alarms in Haines trigger the fire alarms in the whole south campus?", "Do you know Betty, the dining hall lady?", "If you had 13 colorful marbles, which one would you give to Raynard Kington?", "Some other random shit..."];
 	
 	var num = Math.floor(Math.random() * questions.length);
 	
@@ -15,6 +15,18 @@ $(document).ready(function() {
 	
 	$("label[for='q3']").text(selectedQuestion);
 */
+	
+	$("input:checkbox").click(function() {
+    if ($(this).is(":checked")) {
+        var group = "input:checkbox[name='" + $(this).attr("name") + "']";
+        $(group).prop("checked", false);
+        $(this).prop("checked", true);
+    } else {
+        $(this).prop("checked", false);
+    }
+});
+
+	var checkedValue = $('.checkbox:checked').val();
 	
 	$(window).scroll($.debounce(500, true, function() {
 		$(".navbar-inverse").fadeTo("slow", 0.8);

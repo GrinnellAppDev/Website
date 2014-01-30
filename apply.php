@@ -2,9 +2,10 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	
+	
 	$name = trim($_POST["name"]);
     $email = trim($_POST["email"]);
-    $position = trim($_POST["position"]);
+    $position = $_POST["pos"];
     $project = trim($_POST["project"]);
     $q1 = trim($_POST["q1"]);
     $q2 = trim($_POST["q2"]);	
@@ -27,8 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
     
-    require_once("inc/phpMailer/class.phpmailer.php");
-
+    require_once("inc/phpMAILER/class.phpmailer.php");
     $mail = new PHPMailer();
     
     if (!$mail->ValidateAddress($email)) {
@@ -150,15 +150,27 @@ include('inc/header.php');
             <input type="text" id="name" name="name"><br />
             <label for="email">Email: *</label> <br />
             <input type="text" id="email" name="email"><br />
-            <label for="position">Position: *</label> <br />
-            <input type="text" id="position" name="position"><br />
+            <p><b>Position: *</b></p>
+            
+            <table>
+            <col width="200">
+    <tr>
+        <td><input type="radio" name="pos" value="Developer"> Developer </td>
+        <td><input type="radio" name="pos" value="Designer"> Designer </td>
+    </tr>
+    <tr>
+        <td><input type="radio" name="pos" value="Financial Guru"> Financial Officer </td>
+        <td><input type="radio" name="pos" value="Community Builder"> Community Builder </td>
+    </tr>
+</table><br/>
+            
             <label for="project">Projects/Portfolio: </label> <br />
             <input type="text" id="project" name="project"><br />
             <label for="q1">Why do you want to join?</label> (300 words or less)<br />
             <textarea name="q1" rows="5" cols="80" maxlength="1000" id="q1"></textarea> <br />
             <label for="q2">What will you bring to the table?</label> (300 words or less)<br />
             <textarea name="q2" rows="5" cols="80" maxlength="1000" id="q2"></textarea> <br />
-            <label for="q3">What is your favorite website/app and why?:</label> (300 words or less)<br />
+            <label for="q3">What is your favorite website/app and why?</label> (300 words or less)<br />
             <textarea name="q3" rows="5" cols="80" maxlength="1000" id="q3"></textarea> <br /> <br />
             <button onClick = <?php $success = true; ?>type="submit">Submit</button>
 
