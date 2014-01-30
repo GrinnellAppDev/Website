@@ -6,13 +6,15 @@ var uxd = false;
 var comm = false;
 $(document).ready(function() {
 	
-	var questions = ["How many windows are there in north campus?", "Why do the fire alarms in Haines trigger the fire alarms in the whole south campus?", "Do you know Betty, the dining hall lady?", "If you had 13 colorful marbles, which one would you give to Raynard Kington?", "How many female professors that teach at the college dye their hair?", "Is the green that I see, the green that you see?"];
+/*
+	var questions = ["How many windows are there in north campus?"];
 	
 	var num = Math.floor(Math.random() * questions.length);
 	
 	var selectedQuestion = questions[num];
 	
 	$("label[for='q3']").text(selectedQuestion);
+*/
 	
 	$(window).scroll($.debounce(500, true, function() {
 		$(".navbar-inverse").fadeTo("slow", 0.8);

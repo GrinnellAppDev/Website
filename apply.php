@@ -158,7 +158,7 @@ include('inc/header.php');
             <textarea name="q1" rows="5" cols="80" maxlength="1000" id="q1"></textarea> <br />
             <label for="q2">What will you bring to the table?</label> (300 words or less)<br />
             <textarea name="q2" rows="5" cols="80" maxlength="1000" id="q2"></textarea> <br />
-            <label for="q3">Random Question:</label> (300 words or less)<br />
+            <label for="q3">What is your favorite website/app and why?:</label> (300 words or less)<br />
             <textarea name="q3" rows="5" cols="80" maxlength="1000" id="q3"></textarea> <br /> <br />
             <button onClick = <?php $success = true; ?>type="submit">Submit</button>
 
