@@ -27,39 +27,6 @@ include('inc/header.php');
         </div>
     </div>
 
-<!--
-    <div class="container">
-        <div id="maijid"></div>
-
-        <div class="aboutContent" id="events">
-            <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell Events!</h1>
-
-                <p class="text-muted">"Lets users see all events happening on the college campus, and add them to their calendar."</p>
-
-                <p>The main view presents the user with an overview of all events sorted by day. Each event has attributes stating their name, location, and start and end time. By clicking on an event a user can see a more detailed description of the event, as well as add the event to their calendar. An graphical indicator lets the user know if they're available, unavailable, or are already attending a certain event. The user can specify what calendar they want to add the event to by going to the settings page. If a user wants to find a specific event, the main view provides a search function by title.</p>
-
-
-                <div class="col-lg-1"></div>
-
-                <div class="col-lg-4">
-                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu-iOS" target="_blank"><img src="img/noAppStore.png"></a>
-                </div>
-
-
-                <div class="col-lg-4">
-                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu" target="_blank"><img src="img/noGooglePlay.png"></a>
-                </div>
-            </div>
-
-            <div class="col-lg-5">
-            	<img class="portPics img-responsive" id="events1" src="img/eventsPhone.png">
-	            <img class="portPics img-responsive" id="events2" src="img/eventsPhone2.png">
-            </div>
-        </div>
-    </div>
--->
-
     <div class="container">
         <div id="maijid"></div>
 
@@ -130,7 +97,7 @@ include('inc/header.php');
 
         <div class="aboutContent" id="sandb">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span> </a>S&amp;B!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>S&amp;B!</h1>
 
                 <p class="text-muted">"Read the latest college news on the go!"</p>
 
@@ -183,6 +150,37 @@ include('inc/header.php');
                 </div>
                     
                 </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div id="maijid"></div>
+
+        <div class="aboutContent" id="events">
+            <div class="col-lg-7">
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell Events!</h1>
+
+                <p class="text-muted">"Lets users see all events happening on the college campus, and add them to their calendar."</p>
+
+                <p>The main view presents the user with an overview of all events sorted by day. Each event has attributes stating their name, location, and start and end time. By clicking on an event a user can see a more detailed description of the event, as well as add the event to their calendar. An graphical indicator lets the user know if they're available, unavailable, or are already attending a certain event. The user can specify what calendar they want to add the event to by going to the settings page. If a user wants to find a specific event, the main view provides a search function by title.</p>
+
+
+                <div class="col-lg-1"></div>
+
+                <div class="col-lg-4">
+                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu-iOS" target="_blank"><img src="img/noAppStore.png"></a>
+                </div>
+
+
+                <div class="col-lg-4">
+                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu" target="_blank"><img src="img/noGooglePlay.png"></a>
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+            	<img class="portPics img-responsive" id="events1" src="img/eventsPhone.png">
+	            <img class="portPics img-responsive" id="events2" src="img/eventsPhone2.png">
             </div>
         </div>
     </div>
