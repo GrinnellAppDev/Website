@@ -501,6 +501,14 @@ h4 {
 	display: none;
 }
 
+#db1 {
+	display: none;
+}
+
+#db2 {
+	display:none;
+}
+
 .inColor {
 	filter: blur(100%);
 	-webkit-filter: blur(100%);

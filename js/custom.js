@@ -201,4 +201,11 @@ $(document).ready(function() {
 		document.getElementById("gl2").style.display = "inline";
 		$("#gl2").addClass("animated fadeInDown");
 	}, { offset: '40%' });
+	
+	$('#db').waypoint(function() {
+		document.getElementById("db1").style.display = "inline";
+		$("#db1").addClass("animated fadeInRight");
+		document.getElementById("db2").style.display = "inline";
+		$("#db2").addClass("animated fadeInDown");
+	}, { offset: '40%' });
 });

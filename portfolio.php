@@ -27,6 +27,7 @@ include('inc/header.php');
         </div>
     </div>
 
+<!--
     <div class="container">
         <div id="maijid"></div>
 
@@ -54,6 +55,38 @@ include('inc/header.php');
             <div class="col-lg-5">
             	<img class="portPics img-responsive" id="events1" src="img/eventsPhone.png">
 	            <img class="portPics img-responsive" id="events2" src="img/eventsPhone2.png">
+            </div>
+        </div>
+    </div>
+-->
+
+    <div class="container">
+        <div id="maijid"></div>
+
+        <div class="aboutContent" id="db">
+            <div class="col-lg-7">
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell DB!</h1>
+
+                <p class="text-muted">"Stalking just got so much easier..."</p>
+
+                <p>DB is the mobile version of Grinnell College's campus directory. DB is fully supported on iOS and is coming soon on Android. It is optimized for both phone and tablet layouts. Because of certain restrictions, the application only works on campus when the user is connected to one of the secure college's networks like GrinnellCollegeStudent or GrinnellCollegeWireless. Otherwise you'll get a more limited description view of the person you're looking for.</p>
+
+
+                <div class="col-lg-1"></div>
+
+                <div class="col-lg-4">
+                	<a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img src="img/appleStore.png"></a>
+                </div>
+
+
+                <div class="col-lg-4">
+                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu" target="_blank"><img src="img/noGooglePlay.png"></a>
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+            	<img class="portPics img-responsive" id="db1" src="img/db1.png">
+	            <img class="portPics img-responsive" id="db2" src="img/db2.png">
             </div>
         </div>
     </div>
@@ -97,7 +130,7 @@ include('inc/header.php');
 
         <div class="aboutContent" id="sandb">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>S&amp;B!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span> </a>S&amp;B!</h1>
 
                 <p class="text-muted">"Read the latest college news on the go!"</p>
 
