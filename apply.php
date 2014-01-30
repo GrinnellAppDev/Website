@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
     
-    require_once("inc/phpMAILER/class.phpmailer.php");
+    require_once("inc/phpMailer/class.phpmailer.php");
     $mail = new PHPMailer();
     
     if (!$mail->ValidateAddress($email)) {
