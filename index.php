@@ -13,7 +13,7 @@ include('inc/header.php');
     <div class="jumbotron">
         <div class="container">
             <div class="page-header main-content">
-                <h1><img class="logo" src="img/adLogo.png" /></h1>
+                <h1><img class="logo img-responsive" src="img/adLogo.png" /></h1>
 
                 <h3>We make mobile apps!</h3>
                 

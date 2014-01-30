@@ -97,7 +97,7 @@ include('inc/header.php');
 
         <div class="aboutContent" id="sandb">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span> </a>S&amp;B!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>S&amp;B!</h1>
 
                 <p class="text-muted">"Read the latest college news on the go!"</p>
 
