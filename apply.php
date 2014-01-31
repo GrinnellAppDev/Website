@@ -162,6 +162,9 @@ include('inc/header.php');
         <td><input type="radio" name="pos" value="Financial Guru"> Financial Officer </td>
         <td><input type="radio" name="pos" value="Community Builder"> Community Builder </td>
     </tr>
+    <tr>
+    	<td><input type="radio" name="pos" value="Community Builder"> User Researcher </td>
+    </tr>
 </table><br/>
             
             <label for="project">Projects/Portfolio: </label> <br />
