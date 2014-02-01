@@ -90,7 +90,7 @@ include('inc/header.php');
 					<div class="col-lg-3">
 					<div class="jobPic" id="desi">
 						<img class="responsive jobs" src="img/designer.png">
-						<h2 id="designers"><span>(UX) Design</span></h2>
+						<h2 id="designers"><span>UX &amp; Design</span></h2>
 					</div>
 					</div>
 					<div class="col-lg-3">
@@ -163,7 +163,7 @@ include('inc/header.php');
         <td><input type="radio" name="pos" value="Community Builder"> Community Builder </td>
     </tr>
     <tr>
-    	<td><input type="radio" name="pos" value="Community Builder"> User Researcher </td>
+    	<td><input type="radio" name="pos" value="Community Builder"> UX Researcher </td>
     </tr>
 </table><br/>
             
