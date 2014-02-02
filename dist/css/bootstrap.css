@@ -4835,7 +4835,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
 	color: #ffffff;
-	background-color: #934c4c;
+	background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a:hover {
@@ -6086,6 +6086,15 @@ button.close {
   .modal-content {
     -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  }
+ 
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-inverse .navbar-nav > li > a:hover,
+  .navbar-inverse .navbar-nav > li > a:focus {
+	color: #ffffff;
+	background-color: #934c4c;
   }
 }
 
