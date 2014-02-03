@@ -39,12 +39,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$email_body = "";
 
     $email_body = $email_body 
-    . "Name: " . $name . "<br />" 
-    . "Email: " . $email . "<br />" 
-    . "Position: " . $position . "<br />"
-    . "Why do you want to join? " . $q1 . "<br />"
-    . "What will you bring to the table? " . $q2 . "<br />"
-    . "Random questions? " . $q3;
+    . "<b>" . "Name: " . "</b>" . $name . "<br />" . "<br />" 
+    . "<b>" . "Email: " . "</b>" . $email . "<br />" . "<br />" 
+    . "<b>" . "Position: " . "</b>" . $position . "<br />" .  "<br />". "<hr />"
+    . "<b>" . "Why do you want to join? " . "</b>". $q1 . "<br />" . "<br />" . "<hr />"
+    . "<b>" . "What will you bring to the table? " . "</b>" . $q2 . "<br />" . "<br />" . "<hr />"
+    . "<b>" . "Random questions? " . "</b>" . $q3;
 
     $mail->SetFrom($email, $name);
     $address = "appdev@grinnell.edu";
