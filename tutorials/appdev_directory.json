@@ -8,7 +8,8 @@
             "year": "2014",
             "role": "iOS Head",
             "cellphone": "3477624543",
-            "email": "moujaled@grinnell.edu"
+            "email": "moujaled@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/maijid.png"
         },
         {
             "id": 2,
@@ -16,55 +17,62 @@
             "year": "2015",
             "role": "Senior iOS Developer/Designer",
             "cellphone": "641XXXXXXX",
-            "email": "maroltso@grinnell.edu"
+            "email": "maroltso@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/lea.png"
         },
-        {
+         {
             "id": 3,
             "name": "Patrick",
             "year": "2015",
             "role": "Android Head",
             "cellphone": "641XXXXXXX",
-            "email": "triestpa@grinnell.edu"
+            "email": "triestpa@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/patrick.png"
         },
-        {
+         {
             "id": 4,
             "name": "Colin",
             "year": "2014",
             "role": "Senior iOS Developer",
             "cellphone": "641XXXXXXX",
-            "email": "tremblay@grinnell.edu"
+            "email": "tremblay@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/colin.png"
         },
-        {
+         {
             "id": 5,
             "name": "Spencer",
             "year": "2015",
             "role": "Senior Android Developer",
             "cellphone": "641XXXXXXX",
-            "email": "liberto@grinnell.edu"
+            "email": "liberto@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/spencer.png"
         },
-        {
+         {
             "id": 6,
             "name": "Tiffany",
             "year": "2016",
             "role": "Android Developer",
             "cellphone": "641XXXXXXX",
-            "email": "nguyenti@grinnell.edu"
+            "email": "nguyenti@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/tiffany.png"
         },
-        {
+         {
             "id": 7,
             "name": "Daniel",
             "year": "2015",
             "role": "iOS Developer",
-            "cellphone": "6412XXXXXX",
-            "email": "torresda@grinnell.edu"
+            "cellphone": "641XXXXXXX",
+            "email": "torresda@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/danielT.png"
         },
-        {
+         {
             "id": 8,
             "name": "Daniel",
             "year": "2016",
             "role": "Android Developer",
             "cellphone": "641XXXXXXX",
-            "email": "goldstein@grinnell.edu"
+            "email": "goldstein@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/danielG.png"
         }
     ]
 }
