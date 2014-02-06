@@ -133,6 +133,7 @@ include('inc/header.php');
         <div class="col-lg-6">
 
 	        <h2 class="center">Apply!</h2>
+	        <p class="redTitle center">Applications close on Sunday, Feb 9th 2014</p>
 	        
 	        <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for applying, we'll be in touch shortly!</p>
