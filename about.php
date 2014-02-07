@@ -26,7 +26,7 @@ include('inc/header.php');
         <div class="col-lg-6">
             <h1 id="ad">Grinnell AppDev</h1>
 
-            <p class="lead">... is a student-based mobile application development team from <em>Grinnell College</em> that designs, develops, and delopys mobile applications on the <em>iOS</em> and <em>Android</em> platforms. We come from different backgrounds, and parts of the world. Each one of us is an irreplacable part of the team that brings something unique and valuable to the team.</p>
+            <p class="lead">... is a student-based mobile application development team from <em>Grinnell College</em> that designs, develops, and deploys mobile applications on the <em>iOS</em> and <em>Android</em> platforms. We come from different backgrounds, and parts of the world. Each one of us is an irreplacable part of the team that brings something unique and valuable to the team.</p>
         </div>
 
         <div class="col-lg-1"></div>
