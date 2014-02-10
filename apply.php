@@ -77,7 +77,7 @@ include('inc/header.php');
                     <div class="page-header main-content">
                         <h1 class="redTitle">You wanna make apps, too?!</h1>
 
-                        <h3 class="redTitle">We're currently looking for:</h3>
+                        <h3 class="redTitle">Roles that we might be hiring for in the future:</h3>
 
                     <div id="jobOfferings">
 					<div class="col-lg-3">
@@ -129,11 +129,11 @@ include('inc/header.php');
         
          <div class="col-lg-12"></div>
         
-        <div class="col-lg-3"></div>
+<!--         <div class="col-lg-3"></div>
         <div class="col-lg-6">
 
 	        <h2 class="center">Apply!</h2>
-	        <p class="redTitle center">Applications close on Sunday, Feb 9th 2014</p>
+	        <p class="redTitle center">Applications have closed for the current semester! Check back in the Spring (:</p>
 	        
 	        <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for applying, we'll be in touch shortly!</p>
@@ -181,7 +181,7 @@ include('inc/header.php');
             </fieldset>
             </form>
         </div>
-        <div class="col-lg-3"></div>  
+        <div class="col-lg-3"></div>   -->
 
         </div>
         </div>
