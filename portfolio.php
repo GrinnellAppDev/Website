@@ -47,7 +47,7 @@ include('inc/header.php');
 
 
                 <div class="col-lg-4">
-                	<a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img src="img/GooglePlay.png"></a>
+                	<a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img src="img/googlePlay.png"></a>
                 </div>
             </div>
 

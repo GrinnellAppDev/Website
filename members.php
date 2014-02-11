@@ -67,7 +67,7 @@ include('inc/header.php');
                     <p><em>Patrick Triest</em><br>
                     Android Developer/Leader<br>
                     <a href="http://lnkd.in/b2yuUx9" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a><a href="https://github.com/triestpa" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-DB-Android/" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
                 </div>
 
                 <div class="col-lg-3">
@@ -94,7 +94,7 @@ include('inc/header.php');
                 <p><em>Spencer Liberto</em><br>
                 Android Developer<br>
                 <a href="https://www.linkedin.com/pub/spencer-liberto/54/310/986" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/liberto" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-DB-Android/" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
+                <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
             </div>
         </div>
 
@@ -135,7 +135,7 @@ include('inc/header.php');
                 <p><em>Daniel Goldstein</em><br>
                 Android Developer<br>
                 <a href="https://www.linkedin.com/pub/daniel-goldstein/64/752/468" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/goldstei1" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://github.com/GrinnellAppDev/Grinnell-DB-Android/" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
+                <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
             </div>
         </div>
     </div><!--
