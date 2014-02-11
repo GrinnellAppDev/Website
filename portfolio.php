@@ -47,13 +47,13 @@ include('inc/header.php');
 
 
                 <div class="col-lg-4">
-                	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu" target="_blank"><img src="img/noGooglePlay.png"></a>
+                	<a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img src="img/GooglePlay.png"></a>
                 </div>
             </div>
 
             <div class="col-lg-5">
             	<img class="portPics img-responsive" id="db1" src="img/db1.png">
-	            <img class="portPics img-responsive" id="db2" src="img/db2.png">
+	            <img class="portPics img-responsive" id="db2" src="img/dbandroid.png">
             </div>
         </div>
     </div>
@@ -80,9 +80,8 @@ include('inc/header.php');
                 	<a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img src="img/appleStore.png"></a>
                 </div>
 
-
                 <div class="col-lg-4">
-                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img src="img/googlePlay.png"></a>
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic" target="_blank"><img src="img/googlePlay.png"></a>
                 </div>
                 </div>
             </div>
