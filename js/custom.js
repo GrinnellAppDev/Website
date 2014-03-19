@@ -208,4 +208,11 @@ $(document).ready(function() {
 		document.getElementById("db2").style.display = "inline";
 		$("#db2").addClass("animated fadeInDown");
 	}, { offset: '40%' });
+	
+	$('#ft').waypoint(function() {
+		document.getElementById("ft1").style.display = "inline";
+		$("#ft1").addClass("animated fadeInRight");
+		document.getElementById("ft2").style.display = "inline";
+		$("#ft2").addClass("animated fadeInDown");
+	}, { offset: '40%' });
 });

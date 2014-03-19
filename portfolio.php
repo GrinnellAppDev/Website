@@ -26,17 +26,31 @@ include('inc/header.php');
             </div>
         </div>
     </div>
+    
+    
 
     <div class="container">
         <div id="maijid"></div>
 
-        <div class="aboutContent" id="db">
+        <div class="aboutContent" id="ft">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell DB!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Facetag!</h1>
 
-                <p class="text-muted">"Stalking just got so much easier..."</p>
+                    <p class="text-muted">"FaceTag is a fun game for Android and iOS. Developed at MHacks Winter 2014."</p>
 
-                <p>DB is the mobile version of Grinnell College's campus directory. DB is fully supported on iOS and is coming soon on Android. It is optimized for both phone and tablet layouts. Because of certain restrictions, the application only works on campus when the user is connected to one of the secure college's networks like GrinnellCollegeStudent or GrinnellCollegeWireless. Otherwise you'll get a more limited description view of the person you're looking for.</p>
+                    <p>
+
+Description: Set up a game with your friends and specify the duration of the game (time or points). Everyone will be given a target to tag! The first person to get a picture of their target's face gets a point and the game proceeds to the next round
+
+Game Rules:
+<ul>
+<li>Find your target and acquire a picture with their face clearly visible.</li>
+
+<li>Picture cannot be a picture of a picture.</li>
+
+<li>Other hunters will confirm that the picture is an original picture.</li>
+</ul>
+</p>
 
 
                 <div class="col-lg-1"></div>
@@ -47,18 +61,18 @@ include('inc/header.php');
 
 
                 <div class="col-lg-4">
-                	<a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img src="img/googlePlay.png"></a>
+                	<a href="https://github.com/GrinnellAppDev/FaceTag-Android" target="_blank"><img src="img/noGooglePlay.png"></a>
                 </div>
             </div>
 
             <div class="col-lg-5">
-            	<img class="portPics img-responsive" id="db1" src="img/db1.png">
-	            <img class="portPics img-responsive" id="db2" src="img/dbandroid.png">
+            	<img class="portPics img-responsive" id="ft1" src="img/facetag1.png">
+	            <img class="portPics img-responsive" id="ft2" src="img/facetag2.png">
             </div>
         </div>
     </div>
-
-    <div class="color">
+    
+        <div class="color">
         <div class="container">
             <div class="colorWrap">
             <div class="aboutContent" id="kdic">
@@ -94,29 +108,30 @@ include('inc/header.php');
     <div class="container">
         <div id="maijid"></div>
 
-        <div class="aboutContent" id="sandb">
+        <div class="aboutContent" id="db">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>S&amp;B!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell DB!</h1>
 
-                <p class="text-muted">"Read the latest college news on the go!"</p>
+                <p class="text-muted">"Stalking just got so much easier..."</p>
 
-                <p>S&amp;B is a nicely formatted mobile news reader for Grinnell College's Scarlet &amp; Black newspaper. It pulls the data from their respective website <a href="http://www.thesandb.com/">http://www.thesandb.com.</a>It sorts articles by section - News, Sports, Community, Opinion and Arts - and features photos from their paper. The app is updated weekly with each new issue of the paper. S&amp;B is fully supported on iOS and Android, and is optimized for both phone and tablet layouts. The iOS version is currently under major overhaul using the JSON Wordpress API plugin to incorporate a fresher design with a parallax effect. Check back soon for the new version!</p>
+                <p>DB is the mobile version of Grinnell College's campus directory. DB is fully supported on iOS and is coming soon on Android. It is optimized for both phone and tablet layouts. Because of certain restrictions, the application only works on campus when the user is connected to one of the secure college's networks like GrinnellCollegeStudent or GrinnellCollegeWireless. Otherwise you'll get a more limited description view of the person you're looking for.</p>
+
 
                 <div class="col-lg-1"></div>
+
                 <div class="col-lg-4">
-                	<a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img src="img/appleStore.png"></a>
+                	<a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img src="img/appleStore.png"></a>
                 </div>
 
 
                 <div class="col-lg-4">
-                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img src="img/googlePlay.png"></a>
+                	<a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img src="img/googlePlay.png"></a>
                 </div>
-                    
             </div>
 
             <div class="col-lg-5">
-	            <img class="portPics img-responsive" id="sandb1" src="img/sbAndroid1.png">
-	            <img class="portPics img-responsive" id="sandb2" src="img/sbAndroid2.png">
+            	<img class="portPics img-responsive" id="db1" src="img/db1.png">
+	            <img class="portPics img-responsive" id="db2" src="img/dbandroid.png">
             </div>
         </div>
     </div>
@@ -152,21 +167,55 @@ include('inc/header.php');
             </div>
         </div>
     </div>
-    
+
     <div class="container">
         <div id="maijid"></div>
 
-        <div class="aboutContent" id="events">
+        <div class="aboutContent" id="sandb">
             <div class="col-lg-7">
-                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>Grinnell Events!</h1>
+                <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a>S&amp;B!</h1>
 
-                <p class="text-muted">"Lets users see all events happening on the college campus, and add them to their calendar."</p>
+                <p class="text-muted">"Read the latest college news on the go!"</p>
+
+                <p>S&amp;B is a nicely formatted mobile news reader for Grinnell College's Scarlet &amp; Black newspaper. It pulls the data from their respective website <a href="http://www.thesandb.com/">http://www.thesandb.com.</a>It sorts articles by section - News, Sports, Community, Opinion and Arts - and features photos from their paper. The app is updated weekly with each new issue of the paper. S&amp;B is fully supported on iOS and Android, and is optimized for both phone and tablet layouts. The iOS version is currently under major overhaul using the JSON Wordpress API plugin to incorporate a fresher design with a parallax effect. Check back soon for the new version!</p>
+
+                <div class="col-lg-1"></div>
+                <div class="col-lg-4">
+                	<a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img src="img/appleStore.png"></a>
+                </div>
+
+
+                <div class="col-lg-4">
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img src="img/googlePlay.png"></a>
+                </div>
+                    
+            </div>
+
+            <div class="col-lg-5">
+	            <img class="portPics img-responsive" id="sandb1" src="img/sbAndroid1.png">
+	            <img class="portPics img-responsive" id="sandb2" src="img/sbAndroid2.png">
+            </div>
+        </div>
+    </div>
+
+    
+        <div class="color">
+        <div class="container">
+            <div class="colorWrap">
+            <div class="aboutContent" id="events">
+            <div class="col-lg-5">
+            	<img class="portPics img-responsive" id="events1" src="img/eventsPhone.png">
+	            <img class="portPics img-responsive" id="events2" src="img/eventsPhone2.png">
+            </div>
+
+                <div class="col-lg-7">
+                    <h1><a href="portfolio.php"><span class="glyphicon glyphicon-chevron-up"></span></a> Grinnell Events!</h1>
+
+                    <p class="text-muted">"Lets users see all events happening on the college campus, and add them to their calendar."</p>
 
                 <p>The main view presents the user with an overview of all events sorted by day. Each event has attributes stating their name, location, and start and end time. By clicking on an event a user can see a more detailed description of the event, as well as add the event to their calendar. An graphical indicator lets the user know if they're available, unavailable, or are already attending a certain event. The user can specify what calendar they want to add the event to by going to the settings page. If a user wants to find a specific event, the main view provides a search function by title.</p>
 
-
                 <div class="col-lg-1"></div>
-
                 <div class="col-lg-4">
                 	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu-iOS" target="_blank"><img src="img/noAppStore.png"></a>
                 </div>
@@ -175,14 +224,13 @@ include('inc/header.php');
                 <div class="col-lg-4">
                 	<a href="https://github.com/GrinnellAppDev/Grinnell-Menu" target="_blank"><img src="img/noGooglePlay.png"></a>
                 </div>
-            </div>
-
-            <div class="col-lg-5">
-            	<img class="portPics img-responsive" id="events1" src="img/eventsPhone.png">
-	            <img class="portPics img-responsive" id="events2" src="img/eventsPhone2.png">
+                </div>
+                    
+                </div>
             </div>
         </div>
     </div>
+    
 
 </div>
 

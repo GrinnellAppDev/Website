@@ -509,6 +509,14 @@ h4 {
 	display:none;
 }
 
+#ft1 {
+	display: none;
+}
+
+#ft2 {
+	display:none;
+}
+
 .inColor {
 	filter: blur(100%);
 	-webkit-filter: blur(100%);
