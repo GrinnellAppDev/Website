@@ -16,24 +16,17 @@ include('inc/header.php');
                 <div class="page-header main-content">
                     <h1>The faces behind the apps?!</h1>
                 </div>
-
-                <div class="col-lg-2"></div>
-
-                <div class="col-lg-8"></div>
-
-                <div class="col-lg-2"></div>
             </div>
         </div>
     </div>
 
     <div class="container">
         <div class="peeps">
-            <div class="col-lg-12">
-                <div class="col-lg-3">
+            <div class="col-md-12">
+                <div class="col-md-3">
                     <div class="maijidBox">
                         <div class="peeps_block" id="maijid1">
                             <a href="#maijid"><img class="responsive" id="maj" src="img/maijid.png"></a>
-
                             <p>Maijid</p>
                         </div>
 
@@ -44,7 +37,7 @@ include('inc/header.php');
                     </div>
                 </div>
 
-                <div class="col-lg-3">
+                <div class="col-md-3">
                     <div class="peeps_block" id="colin1">
                         <a href="#colin"><img class="responsive" src="img/colin.png"></a>
 
@@ -57,7 +50,7 @@ include('inc/header.php');
                     <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank"><img class="responsive appLogo" src="img/gLiciousLogo.png"></a> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
                 </div>
 
-                <div class="col-lg-3">
+                <div class="col-md-3">
                     <div class="peeps_block" id="patrick1">
                         <a href="#patrick"><img class="responsive" src="img/patrick.png"></a>
 
@@ -70,7 +63,7 @@ include('inc/header.php');
                     <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
                 </div>
 
-                <div class="col-lg-3">
+                <div class="col-md-3">
                     <div class="peeps_block" id="lea1">
                         <a href="#lea"><img class="responsive" src="img/lea.png"></a>
 
@@ -84,7 +77,7 @@ include('inc/header.php');
                 </div>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-md-3">
                 <div class="peeps_block" id="spencer1">
                     <a href="#spencer"><img class="responsive" src="img/spencer.png"></a>
 
@@ -99,7 +92,7 @@ include('inc/header.php');
         </div>
 
         <div class="peeps">
-            <div class="col-lg-3">
+            <div class="col-md-3">
                 <div class="peeps_block" id="danielT1">
                     <a href="#danielT"><img class="responsive" src="img/danielT.png"></a>
 
@@ -112,7 +105,7 @@ include('inc/header.php');
                 <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-md-3">
                 <div class="peeps_block" id="tiffany1">
                     <a href="#tiffany"><img class="responsive" src="img/tiffany.png"></a>
 
@@ -125,7 +118,7 @@ include('inc/header.php');
                 <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a></p>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-md-3">
                 <div class="peeps_block" id="danielG1">
                     <a href="#danielG"><img class="responsive" src="img/danielG.png"></a>
 

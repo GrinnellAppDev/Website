@@ -6,13 +6,13 @@ include('inc/header.php');
         <div class="about">
             <div class="container">
                 <div class="page-header main-content">
-                    <h1>We do things!</h1>
+                    <h1>Build Together.</h1>
 
                     <div class="col-lg-3"></div>
 
                     <div class="col-lg-6">
                         <div class="bottom">
-                            <p class="bottom">We're currently working on two projects. <em>FaceTag</em> is a game that lets you play tag with your friends. Our second application is based on bringing <em>Grinnell Plans</em> to mobile devices to make it more accessible for younger generations.</p>
+                            <p class="bottom"><em>Grinnell Appdev</em> is a student organization dedicated to creating software applications to serve both students and the larger Grinnell community.  We believe that a <em>collaborative</em> and <em>engaging</em> creation environment not only produces the best applications but also provides <em>valuable experience</em> and skillsets for Grinnell graduates to take with them on any career path.  Since 2012 Grinnell Appdev has trained the <em>next generation</em> of programmers and entrepreneurs to create and publicize a wide variety of products.</p>
                         </div>
 
                         <div class="col-lg-2"></div>
