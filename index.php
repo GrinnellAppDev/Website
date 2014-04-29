@@ -16,17 +16,13 @@ include('inc/header.php');
                 <h1><img class="logo img-responsive" src="img/adLogo.png" /></h1>
 
                 <h3>We make mobile apps!</h3>
-                
-             
+                             
             </div>
 
-            <div class="col-lg-1"></div>
+            <div class="col-md-5"><img class="img-responsive" src="img/introiOS.png"></div>
 
-            <div class="col-lg-5"><img class="img-responsive" src="img/introiOS.png"></div>
+            <div class="col-md-5"><img class="img-responsive" src="img/introAndroid.png"></div>
 
-            <div class="col-lg-5"><img class="img-responsive" src="img/introAndroid.png"></div>
-
-            <div class="col-lg-1"></div>
         </div>
     </div>
         
