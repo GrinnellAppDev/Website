@@ -19,9 +19,11 @@ include('inc/header.php');
                              
             </div>
 
-            <div class="col-md-5"><img class="img-responsive" src="img/introiOS.png"></div>
+            <center>
+            <div class="col-md-6"><img class="img-responsive" src="img/introiOS.png"></div>
 
-            <div class="col-md-5"><img class="img-responsive" src="img/introAndroid.png"></div>
+            <div class="col-md-6"><img class="img-responsive" src="img/introAndroid.png"></div>
+            </center>
 
         </div>
     </div>

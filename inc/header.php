@@ -10,6 +10,10 @@
     <link rel="shortcut icon" href="favicon.png">
 
     <title>Grinnell AppDev!</title><!-- Bootstrap core CSS -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <link rel="stylesheet" href="dist/source/jquery.fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="dist/source/jquery.fancybox.pack.js"></script>
     <link href="dist/css/bootstrap.css" rel="stylesheet" type="text/css"><!-- Custom styles for this template -->
     <link href="css/custom.css" rel="stylesheet" type="text/css"><!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -68,5 +72,4 @@
                 </div>
             </div>
         </div>
-</body>
-</html>
+

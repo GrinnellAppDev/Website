@@ -195,7 +195,7 @@ h4 {
 .color .members .container {
 	width: 100%;
 	height: 800px;
-	background-image: url("../img/groupPhoto.png");
+	background-image: url("../img/appdevGroup2.png");
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
@@ -311,11 +311,11 @@ h4 {
 .bioLogo {
 	max-width: 25px;
 	max-height: 25px;
-	filter: brightness(500%);
-	-webkit-filter: brightness(500%);
-	-moz-filter: brightness(500%);
-	-o-filter: brightness(500%);
-	-ms-filter: brightness(500%);
+	filter: saturate(0%);
+	-webkit-filter: saturate(0%);
+	-moz-filter: saturate(0%);
+	-o-filter: saturate(0%);
+	-ms-filter: saturate(0%);
 	transition-duration: 0s, 0s;
 	-webkit-transition-duration: 0s, 0s;
 	-moz-transition-duration: 0s, 0s;
@@ -337,8 +337,8 @@ h4 {
 }
 
 .appLogo {
-	max-width: 50px;
-	max-height: 50px;
+	max-width: 40px;
+	max-height: 40px;
 	padding: 5px 0px;
 	filter: grayscale(100%);
 	-webkit-filter: grayscale(100%);
@@ -774,5 +774,53 @@ code {
 	height:30px;
 }
 
+.profile {
+	width:150px; 
+	height:150px; 
+	border-radius: 50%;
+	border-color: #c66161;
+	border-width: 5px;
+	border-style: solid;
+	filter: saturate(0%);
+	-webkit-filter: saturate(0%);
+	-moz-filter: saturate(0%);
+	-o-filter: saturate(0%);
+	-ms-filter: saturate(0%);
+	transition-duration: 0s, 0s;
+	-webkit-transition-duration: 0s, 0s;
+	-moz-transition-duration: 0s, 0s;
+	-o-transition-duration: 0s, 0s;
+	-ms-transition-duration: 0s, 0s;
+}
 
+.profile:hover {
+	filter: none;
+	-webkit-filter: none;
+	-moz-filter: none;
+	-o-filter: none;
+	-ms-filter: none;
+	transition-duration: 0.5s, 0.3s;
+	-webkit-transition-duration: 0.5s, 0.3s;
+	-moz-transition-duration: 0.5s, 0.3s;
+	-o-transition-duration: 0.5s, 0.3s;
+	-ms-transition-duration: 0.5s, 0.3s;
+}
 
+.memberProfiles {
+	font-family:"Helvetica Neue";
+	font-weight: 200;
+}
+
+.profileStyle {
+	border-bottom-style:dotted; 
+	border-bottom-width:1px; 
+	border-bottom-color:#D8D8D8; 
+	padding-bottom:10px;
+	margin-bottom: 10px;
+}
+
+.gallery {
+	width:100px;
+	height:100px;
+	border-radius: 50%;
+}

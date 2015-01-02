@@ -5,6 +5,7 @@ var desi = false;
 var uxd = false;
 var comm = false;
 $(document).ready(function() {
+
 	
 /*
 	var questions = ["How many windows are there in north campus?", "Why do the fire alarms in Haines trigger the fire alarms in the whole south campus?", "Do you know Betty, the dining hall lady?", "If you had 13 colorful marbles, which one would you give to Raynard Kington?", "Some other random shit..."];
@@ -215,4 +216,5 @@ $(document).ready(function() {
 		document.getElementById("ft2").style.display = "inline";
 		$("#ft2").addClass("animated fadeInDown");
 	}, { offset: '40%' });
+
 });
