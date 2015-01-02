@@ -156,7 +156,7 @@ include('inc/header.php');
 
 
 <!-- LEADERSHIP -->
-<h1 style="background-color:; color:#c66161;">LEADERSHIP</h1>
+<h1 style="background-color:; color:#c66161;">LEADERSHIP & MANAGEMENT</h1>
 <!--  LEA -->
 
             <div class="col-md-12">
