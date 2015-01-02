@@ -1,14 +1,14 @@
 <?php 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-	
-	
-	$name = trim($_POST["name"]);
+    
+    
+    $name = trim($_POST["name"]);
     $email = trim($_POST["email"]);
     $position = $_POST["pos"];
     $project = trim($_POST["project"]);
     $q1 = trim($_POST["q1"]);
-    $q2 = trim($_POST["q2"]);	
+    $q2 = trim($_POST["q2"]);   
     $q3 = trim($_POST["q3"]);
     
     if ($name == "" or $email == "" or $position == "" or $q1 == "" or $q2 == "" or $q3 == "") {
@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
 
-	$email_body = "";
+    $email_body = "";
 
     $email_body = $email_body 
     . "<b>" . "Name: " . "</b>" . $name . "<br />" . "<br />" 
@@ -77,52 +77,56 @@ include('inc/header.php');
                     <div class="page-header main-content">
                         <h1 class="redTitle">You wanna make apps, too?!</h1>
 
-                        <h3 class="redTitle">Roles that we might be hiring for in the future:</h3>
+                        <h3 class="redTitle">Roles in AppDev:</h3>
 
                     <div id="jobOfferings">
-					<div class="col-lg-3">
-					<div class="jobPic" id="devs">
-						<img class="responsive jobs" src="img/developper.png" />
-						<h2 id="developers"><span>Engineering</span></h2>
-						</div>
-					</div>
-					</div>
-					<div class="col-lg-3">
-					<div class="jobPic" id="desi">
-						<img class="responsive jobs" src="img/designer.png">
-						<h2 id="designers"><span>UX &amp; Design</span></h2>
-					</div>
-					</div>
-					<div class="col-lg-3">
-					<div class="jobPic" id="uxd">
-						<img class="responsive jobs" src="img/ux.png">
-						<h2 id="ux"><span>Finance</span></h2>
-						
-					</div>
-					</div>
-					<div class="col-lg-3">
-					<div class="jobPic" id="comm">
-						<img class="responsive jobs" src="img/community.png" />
-						<h2 id="community"><span>Community</span></h2>
-						</div>
-					</div>
-					</div>
-					</div>	
-					
-					<div class="col-lg-12"></div>
-			
-										
+                    <div class="col-lg-3">
+                    <div class="jobPic" id="devs">
+                        <img class="responsive jobs" src="img/developper.png" />
+                        <h2 id="developers"><span>Engineering</span></h2>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-lg-3">
+                    <div class="jobPic" id="desi">
+                        <img class="responsive jobs" src="img/designer.png">
+                        <h2 id="designers"><span>UX &amp; Design</span></h2>
+                    </div>
+                    </div>
+                    <div class="col-lg-3">
+                    <div class="jobPic" id="uxd">
+                        <img class="responsive jobs" src="img/ux.png">
+                        <h2 id="ux"><span>Finance</span></h2>
+                        
+                    </div>
+                    </div>
+                    <div class="col-lg-3">
+                    <div class="jobPic" id="comm">
+                        <img class="responsive jobs" src="img/community.png" />
+                        <h2 id="community"><span>Community</span></h2>
+                        </div>
+                    </div>
+                    </div>
+                    </div>  
+                    
+                    <div class="col-lg-12"></div>
+            
+                                        
                     </div>
                 </div>
             </div>
         </div>
-        
+      
         <div class="container">
-        
+
+<div class="col-lg-5"></div>
+<div class="col-lg-2"><button><a href ="http://grinnellappdev.com/submitapplication.php" style= "font-size:25px; text-align:center; color:#B04F4F;">Apply Here</a></button></div>
+<div class="col-lg-5"></div></br></br></br>
+
         <div class="col-lg-3"></div>
         
         <div class="col-lg-6 jobRole">
-        	        
+                    
         </div>
         
          <div class="col-lg-3"></div>
@@ -132,10 +136,10 @@ include('inc/header.php');
 <!--         <div class="col-lg-3"></div>
         <div class="col-lg-6">
 
-	        <h2 class="center">Apply!</h2>
-	        <p class="redTitle center">Applications have closed for the current semester! Check back in the Spring (:</p>
-	        
-	        <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
+            <h2 class="center">Apply!</h2>
+            <p class="redTitle center">Applications have closed for the current semester! Check back in the Spring (:</p>
+            
+            <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for applying, we'll be in touch shortly!</p>
             <?php } if (isset($_GET["status"]) and $_GET["status"] == "spam") { ?>
             <p class="redForm">Are you trying to spam us? Shame on you!</p>
@@ -143,7 +147,7 @@ include('inc/header.php');
             <p class="redForm">The email you provided seems to be invalid. Please try again.</p>
             <?php } if (isset($_GET["status"]) and $_GET["status"] == "incomplete") { ?>
             <p class="redForm">Hey, you! You sent us an incomplete form. Shame on you! Please try again.</p> <?php } ?> 
-	        
+            
             <form class="form" action="apply.php" method="post" id="apply">
             <fieldset>
              
@@ -164,7 +168,7 @@ include('inc/header.php');
         <td><input type="radio" name="pos" value="Community Builder"> Community Builder </td>
     </tr>
     <tr>
-    	<td><input type="radio" name="pos" value="Community Builder"> UX Researcher </td>
+        <td><input type="radio" name="pos" value="Community Builder"> UX Researcher </td>
     </tr>
 </table><br/>
             
@@ -185,6 +189,8 @@ include('inc/header.php');
 
         </div>
         </div>
-    </div><?php 
+    </div>
+
+<?php 
     include('inc/footer.php'); 
     ?>

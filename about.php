@@ -41,15 +41,15 @@ include('inc/header.php');
     <div class="color">
         <div class="container">
             <div class="col-lg-4"><img class="img-responsive center aboutImg" src="img/development.png">
-	            <h3>Build</h3>
+                <h3>Build</h3>
             </div>
 
             <div class="col-lg-4"><img class="img-responsive center aboutImg" src="img/design.png">
-	           <h3>Design</h3>
+               <h3>Design</h3>
             </div>
 
             <div class="col-lg-4"><img class="img-responsive center aboutImg" src="img/enterpreneur.png">
-	            <h3>Invent</h3>
+                <h3>Invent</h3>
             </div>
             
             <div class="col-lg-12"></div>
@@ -66,7 +66,7 @@ include('inc/header.php');
             <div class="col-lg-5 bottom">
             <div class="circles">
             <p class="bottom">
-            	We're not only building mobile applications but a thriving community of creative thinkers and hackers. We want to include any interested person regardless of their technical and educational background to be a part of the innovative world of product building. Anyone and everyone can contribute!</p>
+                We're not only building mobile applications but a thriving community of creative thinkers and hackers. We want to include any interested person regardless of their technical and educational background to be a part of the innovative world of product building. Anyone and everyone can contribute!</p>
             </div>
             </div>
         </div>
