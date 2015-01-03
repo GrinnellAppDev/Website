@@ -32,6 +32,7 @@ include('inc/header.php');
                     </div>
                 </div>
             </div>
+<!--
             <div class="container">
                 <div id="maijid"></div>
                 <div class="aboutContent" id="ft">
@@ -205,7 +206,304 @@ include('inc/header.php');
                     </div>
                 </div>
             </div>
-        </div><?php 
+        </div> 
+        -->
+
+    <div class="container appProfiles">
+
+
+<!--  GRINNELL EVENTS -->
+</br></br>
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/eventsApp.png" class="appProfile" style="margin-top: 100px;"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Grinnell Events</h1>
+                    
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-Events-iOS">iOS Codebase</a> 
+                    | 
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android">Android Codebase</a>
+                    </br></br>
+                    <p>The absolute companion to any Grinnell College Student: Grinnell Events gathers all events on campus, 
+                    and lists them so you can see what's happening around Grinnell. Adding events to your calendar is a 
+                    piece of cake, Grinnell Events will even tell you if there's something on your calendar that conflicts 
+                    with the event you're viewing. With all the stuff happening around campus, why sit alone in your room 
+                    doing homework? Grinnell Events is here to help.
+                    </p>
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.events&hl=en" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- SCARLET & BLACK -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle" >
+                <center>
+                    <h1>Scarlet & Black</h1>
+
+                    <!-- iOS codebase -->
+                    <a href="https://github.com/GrinnellAppDev/SandB-iOS">iOS Codebase</a> 
+                    | 
+
+                    <!-- Android codebase -->
+                    <a href="https://github.com/GrinnellAppDev/SandB-Android">Android Codebase</a>
+                    </br></br>
+
+                    <!-- Description -->
+                    <p>Never miss a campus update! Read the <a href="http://www.thesandb.com/">Scarlet & Black</a> on the go. We hope you'll
+                    enjoy our sleek overhaul.
+                    </p>
+
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/scarlet-black/id925564328?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/sandbApp.png" class="appProfile" style="margin-top: 10px;"/>
+                    </br></br>
+                    </center>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
+<!--  GLICIOUS -->
+</br></br>
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/gliciousApp.png" class="appProfile" style="margin-top: 100px;"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>G-Licious</h1>
+                    
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-Menu-iOS">iOS Codebase</a> 
+                    | 
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-Menu">Android Codebase</a>
+                    </br></br>
+                    <p>G-licious is a quick, easy, and pleasurable way to check the Dining Menu for the Grinnell College Marketplace. 
+                    You can check the menu for today, tomorrow, or any day in the next week as and when a new menu becomes available. 
+                    You can also filter out choices by personal dietary concerns as well as view nutritional information for certain dishes.
+                    You can favorite dishes and whenever this dish is available for that day, it will be the first dish you see.
+                    </p>
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- DB -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle" >
+                <center>
+                    <h1>DB</h1>
+
+                    <!-- iOS codebase -->
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-DB-iOS">iOS Codebase</a> 
+                    | 
+
+                    <!-- Android codebase -->
+                    <a href="https://github.com/GrinnellAppDev/Grinnell-DB-Android">Android Codebase</a>
+                    </br></br>
+
+                    <!-- Description -->
+                    <p>A mobile interface for Grinnell College's Campus Directory, DB. Stalking just got so much easier...
+                    </p>
+
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/dbApp.png" class="appProfile" style="margin-top: 10px;"/>
+                    </br></br>
+                    </center>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
+<!--  #grinwell -->
+</br></br>
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/grinwellApp.png" class="appProfile" style="margin-top: 60px;"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>#grinwell</h1>
+                    
+                    <a href="https://github.com/GrinnellAppDev/GrinWell-iOS">iOS Codebase</a> 
+                    | 
+                    <a href="https://github.com/GrinnellAppDev/GrinWell-Android">Android Codebase</a>
+                    </br></br>
+                    <p>The President’s Wellness Challenge is a 12-week event for students, staff, and faculty. 
+                    The goal of the challenge is to motivate wellness behaviors in a number of dimensions. 
+                    President Kington will also be participating in the challenge and publicly posting his 
+                    progress to help motivate our campus community.
+                    </p>
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/grinwell/id921395710?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnellappdev.grinwell_android" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- KDIC -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle" >
+                <center>
+                    <h1>KDIC</h1>
+
+                    <!-- iOS codebase -->
+                    <a href="https://github.com/GrinnellAppDev/KDIC-Radio-iOS">iOS Codebase</a> 
+                    | 
+
+                    <!-- Android codebase -->
+                    <a href="https://github.com/GrinnellAppDev/KDIC-Radio-Android">Android Codebase</a>
+                    </br></br>
+
+                    <!-- Description -->
+                    <p>The KDIC Streaming App is a convenient way for anyone to tune into their favorite radio station, 
+                    KDIC, based out of Grinnell College, IA. The app allows you to pause and play the station 
+                    and view the show schedule.
+                    </p>
+
+                    <!-- iOS Store --> 
+                    <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank">
+                    <img class="responsive store" src="img/appleStore.png"></a>
+
+                    <!-- Google Play --> 
+                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic" target="_blank">
+                    <img class="responsive store" src="img/googlePlay.png"></a>
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/kdicApp.png" class="appProfile" style="margin-top: 20px;"/>
+                    </br></br>
+                    </center>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
+<!--  FACETAG -->
+</br></br>
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/facetagApp.png" class="appProfile" style="margin-top: 50px;"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>FaceTag</h1>
+                    
+                    <a href="https://github.com/GrinnellAppDev/FaceTag-iOS">iOS Codebase</a> 
+                    | 
+                    <a href="https://github.com/GrinnellAppDev/FaceTag-Android">Android Codebase</a>
+                    </br></br>
+                    <p>FaceTag was a fun game for Android and iOS. Developed at MHacks Winter 2014.
+                    Description: Set up a game with your friends and specify the duration of the game 
+                    (time or points). Everyone will be given a target to tag! The first person to get a 
+                    picture of their target's face gets a point and the game proceeds to the next round.
+                    Currently out of production.
+                    </p>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+</div></div>
+
+    <?php 
                     include('inc/footer.php'); 
                     ?>
     </body>
