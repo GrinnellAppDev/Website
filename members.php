@@ -4,31 +4,6 @@ include('inc/header.php');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
-<html>
-<head>
-    <title></title>
-
-    <!-- Add jQuery library -->
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-
-<!-- Add mousewheel plugin (this is optional) -->
-<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
-
-<!-- Add fancyBox -->
-<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
-<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-
-<!-- Optionally add helpers - button, thumbnail and/or media -->
-<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
-<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-
-<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-
-</head>
-
-<body>
     <div class="color">
         <div class="members">
             <div class="container">
@@ -38,119 +13,6 @@ include('inc/header.php');
             </div>
         </div>
     </div>
-
-<!--     <div class="container">
-        <div class="peeps">
-            <div class="col-md-12">
-                <div class="col-md-3">
-                    <div class="maijidBox">
-                        <div class="peeps_block" id="maijid1">
-                            <a href="#maijid"><img class="responsive" id="maj" src="img/maijid.png"></a>
-                            <p>Maijid</p>
-                        </div>
-
-                        <p><em>Maijid Moujaled</em><br>
-                        iOS Developer/Leader<br>
-                        <a href="https://www.linkedin.com/pub/maijid-moujaled/44/a42/873" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/drjid" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a> <a href="https://twitter.com/drjid" target="_blank"><img class="responsive bioLogo" src="img/twitterLogo.png"></a> <a href="http://www.cs.grinnell.edu/~moujaled/" target="_blank"><img class="responsive bioLogo" src="img/home.png"></a><br>
-                        <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank"><img class="responsive appLogo" src="img/gLiciousLogo.png"></a> <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-iOS" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a></p>
-                    </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="peeps_block" id="colin1">
-                        <a href="#colin"><img class="responsive" src="img/colin.png"></a>
-
-                        <p>Colin</p>
-                    </div>
-
-                    <p><em>Colin Tremblay</em><br>
-                    Senior iOS Developer<br>
-                    <a href="https://www.linkedin.com/in/colintremblay" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/tremblay" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a> <a href="http://www.colintremblay.com" target="_blank"><img class="responsive bioLogo" src="img/home.png"></a><br>
-                    <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank"><img class="responsive appLogo" src="img/gLiciousLogo.png"></a> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="peeps_block" id="patrick1">
-                        <a href="#patrick"><img class="responsive" src="img/patrick.png"></a>
-
-                        <p>Patrick</p>
-                    </div>
-
-                    <p><em>Patrick Triest</em><br>
-                    Android Developer/Leader<br>
-                    <a href="http://lnkd.in/b2yuUx9" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a><a href="https://github.com/triestpa" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><a href="https://twitter.com/p_triest" target="_blank"><img class="responsive bioLogo" src="img/twitterLogo.png"></a> <a href="http://ptriest.com/" target="_blank"><img class="responsive bioLogo" src="img/home.png"></a><br>
-                    <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic&hl=en" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="peeps_block" id="lea1">
-                        <a href="#lea"><img class="responsive" src="img/lea.png"></a>
-
-                        <p>Lea</p>
-                    </div>
-
-                    <p><em>Lea Marolt Sonnenschein</em><br>
-                    iOS Developer/Designer<br>
-                    <a href="https://si.linkedin.com/pub/lea-marolt-sonnenschein/31/b38/886/" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/leamars" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a> <a href="https://twitter.com/hellosunschein" target="_blank"><img class="responsive bioLogo" src="img/twitterLogo.png"></a> <a href="http://hellosunschein.com/" target="_blank"><img class="responsive bioLogo" src="img/home.png"></a><br>
-                    <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8"><img class="responsive appLogo" src="img/gLiciousLogo.png"></a> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://github.com/GrinnellAppDev/Grinnell-Events-iOS" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a></p>
-                </div>
-            </div>
-
-            <div class="col-md-3">
-                <div class="peeps_block" id="spencer1">
-                    <a href="#spencer"><img class="responsive" src="img/spencer.png"></a>
-
-                    <p>Spencer</p>
-                </div>
-
-                <p><em>Spencer Liberto</em><br>
-                Android Developer<br>
-                <a href="https://www.linkedin.com/pub/spencer-liberto/54/310/986" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/liberto" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
-            </div>
-        </div>
-
-        <div class="peeps">
-            <div class="col-md-3">
-                <div class="peeps_block" id="danielT1">
-                    <a href="#danielT"><img class="responsive" src="img/danielT.png"></a>
-
-                    <p>Daniel</p>
-                </div>
-
-                <p><em>Daniel Torres</em><br>
-                iOS Developer<br>
-                <a href="https://www.linkedin.com/pub/daniel-torres/68/151/b8b" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/torresda" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://itunes.apple.com/us/app/s-b/id638912711?mt=8" target="_blank"><img class="responsive appLogo" src="img/sbLogo.png"></a> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank"><img class="responsive appLogo" src="img/kdicLogo.png"></a> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
-            </div>
-
-            <div class="col-md-3">
-                <div class="peeps_block" id="tiffany1">
-                    <a href="#tiffany"><img class="responsive" src="img/tiffany.png"></a>
-
-                    <p>Tiffany</p>
-                </div>
-
-                <p><em>Tiffany Nguyen</em><br>
-                Android Developer<br>
-                <a href="https://www.linkedin.com/pub/tiffany-nguyen/82/a90/ab5" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/nguyenti" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://github.com/GrinnellAppDev/Grinnell-Events-Android" target="_blank"><img class="responsive appLogo" src="img/eventsLogo.png"></a></p>
-            </div>
-
-            <div class="col-md-3">
-                <div class="peeps_block" id="danielG1">
-                    <a href="#danielG"><img class="responsive" src="img/danielG.png"></a>
-
-                    <p>Daniel</p>
-                </div>
-
-                <p><em>Daniel Goldstein</em><br>
-                Android Developer<br>
-                <a href="https://www.linkedin.com/pub/daniel-goldstein/64/752/468" target="_blank"><img class="responsive bioLogo" src="img/linkedLogo.png"></a> <a href="https://github.com/goldstei1" target="_blank"><img class="responsive bioLogo" src="img/githubLogo.png"></a><br>
-                <a href="https://play.google.com/store/apps/details?id=edu.grinnell.appdev.grinnelldirectory" target="_blank"><img class="responsive appLogo" src="img/dbLogo.png"></a></p>
-            </div>
-        </div>
-    </div> -->
 
  <div class="container memberProfiles">
 
@@ -719,6 +581,7 @@ include('inc/header.php');
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a> -->
                     </center>
+                    </br></br></br></br>
 
                 </div>
                 <div class="col-md-5 profileStyle">
@@ -734,6 +597,7 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-3">
                 </div>
+
             </div>
 
 
@@ -905,6 +769,7 @@ include('inc/header.php');
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a> -->
                     </center>
+                    </br></br></br></br>
 
                 </div>
                 <div class="col-md-2">
@@ -915,50 +780,15 @@ include('inc/header.php');
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">COMMUNITY</h1>
 
-<!-- CHLOE -->
+<!--  CHLOE -->
 
             <div class="col-md-12">
 
-                <div class="col-md-3">
+                <div class="col-md-2">
                 </div>
-                <div class="col-md-5 profileStyle" >
-                <center>
-                    <h1>Chloe Williams</h1>
-                    Community Builder | History '16
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
                 <div class="col-md-2">
                     <center>
-                    </br>
                     <img src="img/defaultPerson.png" class="profile"/>
-                    </br></br>
-
-<!--                     <img class="responsive bioLogo" src="img/home.png"></a>
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a> -->
-                    </center>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
-<!--  JARREN -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/jarren.png" class="profile"/>
                     </br></br>
 <!-- 
                     <img class="responsive bioLogo" src="img/home.png"></a>
@@ -970,9 +800,8 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Jarren Santos</h1>
-                    Commuity Builder | Biological Chemistry '15
-                    </br>
+                    <h1>Chloe Williams</h1>
+                    Community Builder | History '16
 
                     </center>
                 </div>
@@ -980,17 +809,17 @@ include('inc/header.php');
                 </div>
             </div>
 
-<!-- MARK -->
+<!-- JARREN -->
 
             <div class="col-md-12">
 
                 <div class="col-md-3">
                 </div>
-                <div class="col-md-5 profileStyle">
+                <div class="col-md-5 profileStyle" >
                 <center>
-                    <h1>Mark Schwabacher</h1>
-                    Community Builder | Economics & Philosophy '17
-                    </br></br>
+                    <h1>Jarren Santos</h1>
+                    Commuity Builder | Biological Chemistry '15
+                    </br>
 <!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
                     <img class="responsive appLogo" src="img/eventsLogo.png"></a>
                     <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
@@ -1001,7 +830,7 @@ include('inc/header.php');
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/mark.png" class="profile"/>
+                    <img src="img/jarren.png" class="profile"/>
                     </br></br>
 
 <!--                     <img class="responsive bioLogo" src="img/home.png"></a>
@@ -1014,6 +843,39 @@ include('inc/header.php');
                 <div class="col-md-2">
                 </div>
             </div>
+
+<!--  MARK -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/mark.png" class="profile"/>
+                    </br></br>
+<!-- 
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a> -->
+                    </center>
+                    </br></br></br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Mark Schwabacher</h1>
+                    Community Builder | Economics & Philosophy '17
+                    </br></br>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- PAST MEMBERS -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">PAST MEMBERS</h1>
 
@@ -1186,7 +1048,7 @@ include('inc/header.php');
 
 </div>
 
-</br>
+<!-- </br>
 </br>
 </br>
 
@@ -1244,7 +1106,7 @@ include('inc/header.php');
 
 </br>
 </br>
-</br>
+</br> -->
 
 <script type="text/javascript">
 $(document).ready(function() {
