@@ -316,11 +316,11 @@ h4 {
 	-moz-filter: saturate(0%);
 	-o-filter: saturate(0%);
 	-ms-filter: saturate(0%);
-	transition-duration: 0s, 0s;
-	-webkit-transition-duration: 0s, 0s;
-	-moz-transition-duration: 0s, 0s;
-	-o-transition-duration: 0s, 0s;
-	-ms-transition-duration: 0s, 0s;
+	transition-duration: 0.2s, 0.1s;
+	-webkit-transition-duration: 0.2s, 0.1s;
+	-moz-transition-duration: 0.2s, 0.1s;
+	-o-transition-duration: 0.2s, 0.1s;
+	-ms-transition-duration: 0.2s, 0.1s;
 }
 
 .bioLogo:hover {
@@ -329,11 +329,11 @@ h4 {
 	-moz-filter: none;
 	-o-filter: none;
 	-ms-filter: none;
-	transition-duration: 0s, 0s;
-	-webkit-transition-duration: 0s, 0s;
-	-moz-transition-duration: 0s, 0s;
-	-o-transition-duration: 0s, 0s;
-	-ms-transition-duration: 0s, 0s;
+	transition-duration: 0.2s, 0.1s;
+	-webkit-transition-duration: 0.2s, 0.1s;
+	-moz-transition-duration: 0.2s, 0.1s;
+	-o-transition-duration: 0.2s, 0.1s;
+	-ms-transition-duration: 0.2s, 0.1s;
 }
 
 .appLogo {
@@ -345,11 +345,11 @@ h4 {
 	-moz-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
-	transition-duration: 0s, 0s;
-	-webkit-transition-duration: 0s, 0s;
-	-moz-transition-duration: 0s, 0s;
-	-o-transition-duration: 0s, 0s;
-	-ms-transition-duration: 0s, 0s;
+	transition-duration: 0.2s, 0.1s;
+	-webkit-transition-duration: 0.2s, 0.1s;
+	-moz-transition-duration: 0.2s, 0.1s;
+	-o-transition-duration: 0.2s, 0.1s;
+	-ms-transition-duration: 0.2s, 0.1s;
 }
 
 .appLogo:hover {
@@ -358,12 +358,14 @@ h4 {
 	-moz-filter: none;
 	-o-filter: none;
 	-ms-filter: none;
-	transition-duration: 0s, 0s;
-	-webkit-transition-duration: 0s, 0s;
-	-moz-transition-duration: 0s, 0s;
-	-o-transition-duration: 0s, 0s;
-	-ms-transition-duration: 0s, 0s;
+	transition-duration: 0.2s, 0.1s;
+	-webkit-transition-duration: 0.2s, 0.1s;
+	-moz-transition-duration: 0.2s, 0.1s;
+	-o-transition-duration: 0.2s, 0.1s;
+	-ms-transition-duration: 0.2s, 0.1s;
 }
+
+
 
 .container .peeps .peeps_block p {
 	position:absolute;
