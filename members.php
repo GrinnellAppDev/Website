@@ -699,7 +699,7 @@ include('inc/header.php');
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/shaun.png" class="profile"/>
                     </br></br>
                     <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
@@ -818,7 +818,7 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/albert.jpg" class="profile"/>
                     </br></br>
 
                     <a href="#" target="_blank">
@@ -913,7 +913,7 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/lexy.png" class="profile"/>
                     </br></br>
                     <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
@@ -965,7 +965,7 @@ include('inc/header.php');
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/sarah.png" class="profile"/>
                     </br></br>
 
                     <a href="#" target="_blank">
