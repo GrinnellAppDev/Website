@@ -511,7 +511,7 @@ include('inc/header.php');
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/patrickS.png" class="profile"/>
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
