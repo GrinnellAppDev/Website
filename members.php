@@ -1349,7 +1349,7 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/defaultPerson.png" class="profile"/>
+                    <img src="img/david.png" class="profile"/>
                     </br></br>
                     <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
