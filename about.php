@@ -48,7 +48,7 @@ include('inc/header.php');
                <h3>Design</h3>
             </div>
 
-            <div class="col-lg-4"><img class="img-responsive center aboutImg" src="img/enterpreneur.png">
+            <div class="col-lg-4"><img class="img-responsive center aboutImg" src="img/entrepreneur.png">
                 <h3>Invent</h3>
             </div>
             
