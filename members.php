@@ -1004,19 +1004,13 @@ https://github.com/pslough93" target="_blank">
                     <center>
                     <img src="img/mark.png" class="profile"/>
                     </br></br>
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
                     <a href="https://www.linkedin.com/profile/view?id=327587355&authType=NAME_SEARCH&authToken=Ex0N&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423429507184%2Ctas%3Amark%20Schwabacher%2Cidx%3A1-1-1" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.twitter.com/grinnellappdev" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
                     </br></br></br></br>
