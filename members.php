@@ -124,19 +124,19 @@ include('inc/header.php');
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
+                    <a href="http://triestpa.github.io" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/in/triestpa" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/triestpa" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://twitter.com/p_triest" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -213,23 +213,14 @@ include('inc/header.php');
                     </br>
                     <img src="img/larry.png" class="profile"/>
                     </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/in/larryboatengasante/" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="http://www.github.com/LarryAsanteBoateng" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
@@ -250,19 +241,19 @@ include('inc/header.php');
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.alexthemitchell.com" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/in/alexthemitchell" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://www.github.com/alexthemitchell" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.twitter.com/alexthemitchell" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -324,19 +315,19 @@ include('inc/header.php');
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
+                    <a href="http://samee24.github.io" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/in/samee24" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="http://www.github.com/samee24" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.twitter.com/samee24" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -357,22 +348,16 @@ include('inc/header.php');
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.cs.grinnell.edu/~kyaruzia17" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/in/ajunakyaruzi" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/kyaruzia17" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </br></br></br></br>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
@@ -392,58 +377,6 @@ include('inc/header.php');
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DEVELOPMENT</h1>
 
-<!-- SPENCER -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle" >
-                <center>
-                    <h1>Spencer Liberto</h1>
-                    Android Developer | Computer Science '15
-                    </br></br>
-
-                    <!-- GLICIOUS --> 
-                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
-
-                    <!-- DB --> 
-                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/spencer.png" class="profile"/>
-                    </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-
-                    </center>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
 <!--  DANIEL T -->
 
             <div class="col-md-12">
@@ -454,21 +387,17 @@ include('inc/header.php');
                     <center>
                     <img src="img/danielT.png" class="profile"/>
                     </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/profile/view?id=239234651&trk=nav_responsive_tab_profile" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/torresda" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://twitter.com/dmaxtorres" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -513,23 +442,15 @@ include('inc/header.php');
                     </br>
                     <img src="img/patrickS.png" class="profile"/>
                     </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a
+https://github.com/pslough93" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
@@ -639,22 +560,14 @@ include('inc/header.php');
                     <center>
                     <img src="img/tiffany.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/in/nguyenti" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/nguyenti" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
@@ -789,19 +702,19 @@ include('inc/header.php');
                     <img src="img/michael.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
+                    <a href="http://www.cs.grinnell.edu/~owusumic17/" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/pub/michael-owusu/a3/403/3a1" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/mkowusu" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://twitter.com/Mike_Owusu" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -809,52 +722,6 @@ include('inc/header.php');
                 <div class="col-md-2">
                 </div>
             </div>
-
-<!-- ALBERT -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/albert.jpg" class="profile"/>
-                    </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-                    </br></br></br></br>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Albert Owusu-Asare</h1>
-                    Android Developer | Computer Science '17
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-                <div class="col-md-3">
-                </div>
-
-            </div>
-
 
 <!-- DESIGN & UX -->
 
@@ -884,21 +751,12 @@ include('inc/header.php');
                     <img src="img/caleb.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
+                    <a href="calebsponheim.com" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="www.linkedin.com/in/calebsponheim" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
@@ -915,19 +773,13 @@ include('inc/header.php');
                     <center>
                     <img src="img/lexy.png" class="profile"/>
                     </br></br>
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="www.linkedin.com/in/alexisgreenwell" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="www.twitter.com/LexyLGreenwell" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -967,22 +819,14 @@ include('inc/header.php');
                     </br>
                     <img src="img/sarah.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="http://http://www.github.com/sarahtrop" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
@@ -1058,22 +902,12 @@ include('inc/header.php');
                     <img src="img/chris.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
+                    <a href="www.leechris.net" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-                    </br></br></br></br>
 
                 </div>
                 <div class="col-md-2">
@@ -1145,20 +979,13 @@ include('inc/header.php');
                     </br>
                     <img src="img/jarren.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="www.linkedin.com/in/jarrenLS" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://twitter.com/JarrenLS" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -1210,6 +1037,54 @@ include('inc/header.php');
 <!-- PAST MEMBERS -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">PAST MEMBERS</h1>
+
+<!--  SPENCER -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/spencer.png" class="profile"/>
+                    </br></br>
+
+                    <!-- PERSONAL WEBSITE -->
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Spencer Liberto</h1>
+                    Android Developer | Computer Science '15
+                    </br></br>
+                    <!-- gLicious --> 
+                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
+                    <img class="responsive appLogo" src="img/g/LiciousLogo.png"></a>
+
+                    <!-- DB --> 
+                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
 
 <!-- CHRISTINE -->
 
