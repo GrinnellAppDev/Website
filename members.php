@@ -377,6 +377,51 @@ include('inc/header.php');
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DEVELOPMENT</h1>
 
+<!-- MIKE-->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Michael Owusu</h1>
+                    Android Developer | Computer Science '17
+                    </br></br>
+<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
+                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/michael.png" class="profile"/>
+                    </br></br>
+
+                    <a href="http://www.cs.grinnell.edu/~owusumic17/" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="https://www.linkedin.com/pub/michael-owusu/a3/403/3a1" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href="https://github.com/mkowusu" target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href="https://twitter.com/Mike_Owusu" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
 <!--  DANIEL T -->
 
             <div class="col-md-12">
@@ -678,51 +723,6 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- MIKE-->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Michael Owusu</h1>
-                    Android Developer | Computer Science '17
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/michael.png" class="profile"/>
-                    </br></br>
-
-                    <a href="http://www.cs.grinnell.edu/~owusumic17/" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/pub/michael-owusu/a3/403/3a1" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="https://github.com/mkowusu" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="https://twitter.com/Mike_Owusu" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
 <!-- DESIGN & UX -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DESIGN & UX</h1>
@@ -983,7 +983,7 @@ https://github.com/pslough93" target="_blank">
                     <!-- LINKEDIN -->
                     <a href="www.linkedin.com/in/jarrenLS" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
+
                     <!-- TWITTER -->
                     <a href="https://twitter.com/JarrenLS" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
