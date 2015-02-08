@@ -69,7 +69,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="sr-only">Toggle navigation</span></button> 
-                        <a class="navbar-brand" href="index.php"><img style="max-width:100px; margin: 0px; padding: 0px; margin-top: -10px; margin-left: -25px; margin-right:10px;" src="logoSmall.png"> Grinnell AppDev</a>
+                        <a class="navbar-brand" href="index.php"><img style="max-width:100px; margin: 0px; padding: 0px; margin-top: -10px; margin-left: -25px; margin-right:10px;" src="whiteAppDevLogo.png"> Grinnell AppDev</a>
                     </div>
 
                     <div class="collapse navbar-collapse">
