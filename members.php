@@ -573,22 +573,14 @@ https://github.com/pslough93" target="_blank">
                     </br>
                     <img src="img/danielG.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/profile/view?id=228784400&trk=nav_responsive_tab_profile_pic" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/goldstei1" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
