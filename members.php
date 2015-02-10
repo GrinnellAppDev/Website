@@ -651,19 +651,19 @@ https://github.com/pslough93" target="_blank">
                     </br>
                     <img src="img/shaun.png" class="profile"/>
                     </br></br>
-                    <a href="#" target="_blank">
+                    <a href="http://www.cs.grinnell.edu/~mataires/" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/pub/shaun-mataire/76/226/46a" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/shaun117" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="#" target="_blank">
+                    <a href="https://twitter.com/shaun_shn" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
