@@ -743,11 +743,11 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/caleb.png" class="profile"/>
                     </br></br>
 
-                    <a href="calebsponheim.com" target="_blank">
+                    <a href="http://calebsponheim.com" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="www.linkedin.com/in/calebsponheim" target="_blank">
+                    <a href="http://www.linkedin.com/in/calebsponheim" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
 
                 </div>
@@ -767,11 +767,11 @@ https://github.com/pslough93" target="_blank">
                     </br></br>
                     
                     <!-- LINKEDIN -->
-                    <a href="www.linkedin.com/in/alexisgreenwell" target="_blank">
+                    <a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="www.twitter.com/LexyLGreenwell" target="_blank">
+                    <a href="http://www.twitter.com/LexyLGreenwell" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
@@ -894,7 +894,7 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/chris.png" class="profile"/>
                     </br></br>
 
-                    <a href="www.leechris.net" target="_blank">
+                    <a href="http://www.leechris.net" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
@@ -973,7 +973,7 @@ https://github.com/pslough93" target="_blank">
                     </br></br>
                     
                     <!-- LINKEDIN -->
-                    <a href="www.linkedin.com/in/jarrenLS" target="_blank">
+                    <a href="http://www.linkedin.com/in/jarrenLS" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
 
                     <!-- TWITTER -->
@@ -1035,23 +1035,6 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/spencer.png" class="profile"/>
                     </br></br>
 
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
@@ -1096,22 +1079,6 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/christine.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
                 </div>
                 <div class="col-md-2">
                 </div>
@@ -1127,22 +1094,6 @@ https://github.com/pslough93" target="_blank">
                     <center>
                     <img src="img/maijid.png" class="profile"/>
                     </br></br>
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
@@ -1181,22 +1132,6 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/defaultPerson.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
                 </div>
                 <div class="col-md-2">
                 </div>
@@ -1212,21 +1147,6 @@ https://github.com/pslough93" target="_blank">
                     <center>
                     <img src="img/david.png" class="profile"/>
                     </br></br>
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
@@ -1265,22 +1185,6 @@ https://github.com/pslough93" target="_blank">
                     </br>
                     <img src="img/defaultPerson.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-2">
