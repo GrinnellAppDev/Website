@@ -51,7 +51,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Lea Marolt Sonnenschein</h1>
-                    Team Lead | Lead iOS Developer | Computer Science '15
+                    iOS Lead | Computer Science '15
                     </br></br>
                     <!-- S&B --> 
                     <!-- iOS --> <a href="https://itunes.apple.com/us/app/scarlet-black/id925564328?mt=8" target="_blank">
@@ -88,7 +88,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle" >
                 <center>
                     <h1>Patrick Triest</h1>
-                    Team Lead | Lead Android Developer | Computer Science '15
+                    Android Lead | Computer Science '15
                     </br></br>
                     <!-- S&B --> 
                     <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank">
@@ -227,53 +227,30 @@ include('inc/header.php');
                 </div>
             </div>
 
-
-
-<!--  ALEX -->
-
-            <div class="col-md-12">
+<!-- CALEB -->
+ <div class="col-md-12">
 
                 <div class="col-md-2">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/alex.png" class="profile"/>
+                    <img src="img/caleb.png" class="profile"/>
                     </br></br>
 
                     <!-- PERSONAL WEBSITE -->
-                    <a href="http://www.alexthemitchell.com" target="_blank">
+                    <a href="http://calebsponheim.com" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/in/alexthemitchell" target="_blank">
+                    <a href="http://www.linkedin.com/in/calebsponheim" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="https://www.github.com/alexthemitchell" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="https://www.twitter.com/alexthemitchell" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Alex Mitchell</h1>
-                    Team Lead in Training | iOS Developer | Computer Science & Mathematics '17
-                    </br></br>
-                    <!-- GRINNELL EVENTS --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/grinnellEventsLogo.png"></a>
-
-                    <!-- GLICIOUS --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
-
-                    <!-- DB --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
+                    <h1>Caleb Sponheim/h1>
+                    Design Lead, UX, Education| Psychology & Neuroscience '15
+                    </br>
 
                     </center>
                 </div>
@@ -281,7 +258,8 @@ include('inc/header.php');
                 </div>
             </div>
 
-<!-- SAMEE -->
+
+<!-- ALEX-->
 
             <div class="col-md-12">
 
@@ -289,12 +267,89 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Samee Zahid</h1>
-                    Team Lead in Training | Android Developer | Computer Science '17
+                    <h1>Alex Mitchell</h1>
+                   iOS Lead in Training | Computer Science & Mathematics '17
                     </br></br>
 
+                    <!--GRINNELL EVENTS--> 
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8" target=">
+                    <img class="responsive appLogo" src=" img/grinnellEventsLogo.png "></a>
+
                     <!-- GLICIOUS --> 
-                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target=">
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
+
+                    <!-- DB --> 
+                    <!-- Android --> <a href"https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">>
+                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/alex.png" class="profile"/>
+                    </br></br>
+
+                    <!-- PERSONAL WEBSITE -->
+                    <a href=" http://www.alexthemitchell.com " target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href=" https://www.linkedin.com/in/alexthemitchell " target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href=" https://www.github.com/alexthemitchell " target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href=" https://www.twitter.com/alexthemitchell " target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
+<!--  SAMEE -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/samee.png" class="profile"/>
+                    </br></br>
+
+                    <!-- PERSONAL WEBSITE -->
+                    <a href=" http://samee24.github.io " target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href=" http://www.linkedin.com/in/samee24" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href=" http://www.github.com/samee24" target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href=" http://www.twitter.com/samee24" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Samee Zahid</h1>
+                    Android Lead in Training | Computer Science '17
+                    </br></br>
+                    <!-- GLICIOUS --> 
+                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank”>
                     <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
 
                     <!-- GRINWELL --> 
@@ -307,43 +362,25 @@ include('inc/header.php');
 
                     </center>
                 </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- AJUNA-->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Ajuna Kyaruzi</h1>
+Financial Manager in Training | Computer Science '17
+                    </br></br>
 
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/samee.png" class="profile"/>
-                    </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="http://samee24.github.io" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="http://www.linkedin.com/in/samee24" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="http://www.github.com/samee24" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="http://www.twitter.com/samee24" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
-<!-- AJUNA -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
                     <img src="img/ajuna.png" class="profile"/>
                     </br></br>
 
@@ -352,7 +389,7 @@ include('inc/header.php');
                     <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/in/ajunakyaruzi" target="_blank">
+                    <a href=” https://www.linkedin.com/in/ajunakyaruzi " target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
@@ -360,18 +397,9 @@ include('inc/header.php');
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
 
                 </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Ajuna Kyaruzi</h1>
-                    Financial Manager in Training | Computer Science '17
-
-                    </center>
+                <div class="col-md-2">
                 </div>
-                <div class="col-md-3">
-                </div> 
             </div>
-
-
 
 <!-- DEVELOPMENT -->
 
@@ -718,42 +746,6 @@ https://github.com/pslough93" target="_blank">
 <!-- DESIGN & UX -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DESIGN & UX</h1>
-
-<!-- CALEB -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle" >
-                <center>
-                    <h1>Caleb Sponheim</h1>
-                    UX, Design, Human Factors | Psychology & Neuroscience '15
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/caleb.png" class="profile"/>
-                    </br></br>
-
-                    <a href="http://calebsponheim.com" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="http://www.linkedin.com/in/calebsponheim" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
 
 <!--  LEXY -->
 
