@@ -155,23 +155,10 @@ include('inc/header.php');
                     <center>
                     <img src="img/nathalie.png" class="profile"/>
                     </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="http://www.linkedin.com/in/nathalieford" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
@@ -269,6 +256,7 @@ include('inc/header.php');
                     <h1>Alex Mitchell</h1>
                    iOS Lead in Training | Computer Science & Mathematics '17
                     </br></br>
+
                     <!-- GLICIOUS --> 
                     <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
                     <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
@@ -278,7 +266,7 @@ include('inc/header.php');
                     <img class="responsive appLogo" src="img/grinnellEventsLogo.png"></a>
 
                     <!-- DB --> 
-                    <!-- iOS --> <a href"https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">>
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank">
                     <img class="responsive appLogo" src="img/dbLogo.png"></a>
 
                     </center>
@@ -590,7 +578,7 @@ https://github.com/pslough93" target="_blank">
                     </br></br>
 
                     <!-- DB --> 
-                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <!-- Android --> <a href="https://itunes.apple.com/us/app/grinnell-db/id726496362?mt=8" target="_blank">
                     <img class="responsive appLogo" src="img/dbLogo.png"></a>
 
                     </center>
