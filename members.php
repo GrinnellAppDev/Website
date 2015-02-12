@@ -269,17 +269,16 @@ include('inc/header.php');
                     <h1>Alex Mitchell</h1>
                    iOS Lead in Training | Computer Science & Mathematics '17
                     </br></br>
-
-                    <!--GRINNELL EVENTS--> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8" target=">
-                    <img class="responsive appLogo" src=" img/grinnellEventsLogo.png "></a>
-
                     <!-- GLICIOUS --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target=">
+                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
                     <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
+                    
+                    <!-- GRINNELL EVENTS --> 
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/grinnellEventsLogo.png"></a>
 
                     <!-- DB --> 
-                    <!-- Android --> <a href"https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">>
+                    <!-- iOS --> <a href"https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">>
                     <img class="responsive appLogo" src="img/dbLogo.png"></a>
 
                     </center>
