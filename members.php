@@ -51,7 +51,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Lea Marolt Sonnenschein</h1>
-                    iOS Lead | Computer Science '15
+                    iOS Lead Developer | Computer Science '15
                     </br></br>
                     <!-- S&B --> 
                     <!-- iOS --> <a href="https://itunes.apple.com/us/app/scarlet-black/id925564328?mt=8" target="_blank">
@@ -88,7 +88,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle" >
                 <center>
                     <h1>Patrick Triest</h1>
-                    Android Lead | Computer Science '15
+                    Android Lead Developer | Computer Science '15
                     </br></br>
                     <!-- S&B --> 
                     <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.sandb" target="_blank">
