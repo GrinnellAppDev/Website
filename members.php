@@ -957,7 +957,7 @@ https://github.com/pslough93" target="_blank">
                 <div class="col-md-5 profileStyle" >
                 <center>
                     <h1>Jarren Santos</h1>
-                    Commuity Builder | Biological Chemistry '15
+                    Commuity Builder | Biological Chemistry '17
                     </br>
 <!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
                     <img class="responsive appLogo" src="img/eventsLogo.png"></a>
@@ -1026,7 +1026,7 @@ https://github.com/pslough93" target="_blank">
 
 <!--  SPENCER -->
 
-            <div class="col-md-12">
+            <div class="col-md-12" style="background-color: #D8D8D8;">
 
                 <div class="col-md-2">
                 </div>
