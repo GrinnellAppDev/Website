@@ -248,9 +248,9 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Caleb Sponheim/h1>
+                    <h1>Caleb Sponheim<h1>
                     Design Lead, UX, Education| Psychology & Neuroscience '15
-                    </br>
+                    </br></br>
 
                     </center>
                 </div>
@@ -366,24 +366,17 @@ include('inc/header.php');
                 </div>
             </div>
 
-<!-- AJUNA-->
+<!--  AJUNA -->
 
             <div class="col-md-12">
 
-                <div class="col-md-3">
+                <div class="col-md-2">
                 </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Ajuna Kyaruzi</h1>
-Financial Manager in Training | Computer Science '17
-                    </br></br>
-
                 <div class="col-md-2">
                     <center>
-                    </br>
                     <img src="img/ajuna.png" class="profile"/>
                     </br></br>
-
+                    
                     <!-- PERSONAL WEBSITE -->
                     <a href="http://www.cs.grinnell.edu/~kyaruzia17" target="_blank">
                     <img class="responsive bioLogo" src="img/home.png"></a>
@@ -397,7 +390,15 @@ Financial Manager in Training | Computer Science '17
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
 
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Ajuna Kyuzari</h1>
+                    Financial Manager in Training| Computer Science '17
+                    </br></br>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
                 </div>
             </div>
 
