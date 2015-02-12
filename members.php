@@ -1043,7 +1043,7 @@ https://github.com/pslough93" target="_blank">
                     </br></br>
                     <!-- gLicious --> 
                     <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
-                    <img class="responsive appLogo" src="img/g/LiciousLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
 
                     <!-- DB --> 
                     <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
