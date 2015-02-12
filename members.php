@@ -248,7 +248,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Caleb Sponheim</h1>
-                    Design Lead, UX, Education| Psychology & Neuroscience '15
+                    Design Lead, UX, Education | Psychology & Neuroscience '15
                     </br>
 
                     </center>
