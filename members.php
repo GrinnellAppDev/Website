@@ -732,43 +732,6 @@ https://github.com/pslough93" target="_blank">
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DESIGN & UX</h1>
 
-<!-- SARAH -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Sarah Trop</h1>
-                    Design | Computer Science '17
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/sarah.png" class="profile"/>
-                    </br></br>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="http://http://www.github.com/sarahtrop" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
 <!--  LEXY -->
 
             <div class="col-md-12">
@@ -802,7 +765,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- CHRIS -->
+<!-- SARAH -->
 
             <div class="col-md-12">
 
@@ -810,8 +773,8 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Chris Lee</h1>
-                    UX | Economics '15
+                    <h1>Sarah Trop</h1>
+                    Design | Computer Science '17
                     </br></br>
 <!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
                     <img class="responsive appLogo" src="img/eventsLogo.png"></a>
@@ -823,15 +786,16 @@ https://github.com/pslough93" target="_blank">
                 <div class="col-md-2">
                     <center>
                     </br>
-                    <img src="img/chris.png" class="profile"/>
+                    <img src="img/sarah.png" class="profile"/>
                     </br></br>
-
-                    <a href="http://www.leechris.net" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
+                    <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href="http://http://www.github.com/sarahtrop" target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
 
                 </div>
                 <div class="col-md-2">
@@ -881,9 +845,69 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
+<!-- CHRIS -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Chris Lee</h1>
+                    UX | Economics '15
+                    </br></br>
+<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
+                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/chris.png" class="profile"/>
+                    </br></br>
+
+                    <a href="http://www.leechris.net" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+
 <!-- COMMUNITY -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">COMMUNITY</h1>
+
+<!-- CHLOE-->
+
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/mark.png" class="profile"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Chloe Williams</h1>
+                    Community Builder | History '16
+                    </br></br>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
 
 <!-- JARREN -->
 
@@ -954,35 +978,6 @@ https://github.com/pslough93" target="_blank">
                     </center>
                 </div>
                 <div class="col-md-3">
-                </div>
-            </div>
-
-<!-- CHLOE-->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle" >
-                <center>
-                    <h1>Chloe Williams</h1>
-                    Commuity Builder | History '16'
-                    </br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/defaultPerson.png" class="profile"/>
-                    </br></br>
-
-                </div>
-                <div class="col-md-2">
                 </div>
             </div>
 
