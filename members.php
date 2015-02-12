@@ -392,6 +392,49 @@ include('inc/header.php');
 <!-- DEVELOPMENT -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DEVELOPMENT</h1>
+<!--  DANIEL T -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/danielT.png" class="profile"/>
+                    </br></br>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="https://www.linkedin.com/profile/view?id=239234651&trk=nav_responsive_tab_profile" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- GITHUB  -->   
+                    <a href="https://github.com/torresda" target="_blank">
+                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href="https://twitter.com/dmaxtorres" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Daniel Torres</h1>
+                    iOS Developer | Computer Science '15
+                    </br></br>
+                    <!-- S&B --> 
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/scarlet-black/id925564328?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/sandbLogo.png"></a>
+
+                    <!-- KDIC --> 
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/kdicLogo.png"></a>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
 
 <!-- MIKE-->
 
@@ -438,7 +481,7 @@ include('inc/header.php');
                 </div>
             </div>
 
-<!--  DANIEL T -->
+<!--  TY -->
 
             <div class="col-md-12">
 
@@ -446,35 +489,36 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/danielT.png" class="profile"/>
+                    <img src="img/ty.png" class="profile"/>
                     </br></br>
+
+                    <!-- PERSONAL WEBSITE -->
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/profile/view?id=239234651&trk=nav_responsive_tab_profile" target="_blank">
+                    <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="https://github.com/torresda" target="_blank">
+                    <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
                     
                     <!-- TWITTER -->
-                    <a href="https://twitter.com/dmaxtorres" target="_blank">
+                    <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
                     </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Daniel Torres</h1>
-                    iOS Developer | Computer Science '15
+                    <h1>Tyler Dewey</h1>
+                    iOS Developer | Computer Science '16
                     </br></br>
-                    <!-- S&B --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/scarlet-black/id925564328?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/sandbLogo.png"></a>
 
-                    <!-- KDIC --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/kdic/id740353767?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/kdicLogo.png"></a>
+                    <!-- GLICIOUS --> 
+                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
 
                     </center>
                 </div>
@@ -518,9 +562,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-
-
-<!--  TY -->
+<!-- TIFFANY -->
 
             <div class="col-md-12">
 
@@ -528,35 +570,30 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/ty.png" class="profile"/>
+                    <img src="img/tiffany.png" class="profile"/>
                     </br></br>
-
-                    <!-- PERSONAL WEBSITE -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/in/nguyenti" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/nguyenti" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Tyler Dewey</h1>
-                    iOS Developer | Computer Science '16
+                    <h1>Tiffany Nguyen</h1>
+                    Android Developer | Computer Science '16
                     </br></br>
+                    
+                    <!-- GRINNELL EVENTS --> 
+                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.events&hl=en" target="_blank">
+                    <img class="responsive appLogo" src="img/grinnellEventsLogo.png"></a>
 
                     <!-- GLICIOUS --> 
-                    <!-- iOS --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
                     <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
 
                     </center>
@@ -603,7 +640,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- TIFFANY -->
+<!-- AMANDA -->
 
             <div class="col-md-12">
 
@@ -611,31 +648,34 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/tiffany.png" class="profile"/>
+                    <img src="img/defaultPerson.png" class="profile"/>
                     </br></br>
+
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/in/nguyenti" target="_blank">
+                    <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="https://github.com/nguyenti" target="_blank">
+                    <a href="#" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href="#" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Tiffany Nguyen</h1>
-                    Android Developer | Computer Science '16
+                    <h1>Amanda Hinchman-Dominguez</h1>
+                    Android Developer | Computer Science '17
                     </br></br>
-                    
-                    <!-- GRINNELL EVENTS --> 
-                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.events&hl=en" target="_blank">
-                    <img class="responsive appLogo" src="img/grinnellEventsLogo.png"></a>
-
-                    <!-- GLICIOUS --> 
-                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
+<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
+                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
 
                     </center>
                 </div>
@@ -688,85 +728,9 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- AMANDA -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/defaultPerson.png" class="profile"/>
-                    </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Amanda Hinchman-Dominguez</h1>
-                    Android Developer | Computer Science '17
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-                <div class="col-md-3">
-                </div>
-            </div>
-
 <!-- DESIGN & UX -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">DESIGN & UX</h1>
-
-<!--  LEXY -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/lexy.png" class="profile"/>
-                    </br></br>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="http://www.twitter.com/LexyLGreenwell" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Lexy Greenwell</h1>
-                    Design | Computer Science '15
-                    </br>
-
-                    </center>
-                </div>
-                <div class="col-md-3">
-                </div>
-            </div>
 
 <!-- SARAH -->
 
@@ -805,7 +769,74 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
+<!--  LEXY -->
 
+            <div class="col-md-12">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/lexy.png" class="profile"/>
+                    </br></br>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    <!-- TWITTER -->
+                    <a href="http://www.twitter.com/LexyLGreenwell" target="_blank">
+                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    </center>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Lexy Greenwell</h1>
+                    Design | Computer Science '15
+                    </br>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+
+<!-- CHRIS -->
+
+            <div class="col-md-12">
+
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>Chris Lee</h1>
+                    UX | Economics '15
+                    </br></br>
+<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
+                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
+
+                    </center>
+                </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/chris.png" class="profile"/>
+                    </br></br>
+
+                    <a href="http://www.leechris.net" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+                    
+                    <!-- LINKEDIN -->
+                    <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
+                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
 
 <!--  HANNAH -->
 
@@ -850,83 +881,9 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- CHRIS -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-3">
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Chris Lee</h1>
-                    UX | Economics '15
-                    </br></br>
-<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
-                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/chris.png" class="profile"/>
-                    </br></br>
-
-                    <a href="http://www.leechris.net" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
 <!-- COMMUNITY -->
 
 <h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">COMMUNITY</h1>
-
-<!--  CHLOE -->
-
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/defaultPerson.png" class="profile"/>
-                    </br></br>
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>Chloe Williams</h1>
-                    Community Builder | History '16
-
-                    </center>
-                </div>
-                <div class="col-md-3">
-                </div>
-            </div>
 
 <!-- JARREN -->
 
@@ -1000,40 +957,38 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!-- PAST MEMBERS -->
+<!-- CHLOE-->
 
-<h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">PAST MEMBERS</h1>
+            <div class="col-md-12">
 
-<!--  SPENCER -->
-
-            <div class="col-md-12" style="background-color: #D8D8D8;">
-
-                <div class="col-md-2">
+                <div class="col-md-3">
                 </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/spencer.png" class="profile"/>
-                    </br></br>
-
-                </div>
-                <div class="col-md-5 profileStyle">
+                <div class="col-md-5 profileStyle" >
                 <center>
-                    <h1>Spencer Liberto</h1>
-                    Android Developer | Computer Science '15
-                    </br></br>
-                    <!-- gLicious --> 
-                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
-                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
-
-                    <!-- DB --> 
-                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
-                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
+                    <h1>Chloe Williams</h1>
+                    Commuity Builder | History '16'
+                    </br>
+<!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
+                    <img class="responsive appLogo" src="img/eventsLogo.png"></a>
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a> -->
 
                     </center>
                 </div>
-                <div class="col-md-3">
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/defaultPerson.png" class="profile"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-2">
                 </div>
             </div>
+
+<!-- PAST MEMBERS -->
+
+<h1 style="background-color:; color:#c66161; padding-top:30px; margin-top:100px;">PAST MEMBERS</h1>
 
 <!-- CHRISTINE -->
 
@@ -1064,7 +1019,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!--  MAIJID -->
+<!--  SPENCER -->
 
             <div class="col-md-12" style="background-color: #D8D8D8;">
 
@@ -1072,14 +1027,22 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/maijid.png" class="profile"/>
+                    <img src="img/spencer.png" class="profile"/>
                     </br></br>
+
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Maijid Moujaled</h1>
-                    Team Lead | Lead iOS Developer | Computer Science '14
+                    <h1>Spencer Liberto</h1>
+                    Android Developer | Computer Science '15
                     </br></br>
+                    <!-- gLicious --> 
+                    <!-- Android --> <a href="https://play.google.com/store/apps/details?id=edu.grinnell.glicious" target="_blank">
+                    <img class="responsive appLogo" src="img/gLiciousLogo.png"></a>
+
+                    <!-- DB --> 
+                    <!-- Android --> <a href="https://itunes.apple.com/us/app/g-licious/id523738999?mt=8" target="_blank">
+                    <img class="responsive appLogo" src="img/dbLogo.png"></a>
 
                     </center>
                 </div>
@@ -1117,7 +1080,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
             </div>
 
-<!--  DAVID -->
+<!--  MAIJID -->
 
             <div class="col-md-12" style="background-color: #D8D8D8;">
 
@@ -1125,15 +1088,14 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/david.png" class="profile"/>
+                    <img src="img/maijid.png" class="profile"/>
                     </br></br>
-
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>David Cowden</h1>
-                    Team Lead | Lead Android Developer | Computer Science '13
-                    </br>
+                    <h1>Maijid Moujaled</h1>
+                    Team Lead | Lead iOS Developer | Computer Science '14
+                    </br></br>
 
                     </center>
                 </div>
@@ -1169,6 +1131,30 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                 </div></br>
+            </div>
+
+ <!--  DAVID -->
+
+            <div class="col-md-12" style="background-color: #D8D8D8;">
+
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-2">
+                    <center>
+                    <img src="img/david.png" class="profile"/>
+                    </br></br>
+
+                </div>
+                <div class="col-md-5 profileStyle">
+                <center>
+                    <h1>David Cowden</h1>
+                    Team Lead | Lead Android Developer | Computer Science '13
+                    </br>
+
+                    </center>
+                </div>
+                <div class="col-md-3">
+                </div>
             </div>
 
 </div>
