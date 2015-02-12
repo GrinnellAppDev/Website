@@ -893,7 +893,7 @@ https://github.com/pslough93" target="_blank">
                 </div>
                 <div class="col-md-2">
                     <center>
-                    <img src="img/mark.png" class="profile"/>
+                    <img src="img/defaultPerson.png" class="profile"/>
                     </br></br>
 
                 </div>
