@@ -164,7 +164,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Nathalie Ford</h1>
-                    Financial Manager | Computer Science '15
+                    Administrative Coordinator | Computer Science '15
                     </br>
 
                     </center>
@@ -360,7 +360,7 @@ include('inc/header.php');
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Ajuna Kyuzari</h1>
-                    Financial Manager in Training | Computer Science '17
+                    Administrative Coordinator | Computer Science '17
                     </br></br>
 
                     </center>
@@ -537,8 +537,6 @@ include('inc/header.php');
                     <h1>Patrick Slough</h1>
                     iOS Developer | Physics & Mathematics '15
                     </br></br>
-
-
                     </center>
                 </div>
 
