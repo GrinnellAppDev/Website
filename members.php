@@ -787,6 +787,10 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/sarah.png" class="profile"/>
                     </br></br>
                     
+                    <!--PERSONAL WEBSITE -->
+                    <a href="http://trisarahtrops.com" target="_blank">
+                    <img class="responsive bioLogo" src="img/home.png"></a>
+
                     <!-- LINKEDIN -->
                     <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
