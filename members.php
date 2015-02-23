@@ -359,7 +359,7 @@ include('inc/header.php');
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
-                    <h1>Ajuna Kyuzari</h1>
+                    <h1>Ajuna Kyaruzi</h1>
                     Administrative Coordinator | Computer Science '17
                     </br></br>
 
@@ -691,7 +691,7 @@ https://github.com/pslough93" target="_blank">
                 <div class="col-md-5 profileStyle">
                 <center>
                     <h1>Shaun Mataire</h1>
-                    Android Developer | Computer Science '17
+                    Android Developer | Computer Science '16
                     </br></br>
 <!--                     <img class="responsive appLogo" src="img/sbLogo.png"></a>
                     <img class="responsive appLogo" src="img/eventsLogo.png"></a>
