@@ -648,22 +648,14 @@ https://github.com/pslough93" target="_blank">
                     <center>
                     <img src="img/defaultPerson.png" class="profile"/>
                     </br></br>
-
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
                     
                     <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
+                    <a href="https://www.linkedin.com/profile/view?id=370482069&trk=nav_responsive_tab_profile" target="_blank">
                     <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/ahinchman1" target="_blank">
                     <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
 
                 </div>
                 <div class="col-md-5 profileStyle">
