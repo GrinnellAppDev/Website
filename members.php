@@ -807,22 +807,6 @@ https://github.com/pslough93" target="_blank">
                     <img src="img/hannah.png" class="profile"/>
                     </br></br>
 
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    <!-- LINKEDIN -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    
-                    <!-- GITHUB  -->   
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/githubLogo.png"></a>
-                    
-                    <!-- TWITTER -->
-                    <a href="#" target="_blank">
-                    <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
-                    </center>
-
                 </div>
                 <div class="col-md-5 profileStyle">
                 <center>
