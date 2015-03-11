@@ -917,13 +917,6 @@ div.facesPalette div:hover span.appdev-title {
 /* groupings of appdev members by color */
 
 div.Leads {
-	content: "";
-	display: block;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
 	background-color: linear-gradient(#F23131, 0.4), #D8D8D8;
 /*	-moz-transition: background .3s linear;
 	-webkit-transition: background .3s linear;
