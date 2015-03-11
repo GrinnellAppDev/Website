@@ -879,13 +879,6 @@ code {
 	font-weight: 200;
 }
 
-div.facesPalette {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	text-align: center;
-}
-
 div.facesPalette div {
 	display: inline-block;
 	height: 200px;
