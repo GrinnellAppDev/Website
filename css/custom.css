@@ -871,3 +871,46 @@ code {
 	font-size: 12px;
 	font-weight: 200;
 }
+
+/* New members page css */
+
+.memberPalette {
+	font-family:"Helvetica Neue";
+	font-weight: 200;
+}
+
+.paletteStyle {
+	padding: 10px, 10px, 10px, 10px;
+	margin: 10px, 10px, 10px, 10px;
+	border: none;
+}
+
+.paletteUX {
+	background-color: #D8D8D8;
+	background: linear-gradient(#D8D8D8, #4D2282);
+	opacity: 0.;
+}
+
+.paletteDeveloper {
+	background-color: #D8D8D8;
+	background: linear-gradient(#D8D8D8, #3285AE);
+}
+
+.paletteLead {
+	background-color: #D8D8D8;
+	background: linear-gradient(#D8D8D8, #F23131);
+}
+
+.paletteCommunity {
+	background-color: #D8D8D8;
+	background: linear-gradient(#D8D8D8, #35C288);
+}
+
+.palettePast {
+	background-color: #D8D8D8;
+	background: linear-gradient(#D8D8D8, #D8D8D8);
+}
+
+.palette:hover {
+	filter: blur();
+}

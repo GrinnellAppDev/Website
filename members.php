@@ -351,7 +351,7 @@ include('inc/header.php');
                 <div class="col-md-3">
                 </div>
             </div>
-<!-- AJUNA -->
+<!--  AJUNA -->
 
             <div class="col-md-12">
 
