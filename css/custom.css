@@ -883,31 +883,39 @@ code {
 	padding: 10px, 10px, 10px, 10px;
 	margin: 10px, 10px, 10px, 10px;
 	border: none;
+}
+
+.palette {
 	width:150px; 
 	height:150px; 
 }
 
 .paletteUX {
+	display: block;
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #4D2282);
 }
 
 .paletteDeveloper {
+	display: block;
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #3285AE);
 }
 
 .paletteLead {
+	display: block;
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #F23131);
 }
 
 .paletteCommunity {
+	display: block;
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #35C288);
 }
 
 .palettePast {
+	display: block;
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #D8D8D8);
 }
