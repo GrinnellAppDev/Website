@@ -890,32 +890,27 @@ code {
 	height:150px; 
 }
 
-.paletteUX {
-	display: block;
+.paletteUX.overlay {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #4D2282);
 }
 
-.paletteDeveloper {
-	display: block;
+.paletteDeveloper.overlay {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #3285AE);
 }
 
-.paletteLead {
-	display: block;
+.paletteLead.overlay {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #F23131);
 }
 
-.paletteCommunity {
-	display: block;
+.paletteCommunity.overlay {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #35C288);
 }
 
-.palettePast {
-	display: block;
+.palettePast.overlay {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #D8D8D8);
 }
