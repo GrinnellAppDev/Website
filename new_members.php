@@ -19,7 +19,7 @@ include('inc/header.php');
 			<div class="col-md-1">
             </div>
 		<!-- LEADS -->
-			<div class="facesPalette">
+			<div>
 
 			  	<!-- LEA -->
 			   	 <div class="row">
