@@ -17,36 +17,38 @@ include('inc/header.php');
 	<div class="container membersPalette">
 		<center>
 		<!-- LEADS -->
-			<ul class="facesPalette">
+			<div class="facesPalette">
+
 			  	<!-- LEA -->
-			   	 	<li>
+			   	 <div class="row">
+			   	 	<div class="col-md-2">
 			   	 		<img src="img/lea.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
-			   	 	</li>
+			   	 	</div>
 
 			   	 <!-- PATRICK -->
-			   	 	<li>
+			   	 	<div class="col-md-2">
 			  			<img src="img/patrick.png" class="palette paletteLead"/>
 			   			<span class="appdev-title"><span>Patrick Triest</span></span>
-		   	 		</li>
+		   	 		</div>
 
 			   	 <!-- CALEB -->
-		   	 		<li>
+		   	 		<div class="col-md-2">
 		   	 			<img src="img/caleb.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Caleb Sponheim</span></span>
-			   	 	</li>
+			   	 	</div>
 
 			   	 <!-- NATHALIE -->
-			   	 	<li>
+			   	 	<div class="col-md-2">
 			   	 		<img src="img/nathalie.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Nathalie Ford</span></span>
-			   	 	</li>
+			   	 	</div>
 			   	 <!-- LARRY -->
-			   	 	<li>
+			   	 	<div class="col-md-2">
 			   	 		<img src="img/larry.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
-			   	 	</li>
-			   	 </ul>
+			   	 	</div>
+			   	 </div>
 
 
 <!-- not using at the moment while i figure this shit out

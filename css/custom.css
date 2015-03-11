@@ -879,14 +879,14 @@ code {
 	font-weight: 200;
 }
 
-ul.facesPalette {
+div.facesPalette {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	text-align: center;
 }
 
-ul.facesPalette li {
+div.facesPalette div {
 	display: inline-block;
 	height: 200px;
 	margin: 0 1em 1em 0;
@@ -917,6 +917,6 @@ span.appdev-title span {
   vertical-align: middle;
 }
 
-ul.facesPalette li:hover span.appdev-title {
+div.facesPalette div:hover span.appdev-title {
 	opacity: 1;
 }
