@@ -878,7 +878,7 @@ code {
 	font-family:"Helvetica Neue";
 	font-weight: 200;
 }
-
+/*
 div.facesPalette div.row div{
 	display: inline-block;
 	height: 200px;
@@ -909,7 +909,7 @@ span.appdev-title span {
   text-align: center;
   vertical-align: middle;
 }
-/*
+
 div.facesPalette div:hover span.appdev-title {
 	opacity: 1;
 }
