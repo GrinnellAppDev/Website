@@ -883,12 +883,13 @@ code {
 	padding: 10px, 10px, 10px, 10px;
 	margin: 10px, 10px, 10px, 10px;
 	border: none;
+	width:150px; 
+	height:150px; 
 }
 
 .paletteUX {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #4D2282);
-	opacity: 0.;
 }
 
 .paletteDeveloper {
