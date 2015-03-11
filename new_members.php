@@ -1,5 +1,5 @@
 <?php 
-$activeClass = "new_members";
+$activeClass = "members";
 include('inc/header.php'); 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -16,6 +16,7 @@ include('inc/header.php');
 
 	<div class="container membersPalette">
 		<div style="paletteStyle">
+			<center>
 
 <!-- LEADS -->
 	  		<div class="row">
@@ -154,7 +155,7 @@ include('inc/header.php');
 	    			<img src="img/david.png" class="palettePast"/>
 	    		</div>
 	  		</div>
-  		<div class="row">
+  		</center>
 
   	</div>
   </div>
