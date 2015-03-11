@@ -892,19 +892,24 @@ code {
 }
 
 .membersPalette title p {
+	font-family: "Helvetica Neue";
 	display: table-cell;
 	font-size: 1.5em;
 	position: relative;
-	top: -40px;
-	width: 289px;
 	vertical-align: middle;
 }
-
+.membersPalette:hover {
+	-webkit-filter: blur(18px);
+    overflow: hidden;
+    position: relative;
+    opacity: 0.6;
+    z-index:11;
+}
 .membersPalette:hover title {
 	opacity: 1;
 }
 
-.paletteStyle {
+#paletteStyle {
 	padding: 10px, 10px, 10px, 10px;
 	margin: 10px, 10px, 10px, 10px;
 	border: none;
@@ -916,35 +921,31 @@ code {
 }
 
 .paletteUX {
-	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #4D2282);
+	background-color: #D8D8D8, opacity: 0.40;
+	background: linear-gradient(#D8D8D8, #4D2282), opacity: 0.40;
 	z-index: 0;
 }
 
 .paletteDeveloper {
-	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #3285AE);
+	background-color: #D8D8D8, opacity: 0.40;
+	background: linear-gradient(#D8D8D8, #3285AE), opacity: 0.40;
 	z-index: 0;
 }
 
 .paletteLead {
-	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #F23131);
+	background-color: #D8D8D8, opacity: 0.40;
+	background: linear-gradient(#D8D8D8, #F23131), opacity: 0.40;
 	z-index: 0;
 }
 
 .paletteCommunity {
 	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #35C288);
+	background: linear-gradient(#D8D8D8, #35C288), opacity: 0.40;
 	z-index: 0;
 }
 
 .palettePast {
-	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #D8D8D8);
+	background-color: #D8D8D8, opacity: 0.40;
+	background: linear-gradient(#D8D8D8, #D8D8D8), opacity: 0.40;
 	z-index: 0;
-}
-
-.palette:hover {
-	filter: blur();
 }

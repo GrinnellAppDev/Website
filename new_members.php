@@ -53,20 +53,28 @@ include('inc/header.php');
 			  	<!-- LARRY -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/larry.png" class="palette paletteLead"/>
+			   	 			<title><h1>Larry Boateng Asante</h1>
+			   	 				<h3>Education Manager</h3></title>
 			   	 		</div>
 			  	<!-- ALEX -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/alex.png" class="palette paletteLead"/>
+			   	 			<title><h1>Alex Mitchell</h1>
+			   	 				<h3>iOS Lead Developer in Training</h3></title>
 			   	 		</div>
 
 			   	 <!-- SAMMEE -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/samee.png" class="palette paletteLead"/>
+			   	 			<title><h1>Sammee Zahid</h1>
+			   	 				<h3>Android Lead Devloper in Training</h3></title>
 			   	 		</div>
 
 			   	 <!-- AJUNA -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/ajuna.png" class="palette paletteLead"/>
+			   	 			<title><h1>Ajuna Kyaruzi</h1>
+			   	 				<h3>Administrative Coordinator in Training</h3></title>
 			   	 		</div>
 			   	 	</div>
 
@@ -76,21 +84,29 @@ include('inc/header.php');
 			 	<!-- DANIEL T -->
 			    		<div class="col-md-2">
 			    			<img src="img/danielT.png" class="palette paletteDeveloper"/>
+			    			<title><h1>Daniel Torres</h1>
+			   	 				<h3>iOS Developer</h3></title>
 			    		</div>
 
 			    <!-- MICHAEL -->
 			    		<div class="col-md-2">
 			    			<img src="img/michael.png" class="palette paletteDeveloper"/>
+			    			<title><h1>Michael Owusu</h1>
+			   	 				<h3>Android Developer</h3></title>
 			    		</div>
 			
 			  	<!-- TY -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/ty.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Ty Dewey</h1>
+			   	 				<h3>iOS Developer</h3></title>
 			   	 		</div>
 
 			   	 <!-- PATRICK S -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/patrickS.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Patrick Slough</h1>
+			   	 				<h3>iOS Developer</h3></title>
 			   	 		</div>
 			   	 	</div>
 
@@ -99,21 +115,29 @@ include('inc/header.php');
 			   	 <!-- TIFFANY -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/tiffany.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Tiffany Nyugen</h1>
+			   	 				<h3>Android Developer</h3></title>
 			   	 		</div>
 			   	 <!-- DANIEL G -->
 
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/danielG.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Daniel Goldstein</h1>
+			   	 				<h3>iOS Developer</h3></title>
 			   	 		</div>
 
 			   	 <!-- AMANDA -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/defaultPerson.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Amanda Hinchman Dominguez</h1>
+			   	 				<h3>Android Developer</h3></title>
 			   	 		</div>
 
 			  	<!-- SHAUN -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/shaun.png" class="palette paletteDeveloper"/>
+			   	 			<title><h1>Shaun Mataire</h1>
+			   	 				<h3>Android Developer</h3></title>
 			   	 		</div>
 			   	 	</div>
 
@@ -123,21 +147,29 @@ include('inc/header.php');
 				<!-- SARAH -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/sarah.png" class="palette paletteUX"/>
+			   	 			<title><h1>Sarah Trop</h1>
+			   	 				<h3>UI Designer</h3></title>
 			   	 		</div>
 
 			   	 <!-- LEXY -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/lexy.png" class="palette paletteUX"/>
+			   	 			<title><h1>Lexy Greenwell</h1>
+			   	 				<h3>UI Designer</h3></title>
 			   	 		</div>
 
 			   	 <!-- HANNAH -->
 			    		<div class="col-md-2">
 			    			<img src="img/hannah.png" class="palette paletteUX"/>
+			    			<title><h1>Hannah Cohn</h1>
+			   	 				<h3>UX Researcher</h3></title>
 			    		</div>
 
 			    <!-- CHRIS -->
 			    		<div class="col-md-2">
 			    			<img src="img/chris.png" class="palette paletteUX"/>
+			    			<title><h1>Chris Lee</h1>
+			   	 				<h3>UX Researcher</h3></title>
 			    		</div>
 			  		</div>
 
@@ -147,22 +179,30 @@ include('inc/header.php');
 			  	<!-- MARK -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/mark.png" class="palette paletteCommunity"/>
+			   	 			<title><h1>Mark Schwabacher</h1>
+			   	 				<h3>Community Builder</h3></title>
 			   	 		</div>
 
 			   	 <!-- JARREN -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/jarren.png" class="palette paletteCommunity"/>
+			   	 			<title><h1>Jarren Santos</h1>
+			   	 				<h3>Community Builder</h3></title>
 			   	 		</div>
 
 			   	 <!-- CHLOE -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/defaultPerson.png" class="palette paletteCommunity"/>
+			   	 			<title><h1>Chloe Williams</h1>
+			   	 				<h3>Community Builder</h3></title>
 			   	 		</div>
 
 			<!-- PAST -->
 				<!-- CHRISTINE -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/christine.png" class="palette palettePast"/>
+			   	 			<title><h1>Christine Tran</h1>
+			   	 				<h3>Designer</h3></title>
 			   	 		</div>
 			   	 	</div>
 
@@ -171,21 +211,29 @@ include('inc/header.php');
 			   	 <!-- SPENCER -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/spencer.png" class="palette palettePast"/>
+			   	 			<title><h1>Spencer Liberto</h1>
+			   	 				<h3>Android Developer</h3></title>
 			   	 		</div>
 
 			  	<!-- COLIN -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/defaultPerson.png" class="palette palettePast"/>
+			   	 			<title><h1>Colin Tremblay</h1>
+			   	 				<h3>Senior iOS Developer</h3></title>
 			   	 		</div>
 
 			   	<!-- MAIJID -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/maijid.png" class="palette palettePast"/>
+			   	 			<title><h1>Maijid Moujaled</h1>
+			   	 				<h3>iOS Lead Developer</h3></title>
 			   	 		</div>
 
 			   	 <!-- DUGAN -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/defaultPerson.png" class="palette palettePast"/>
+			   	 			<title><h1>Dugan Knoll</h1>
+			   	 				<h3>Lead Developer</h3></title>
 			   	 		</div>
 			   	 	</div>
 
@@ -194,6 +242,8 @@ include('inc/header.php');
 			   	 <!-- DAVID -->
 			    		<div class="col-md-2">
 			    			<img src="img/david.png" class="palette palettePast"/>
+			    			<title><h1>David Cowden</h1>
+			   	 				<h3>Android Lead Developer</h3></title>
 			    		</div>
 			  		</div>
 
