@@ -887,7 +887,7 @@ ul.facesPalette {
 }
 
 ul.facesPalette li {
-	display: inline-table;
+	display: inline-block;
 	height: 200px;
 	margin: 0 1em 1em 0;
 	position: relative;
