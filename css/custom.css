@@ -872,7 +872,7 @@ code {
 	font-weight: 200;
 }
 
-/* New members page css */
+/* New members page */
 
 .membersPalette {
 	font-family:"Helvetica Neue";
@@ -888,10 +888,10 @@ ul.facesPalette {
 
 ul.facesPalette li {
 	display: inline-block;
-	height: 150px;
+	height: 200px;
 	margin: 0 1em 1em 0;
 	position: relative;
-	width: 150px;
+	width: 200px;
 }
 
 span.appdev-title {
