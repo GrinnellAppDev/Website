@@ -15,7 +15,9 @@ include('inc/header.php');
     </div>
 
 	<div class="container membersPalette">
-		<center>
+		<div class="col-md-12">
+			<div class="col-md-2">
+            </div>
 		<!-- LEADS -->
 			<div class="facesPalette">
 
@@ -245,7 +247,7 @@ include('inc/header.php');
 			    		</div>
 			  		</div>
 -->
-			</center>
+			</div>
   		</div>
   	</div>
 </div>
