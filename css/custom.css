@@ -880,7 +880,6 @@ code {
 }
 
 .membersPalette title{
-	background: rgba(0,0,0,0.8);
 	color: white;
 	display: table;
 	height: 100%;
@@ -901,7 +900,7 @@ code {
 	vertical-align: middle;
 }
 
-.membersPalette col:hover title {
+.membersPalette:hover title {
 	opacity: 1;
 }
 
