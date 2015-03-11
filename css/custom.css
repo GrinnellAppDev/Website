@@ -879,7 +879,7 @@ code {
 	font-weight: 200;
 }
 
-div.facesPalette div {
+div.facesPalette div div{
 	display: inline-block;
 	height: 200px;
 	margin: 0 1em 1em 0;
