@@ -905,10 +905,10 @@ span.appdev-title {
   top: 0;
   width: 200px;
   opacity: 0;
-  -webkit-transition: opacity 500ms;
+  /*-webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;
-  transition: opacity 500ms;
+  transition: opacity 500ms;*/
 }
 
 span.appdev-title span {
@@ -932,8 +932,8 @@ div.Leads {
 	left: 0;
 	right: 0;
 	background-color: linear-gradient(#F23131, 0.4), #D8D8D8;
-	-moz-transition: background .3s linear;
+/*	-moz-transition: background .3s linear;
 	-webkit-transition: background .3s linear;
 	-o-transition: background .3s linear;
-	transition: background .3s linear;
+	transition: background .3s linear; */
 }
