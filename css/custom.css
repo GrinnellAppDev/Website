@@ -879,34 +879,13 @@ code {
 	font-weight: 200;
 }
 
-.membersPalette title{
-	color: white;
-	display: table;
-	height: 100%;
-	left: 0;
-	opacity: 0;
-	position: absolute;
-	right: 0;
-	top: 0;
-	z-index: 100;
-}
 
-.membersPalette title p {
-	font-family: "Helvetica Neue";
-	display: table-cell;
-	font-size: 1.5em;
-	position: relative;
-	vertical-align: middle;
-}
 .membersPalette:hover {
 	-webkit-filter: blur(18px);
     overflow: hidden;
     position: relative;
     opacity: 0.6;
     z-index:11;
-}
-.membersPalette:hover title {
-	opacity: 1;
 }
 
 #paletteStyle {
@@ -948,4 +927,31 @@ code {
 	background-color: #D8D8D8, opacity: 0.40;
 	background: linear-gradient(#D8D8D8, #D8D8D8), opacity: 0.40;
 	z-index: 0;
+}
+
+span.appdev-title {
+	background: rbga(0,0,0,0,0.5);
+	color: white;
+	cursor: pointer;
+	display: table;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 150px;
+	width: 150px;
+	opacity: 0;
+	-webkit-transition: opacity 500ms;
+	-mox-transition: opacity 500ms;
+	-o-transition: opacity 500ms;
+	transition: opacity 500ms;
+}
+
+span.appdev-title span {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+div.membersPalette div:hover span.appdev-title {
+	opacity: 1;
 }
