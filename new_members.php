@@ -23,32 +23,27 @@ include('inc/header.php');
 
 			  	<!-- LEA -->
 			   	 <div class="row">
-			   	 	<div class="col-md-2" class="Leads">
-			   	 		<img src="img/lea.png" class="palette paletteLead"/>
-			   	 		<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
+			   	 	<div class="col-md-2">
+			   	 		<img src="img/lea.png">
 			   	 	</div>
 
 			   	 <!-- PATRICK -->
-			   	 	<div class="col-md-2" class="Leads">
-			  			<img src="img/patrick.png" class="palette paletteLead"/>
-			   			<span class="appdev-title"><span>Patrick Triest</span></span>
+			   	 	<div class="col-md-2">
+			  			<img src="img/patrick.png">
 		   	 		</div>
 
 			   	 <!-- CALEB -->
-		   	 		<div class="col-md-2" class="Leads">
-		   	 			<img src="img/caleb.png" class="palette paletteLead"/>
-			   	 		<span class="appdev-title"><span>Caleb Sponheim</span></span>
+		   	 		<div class="col-md-2">
+		   	 			<img src="img/caleb.png">
 			   	 	</div>
 
 			   	 <!-- NATHALIE -->
-			   	 	<div class="col-md-2" class="Leads">
-			   	 		<img src="img/nathalie.png" class="palette paletteLead"/>
-			   	 		<span class="appdev-title"><span>Nathalie Ford</span></span>
+			   	 	<div class="col-md-2">
+			   	 		<img src="img/nathalie.png">
 			   	 	</div>
 			   	<!-- LARRY -->
-			   	 	<div class="col-md-2" class="Leads">
-			   	 		<img src="img/larry.png" class="palette paletteLead"/>
-			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
+			   	 	<div class="col-md-2">
+			   	 		<img src="img/larry.png">
 			   	 	</div>
 			   	 </div>
 
