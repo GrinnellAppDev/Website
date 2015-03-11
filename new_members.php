@@ -16,7 +16,7 @@ include('inc/header.php');
 
 	<div class="container membersPalette">
 		<div class="col-md-12">
-			<div class="col-md-2">
+			<div class="col-md-1">
             </div>
 		<!-- LEADS -->
 			<div class="facesPalette">
@@ -45,16 +45,17 @@ include('inc/header.php');
 			   	 		<img src="img/nathalie.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Nathalie Ford</span></span>
 			   	 	</div>
+			   	<!-- LARRY -->
+			   	 	<div class="col-md-2" class="Leads">
+			   	 		<img src="img/larry.png" class="palette paletteLead"/>
+			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
+			   	 	</div>
 			   	 </div>
 
 
 <!-- not using at the moment while i figure this shit out
 			  		<div class="row">
-				<!-- LARRY
-			   	 	<div class="col-md-2" class="Leads">
-			   	 		<img src="img/larry.png" class="palette paletteLead"/>
-			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
-			   	 	</div>
+				
 			  	<!-- ALEX 
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/alex.png" class="palette paletteLead"/>
