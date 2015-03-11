@@ -879,7 +879,7 @@ code {
 	font-weight: 200;
 }
 
-div.facesPalette div div{
+div.facesPalette div.row div{
 	display: inline-block;
 	height: 200px;
 	margin: 0 1em 1em 0;
@@ -887,7 +887,7 @@ div.facesPalette div div{
 	width: 200px;
 }
 
-span.appdev-title {
+ span.appdev-title {
   background: rgba(0,0,0,0.5);
   color: white;
   cursor: pointer;
@@ -901,7 +901,7 @@ span.appdev-title {
   /*-webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;
-  transition: opacity 500ms;*/
+  transition: opacity 500ms;
 }
 
 span.appdev-title span {
@@ -909,11 +909,11 @@ span.appdev-title span {
   text-align: center;
   vertical-align: middle;
 }
-
+/*
 div.facesPalette div:hover span.appdev-title {
 	opacity: 1;
 }
-
+*/
 /* groupings of appdev members by color */
 
 div.Leads {
