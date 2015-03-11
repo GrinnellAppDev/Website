@@ -879,54 +879,19 @@ code {
 	font-weight: 200;
 }
 
-
-.membersPalette:hover {
-	-webkit-filter: blur(18px);
-    overflow: hidden;
-    position: relative;
-    opacity: 0.6;
-    z-index:11;
+ul.facesPalette {
+	list-style-type: none;
+	margin: 0;
+	padding:0 ;
+	text-align: center;
 }
 
-#paletteStyle {
-	padding: 2px, 2px, 2px, 2px;
-	margin: 2px, 2px, 2px, 2px;
-	border: none;
-}
-
-.palette {
-	width:200px; 
-	height:200px; 
-}
-
-.paletteUX {
-	background-color: #D8D8D8, opacity: 0.40;
-	background: linear-gradient(#D8D8D8, #4D2282), opacity: 0.40;
-	z-index: 0;
-}
-
-.paletteDeveloper {
-	background-color: #D8D8D8, opacity: 0.40;
-	background: linear-gradient(#D8D8D8, #3285AE), opacity: 0.40;
-	z-index: 0;
-}
-
-.paletteLead {
-	background-color: #D8D8D8, opacity: 0.40;
-	background: linear-gradient(#D8D8D8, #F23131), opacity: 0.40;
-	z-index: 0;
-}
-
-.paletteCommunity {
-	background-color: #D8D8D8;
-	background: linear-gradient(#D8D8D8, #35C288), opacity: 0.40;
-	z-index: 0;
-}
-
-.palettePast {
-	background-color: #D8D8D8, opacity: 0.40;
-	background: linear-gradient(#D8D8D8, #D8D8D8), opacity: 0.40;
-	z-index: 0;
+ul.facesPalette li {
+	display: inline-table;
+	height: 200px;
+	margin: 0 1em 1em 0;
+	position: relative;
+	width: 200px;
 }
 
 span.appdev-title {
@@ -952,6 +917,6 @@ span.appdev-title span {
 	vertical-align: middle;
 }
 
-div.row.membersPalette div:hover span.appdev-title {
+ul.facesPalette li:hover span.appdev-title {
 	opacity: 1;
 }

@@ -17,40 +17,36 @@ include('inc/header.php');
 	<div class="container membersPalette">
 		<center>
 		<!-- LEADS -->
-			  		<div class="row">
+			<ul class="facesPalette">
 			  	<!-- LEA -->
-			   	 		<div class="col-md-2">
-			   	 			<img src="img/lea.png" class="palette paletteLead"/>
-			   	 			<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
-			   	 		</div>
+			   	 	<li>
+			   	 		<img src="img/lea.png" class="palette paletteLead"/>
+			   	 		<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
+			   	 	</li>
 
 			   	 <!-- PATRICK -->
-			   	 		<div class="col-md-2">
-			   	 			<img src="img/patrick.png" class="palette paletteLead"/>
-			   	 			<title>Patrick Triest
-			   	 				Android Lead Developer</title>
-			   	 		</div>
+			   	 	<li>
+			  			<img src="img/patrick.png" class="palette paletteLead"/>
+			   			<span class="appdev-title"><span>Patrick Triest</span></span>
+		   	 		</li>
 
 			   	 <!-- CALEB -->
-			   	 		<div class="col-md-2">
-			   	 			<img src="img/caleb.png" class="palette paletteLead"/>
-			   	 			<title>Caleb Sponheim
-			   	 				Design Lead</title>
-			   	 		</div>
+		   	 		<li>
+		   	 			<img src="img/caleb.png" class="palette paletteLead"/>
+			   	 		<span class="appdev-title"><span>Caleb Sponheim</span></span>
+			   	 	</li>
 
 			   	 <!-- NATHALIE -->
-			   	 		<div class="col-md-2">
-			   	 			<img src="img/nathalie.png" class="palette paletteLead"/>
-			   	 			<title><h1>Nathalie Ford</h1>
-			   	 				<h3>Administrative Coordinator</h3></title>
-			   	 		</div>
+			   	 	<li>
+			   	 		<img src="img/nathalie.png" class="palette paletteLead"/>
+			   	 		<span class="appdev-title"><span>Nathalie Ford</span></span>
+			   	 	</li>
 			   	 <!-- LARRY -->
-			   	 		<div class="col-md-2">
-			   	 			<img src="img/larry.png" class="palette paletteLead"/>
-			   	 			<title><h1>Larry Boateng Asante</h1>
-			   	 				<h3>Education Manager</h3></title>
-			   	 		</div>
-			   	 	</div>
+			   	 	<li>
+			   	 		<img src="img/larry.png" class="palette paletteLead"/>
+			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
+			   	 	</li>
+			   	 </ul>
 
 
 <!-- not using at the moment while i figure this shit out
