@@ -17,8 +17,6 @@ include('inc/header.php');
 	<div class="container membersPalette">
 		<div style="paletteStyle">
 			<center>
-				<div class="col-md-2">
-				</div>
 		<!-- LEADS -->
 			  		<div class="row">
 			  	<!-- LEA -->
@@ -192,9 +190,6 @@ include('inc/header.php');
 			    			<img src="img/david.png" class="palette palettePast"/>
 			    		</div>
 			  		</div>
-			  		
-	  			<div class="col-md-2">
-	  			</div>
 
   			</center>
   		</div>
