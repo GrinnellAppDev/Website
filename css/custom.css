@@ -920,3 +920,9 @@ span.appdev-title span {
 div.facesPalette div:hover span.appdev-title {
 	opacity: 1;
 }
+
+/* groupings of appdev members by color */
+
+div.Leads {
+	background-color: inline-gradient(0, 0, 0, 0, 0.5), #D8D8D8;
+}
