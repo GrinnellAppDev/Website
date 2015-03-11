@@ -890,27 +890,27 @@ code {
 	height:150px; 
 }
 
-.paletteUX.overlay {
+.paletteUX {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #4D2282);
 }
 
-.paletteDeveloper.overlay {
+.paletteDeveloper {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #3285AE);
 }
 
-.paletteLead.overlay {
+.paletteLead {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #F23131);
 }
 
-.paletteCommunity.overlay {
+.paletteCommunity {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #35C288);
 }
 
-.palettePast.overlay {
+.palettePast {
 	background-color: #D8D8D8;
 	background: linear-gradient(#D8D8D8, #D8D8D8);
 }
