@@ -889,14 +889,14 @@ code {
 }
 
 #paletteStyle {
-	padding: 10px, 10px, 10px, 10px;
-	margin: 10px, 10px, 10px, 10px;
+	padding: 2px, 2px, 2px, 2px;
+	margin: 2px, 2px, 2px, 2px;
 	border: none;
 }
 
 .palette {
-	width:150px; 
-	height:150px; 
+	width:200px; 
+	height:200px; 
 }
 
 .paletteUX {
