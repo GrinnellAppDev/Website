@@ -878,3 +878,9 @@ code {
 	font-family:"Helvetica Neue";
 	font-weight: 200;
 }
+
+.Leads {
+	height: 200px;
+	width: 200px;
+	padding: 5px, 5px, 5px, 5px;
+}
