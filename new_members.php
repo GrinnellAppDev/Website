@@ -41,6 +41,7 @@ include('inc/header.php');
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/nathalie.png" class="palette paletteLead"/>
 			   	 		</div>
+			   	 	</div>
 
 			  		<div class="row">
 
