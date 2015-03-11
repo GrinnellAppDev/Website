@@ -22,8 +22,7 @@ include('inc/header.php');
 			  	<!-- LEA -->
 			   	 		<div class="col-md-2">
 			   	 			<img src="img/lea.png" class="palette paletteLead"/>
-			   	 			<span class="appdev title"><span>Lea Marolt Sonnenschein
-			   	 				iOS Lead Developer</span></span>
+			   	 			<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
 			   	 		</div>
 
 			   	 <!-- PATRICK -->
