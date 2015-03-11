@@ -21,30 +21,30 @@ include('inc/header.php');
 
 			  	<!-- LEA -->
 			   	 <div class="row">
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-12">
 			   	 		<img src="img/lea.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Lea Marolt Sonnenschein</span></span>
 			   	 	</div>
 
 			   	 <!-- PATRICK -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-12">
 			  			<img src="img/patrick.png" class="palette paletteLead"/>
 			   			<span class="appdev-title"><span>Patrick Triest</span></span>
 		   	 		</div>
 
 			   	 <!-- CALEB -->
-		   	 		<div class="col-md-2">
+		   	 		<div class="col-md-12">
 		   	 			<img src="img/caleb.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Caleb Sponheim</span></span>
 			   	 	</div>
 
 			   	 <!-- NATHALIE -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-12">
 			   	 		<img src="img/nathalie.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Nathalie Ford</span></span>
 			   	 	</div>
 			   	 <!-- LARRY -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-12">
 			   	 		<img src="img/larry.png" class="palette paletteLead"/>
 			   	 		<span class="appdev-title"><span>Larry Boateng Asante</span></span>
 			   	 	</div>
