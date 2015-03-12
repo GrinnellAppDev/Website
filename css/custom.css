@@ -882,7 +882,7 @@ code {
 .palette {
 	height: 200px;
 	width: 200px;
-	padding: 5px, 5px, 5px, 5px;
+	margin: 10px, 10px, 10px, 10px;
 }
 
 
