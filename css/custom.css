@@ -879,11 +879,40 @@ code {
 	font-weight: 200;
 }
 
+.membersPalette title .name {
+	opacity: 0;
+	font-size: 13px;
+	color: white;
+	font-style: bold;
+	text-align: table-cell;
+	vertical-align: center;
+}
+
+.membersPalette title .name:hover {
+	opacity: 1;
+}
+
+.membersPalette title .appdev {
+	opacity: 0;
+	font-size: 10px;
+	color: white;
+	font-style: none;
+	text-align: table-cell;
+	vertical-align: center;
+}
+
+.membersPalette title .appdev:hover {
+	opacity: 1;
+}
+
+.membersPalette img:hover {
+	/*filter: blur(0.2);*/
+}
+
 .palette {
 	height: 200px;
 	width: 200px;
 	margin: 10px, 10px, 10px, 10px;
 }
-
 
 

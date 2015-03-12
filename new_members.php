@@ -24,25 +24,35 @@ include('inc/header.php');
 			   	 <div class="row">
 			   	 	<div class="col-md-2">
 			   	 		<img src="img/lea.png" class="palette"/>
+			   	 		<title class="name">Lea Marolt Sonnenschein</title>
+			   	 		<title class="appdev">iOS Lead Developer</title>
 			   	 	</div>
 
 			   	 <!-- PATRICK -->
 			   	 	<div class="col-md-2">
 			  			<img src="img/patrick.png" class="palette"/>
+			  			<title class="name">Patrick Triest</title>
+			  			<title class="appdev">Android Lead Developer</title>
 		   	 		</div>
 
 			   	 <!-- CALEB -->
 		   	 		<div class="col-md-2">
 		   	 			<img src="img/caleb.png" class="palette"/>
+		   	 			<title class="name">Caleb Sponheim</title>
+		   	 			<title class="appdev">Design Lead</title>
 			   	 	</div>
 
 			   	 <!-- NATHALIE -->
 			   	 	<div class="col-md-2">
 			   	 		<img src="img/nathalie.png" class="palette"/>
+			   	 		<title class="name">Nathalie Ford</title>
+			   	 		<title class="appdev">Administrative Coordinator</title>
 			   	 	</div>
 			   	 <!-- LARRY -->
 			   	 	<div class="col-md-2">
 			   	 		<img src="img/larry.png" class="palette"/>
+			   	 		<title class="name">Larry Boateng Asante</title>
+			   	 		<title class="appdev">Education Manager</title>
 			   	 	</div>
 			   	 </div>
 
