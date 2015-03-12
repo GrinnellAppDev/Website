@@ -877,6 +877,7 @@ code {
 .membersPalette {
 	font-family:"Helvetica Neue";
 	font-weight: 200;
+	padding: 10px, 10px, 10px, 10px;
 }
 
 .membersPalette title .name {
@@ -905,14 +906,45 @@ code {
 	visibility: visible;
 }
 
+.membersPalette img .lead {
+	position: absolute;
+	content: " ";
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	display: block;
+	z-index: 0;
+	background: rgba(195, 40, 40, 0.6);
+}
+
+.membersPalette img .dev {
+	background: rgba(50, 133, 174, 0.6);
+}
+
+.membersPalette img .ux {
+	background: rgba(77, 34, 130);
+}
+
+.membersPalette img .community {
+	background: rgba(53, 194, 136, 0.6);
+}
+
+.membersPalette img .trainee {
+	background: rgba(195, 98, 40, 0.6);
+}
+
+.membersPalette img .past {
+	background: rgba(216, 216, 216, 0.6);
+}
+
 .membersPalette img:hover {
-	/*filter: blur(0.2);*/
+
 }
 
 .palette {
 	height: 200px;
 	width: 200px;
-	padding: 10px, 10px, 10px, 10px;
 }
 
 
