@@ -880,7 +880,7 @@ code {
 }
 
 .membersPalette title .name {
-	opacity: 0;
+	visibility: hidden;
 	font-size: 13px;
 	color: white;
 	font-style: bold;
@@ -889,11 +889,11 @@ code {
 }
 
 .membersPalette title .name:hover {
-	opacity: 1;
+	visibility: visible;
 }
 
 .membersPalette title .appdev {
-	opacity: 0;
+	visibility: hidden;
 	font-size: 10px;
 	color: white;
 	font-style: none;
@@ -902,7 +902,7 @@ code {
 }
 
 .membersPalette title .appdev:hover {
-	opacity: 1;
+	visibility: visible;
 }
 
 .membersPalette img:hover {
