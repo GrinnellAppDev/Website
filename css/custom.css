@@ -878,6 +878,7 @@ code {
 	font-family:"Helvetica Neue";
 	font-weight: 200;
 	padding: 10px, 10px, 10px, 10px;
+	text-align: center;
 }
 
 .membersPalette title .name {
@@ -943,8 +944,194 @@ code {
 }
 
 .palette {
-	height: 200px;
-	width: 200px;
+	height: 180px;
+	width: 180px;
 }
 
+.rowCentered {
+	text-align: center;
+}
 
+.colCentered: {
+	display: inline-block;
+	float:none;
+	text-align: left;
+}
+
+.memberPic {
+	width: 190px;
+	height: 190px;
+	z-index:1;
+}
+
+.leadPic {
+	-webkit-filter: sepia(1) hue-rotate(310deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(310deg) saturate(2) opacity(.8) brightness(0.85);
+}
+
+.devPic {
+	-webkit-filter: sepia(1) hue-rotate(190deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(190deg) saturate(2) opacity(.8) brightness(0.85);
+}
+
+.designPic {
+	-webkit-filter: sepia(1) hue-rotate(230deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(230deg) saturate(2) opacity(.8) brightness(0.85);
+}
+
+.comPic {
+	-webkit-filter: sepia(1) hue-rotate(150deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(150deg) saturate(2) opacity(.8) brightness(0.85);
+}
+
+.traineePic {
+	-webkit-filter: sepia(1) hue-rotate(330deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(330deg) saturate(2) opacity(.8) brightness(0.85);
+}
+
+.pastPic {
+	-webkit-filter: grayscale(1) opacity(.8);
+	filter: grayscale(1) opacity(.8);
+}
+
+.memberName {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:270px;
+    text-align: center;
+    z-index: 10;
+    opacity: 0;
+    font-family: "Helvetica";
+    font-size: 1.5em;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.memberName:hover {
+    opacity:1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/*.memberName {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:230px;
+    text-align: center;
+    z-index: 10;
+    font-family: "Helvetica";
+    font-size: 1.5em;
+}
+
+.memberPosition {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:270px;
+    text-align: center;
+    z-index: 10;
+    font-family: "Helvetica";
+    font-size: 1em;
+}
+
+.memberSocialLeft {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 190px;
+    height: 190px;
+    line-height:320px;
+    text-align: center;
+    z-index: 10;
+}
+
+.memberSocialRight {
+    position: absolute;
+    top: 0;
+    left:30px;
+    width: 190px;
+    height: 190px;
+    line-height:320px;
+    text-align: center;
+    z-index: 10;
+}
+
+.hoverInfo {
+	opacity:0;
+}
+*/
+
+
+
+
+
+/*.memberName {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:230px;
+    text-align: center;
+    z-index: 10;
+    font-family: "Helvetica";
+    font-size: 1.5em;
+}
+
+.memberPosition {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:270px;
+    text-align: center;
+    z-index: 10;
+    font-family: "Helvetica";
+    font-size: 1em;
+}
+
+.memberSocialLeft {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 190px;
+    height: 190px;
+    line-height:320px;
+    text-align: center;
+    z-index: 10;
+}
+
+.memberSocialRight {
+    position: absolute;
+    top: 0;
+    left:30px;
+    width: 190px;
+    height: 190px;
+    line-height:320px;
+    text-align: center;
+    z-index: 10;
+}
+
+.hoverInfo {
+	opacity:0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.hoverInfo:hover {
+    opacity:1;
+}*/

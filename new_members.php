@@ -16,22 +16,141 @@ include('inc/header.php');
 
 	<div class="container membersPalette">
 		<div class="col-md-12">
-			<div class="col-md-1">
-            </div>
 		<!-- LEADS -->
-			<div>
 			  	<!-- LEA -->
-			   	 <div class="row">
-			   	 	<div class="col-md-2">
+<!-- 			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<div class="lead">
 			   	 			<img src="img/lea.png" class="palette"/>
 			   	 			<title class="name">Lea Marolt Sonnenschein</title>
 			   	 			<title class="appdev">iOS Lead Developer</title>
 			   	 		</div>
+			   	 	</div> -->
+			   	<div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+        					Lea Marolt 
+    					</span>
+<!--     					<span class="memberPosition">
+    						iOS Lead
+    					</span>
+    					<span class="memberSocialLeft">
+    						<img src="img/socialSquare.png" />
+    					</span>
+    					<span class="memberSocialRight">
+    						<img src="img/socialSquare.png" />
+    					</span> -->
+    					
+			   	 			<img src="img/lea.png" class="memberPic leadPic" />
 			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic leadPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic leadPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic leadPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic leadPic" />
+			   	 	</div>
+			   	 </div>
+
+			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic devPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic devPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic devPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic devPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic devPic" />
+			   	 	</div>
+			   	 </div>
+
+			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 </div>
+
+			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic comPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic comPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic comPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic comPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic comPic" />
+			   	 	</div>
+			   	 </div>
+
+			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 </div>
+
+			   	 <div class="row rowCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic pastPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic pastPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic pastPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic pastPic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 			<img src="img/lea.png" class="memberPic pastPic" />
+			   	 	</div>
+			   	 </div>
+			   	 </br>
+			   	 </br>
 
 			   	 <!-- PATRICK -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<div class="lead">
 			  				<img src="img/patrick.png" class="palette"/>
 			  				<title class="name">Patrick Triest</title>
@@ -40,7 +159,7 @@ include('inc/header.php');
 		   	 		</div>
 
 			   	 <!-- CALEB -->
-		   	 		<div class="col-md-2">
+		   	 		<div class="col-md-2 colCentered">
 		   	 			<div class="lead">
 		   	 				<img src="img/caleb.png" class="palette"/>
 		   	 					<title class="name">Caleb Sponheim</title>
@@ -49,7 +168,7 @@ include('inc/header.php');
 			   	 	</div>
 
 			   	 <!-- NATHALIE -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<div class="lead">
 			   	 			<img src="img/nathalie.png" class="palette"/>
 			   	 			<title class="name">Nathalie Ford</title>
@@ -57,14 +176,15 @@ include('inc/header.php');
 			   	 		</div>
 			   	 	</div>
 			   	 <!-- LARRY -->
-			   	 	<div class="col-md-2">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<div class="lead">
 			   	 			<img src="img/larry.png" class="palette"/>
 			   	 			<title class="name">Larry Boateng Asante</title>
 			   	 			<title class="appdev">Education Manager</title>
 			   	 		</div>
 			   	 	</div>
-			   	 </div>
+			   	</div>
+		</div>
 
 
 <!-- not using at the moment while i figure this shit out
