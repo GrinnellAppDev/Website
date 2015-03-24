@@ -881,67 +881,6 @@ code {
 	text-align: center;
 }
 
-.membersPalette title .name {
-	visibility: hidden;
-	font-size: 13px;
-	color: white;
-	font-style: bold;
-	text-align: table-cell;
-	vertical-align: center;
-}
-
-.membersPalette title .name:hover {
-	visibility: visible;
-}
-
-.membersPalette title .appdev {
-	visibility: hidden;
-	font-size: 10px;
-	color: white;
-	font-style: none;
-	text-align: table-cell;
-	vertical-align: center;
-}
-
-.membersPalette title .appdev:hover {
-	visibility: visible;
-}
-
-.membersPalette img .lead {
-	position: absolute;
-	content: " ";
-	top: 0;
-	left: 0;
-	height: 100%;
-	width: 100%;
-	display: block;
-	z-index: 0;
-	background: rgba(195, 40, 40, 0.6);
-}
-
-.membersPalette img .dev {
-	background: rgba(50, 133, 174, 0.6);
-}
-
-.membersPalette img .ux {
-	background: rgba(77, 34, 130);
-}
-
-.membersPalette img .community {
-	background: rgba(53, 194, 136, 0.6);
-}
-
-.membersPalette img .trainee {
-	background: rgba(195, 98, 40, 0.6);
-}
-
-.membersPalette img .past {
-	background: rgba(216, 216, 216, 0.6);
-}
-
-.membersPalette img:hover {
-
-}
 
 .palette {
 	height: 180px;
@@ -970,8 +909,8 @@ code {
 }
 
 .devPic {
-	-webkit-filter: sepia(1) hue-rotate(190deg) saturate(2) opacity(.8) brightness(0.85);
-	filter: sepia(1) hue-rotate(190deg) saturate(2) opacity(.8) brightness(0.85);
+	-webkit-filter: sepia(1) hue-rotate(200deg) saturate(2) opacity(.8) brightness(0.85);
+	filter: sepia(1) hue-rotate(200deg) saturate(2) opacity(.8) brightness(0.85);
 }
 
 .designPic {
@@ -1000,11 +939,11 @@ code {
     color:white;
     width: 190px;
     height: 190px;
-    line-height:270px;
+    line-height:160px;
     text-align: center;
     z-index: 10;
     opacity: 0;
-    font-family: "Helvetica";
+    font-family: "Helvetica Neue";
     font-size: 1.5em;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -1012,6 +951,31 @@ code {
     transition: all 0.3s ease;
 }
 .memberName:hover {
+    opacity:1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.memberTitle {
+    position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px;
+    line-height:190px;
+    text-align: center;
+    z-index: 8;
+    opacity: 0;
+    font-family: "Helvetica Neue";
+    font-size: 1em;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.memberTitle:hover {
     opacity:1;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
