@@ -22,10 +22,8 @@ include('inc/header.php');
 			   	<div class="row rowCentered">
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
-        					Lea Marolt Sonnenschein
-    					</span>
-    					<span class="memberTitle">
-        					iOS Team Lead
+        					<p>Lea Marolt Sonnenschein</p>
+        					<p class="memberTitle">iOS Team Lead</p>
     					</span>
 <!--     					<span class="memberPosition">
     						iOS Lead
@@ -42,31 +40,32 @@ include('inc/header.php');
 		<!-- PATRICK -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-        					Patrick Triest
-    					</span>
-    					<span class="memberTitle">
-        					Android Team Lead
+        					<p>Patrick Triest</p>
+        					<p class="memberTitle">Android Team Lead</p>
     					</span>
 			   	 			<img src="img/patrick.png" class="memberPic leadPic" />
 			   	 	</div>
 		<!-- NATHALIE -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-        					Nathalie Ford
+        					<p>Nathalie Ford</p>
+        					<p class="memberTitle">Administrative Coordinator</p>
     					</span>
 			   	 			<img src="img/nathalie.png" class="memberPic leadPic" />
 			   	 	</div>
 		<!-- LARRY -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-        					Larry Boateng Asante
+        					<p>Larry Boateng Asante</p>
+        					<p class="memberTitle">Education Manager</p>
     					</span>
 			   	 			<img src="img/larry.png" class="memberPic leadPic" />
 			   	 	</div>
 		<!-- CALEB -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-        					Caleb Sponheim
+        					<p>Caleb Sponheim</p>
+        					<p class="memberTitle">Design Lead</p>
     					</span>
 			   	 			<img src="img/caleb.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -76,21 +75,24 @@ include('inc/header.php');
 		<!-- ALEX -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
-        					Alex Mitchell
+        					<p>Alex Mitchell</p>
+        					<p class="memberTitle">iOS Team Lead in Training</p>
     					</span>
 			   	 			<img src="img/alex.png" class="memberPic leadPic" />
 			   	 	</div>
 		<!-- SAMEE -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Samee Zahid
+			   	 			<p>Samee Zahid</p>
+			   	 			<p class="memberTitle">Android Team Lead in Training</p>
 			   	 		</span>
 			   	 			<img src="img/samee.png" class="memberPic leadPic" />
 			   	 	</div>
 		<!-- AJUNA -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Ajuna Kyaruzi
+			   	 			<p>Ajuna Kyaruzi</p>
+			   	 			<p class="memberTitle">Administrative Coordinator in Training</p>
 			   	 		</span>
 			   	 			<img src="img/ajuna.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -99,14 +101,16 @@ include('inc/header.php');
 		<!-- DANIEL T -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Daniel Torres
+			   	 			<p>Daniel Torres</p>
+			   	 			<p class="memberTitle">iOS Developer</p>
 			   	 		</span>
 			   	 			<img src="img/danielT.png" class="memberPic devPic" />
 			   	 	</div>
 		<!-- MIKE -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Michael Owusu
+			   	 			<p>Michael Owusu</p>
+			   	 			<p class="memberTitle">Android Developer</p>
 			   	 		</span>
 			   	 			<img src="img/michael.png" class="memberPic devPic" />
 			   	 	</div>
@@ -116,35 +120,40 @@ include('inc/header.php');
 		<!-- TY -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
-			   	 			Tyler Dewey
+			   	 			<p>Tyler Dewey</p>
+			   	 			<p class="memberTitle">iOS Developer</p>
 			   	 		</span>
 			   	 			<img src="img/ty.png" class="memberPic devPic" />
 			   	 	</div>
 		<!-- PATRICK S -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Patrick Slough
+			   	 			<p>Patrick Slough</p>
+			   	 			<p class="memberTitle">iOS Developer</p>
 			   	 		</span>
 			   	 			<img src="img/patrickS.png" class="memberPic devPic" />
 			   	 	</div>
 		<!-- TIFFANY -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Tiffany Nguyen
+			   	 			<p>Tiffany Nguyen</p>
+			   	 			<p class="memberTitle">Android Developer</p>
 			   	 		</span>
 			   	 			<img src="img/tiffany.png" class="memberPic devPic" />
 			   	 	</div>
 		<!-- DANIEL G -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Daniel Goldstein
+			   	 			<p>Daniel Goldstein<p>
+			   	 			<p class="memberTitle">Android Developer</p>
 			   	 		</span>
 			   	 			<img src="img/danielG.png" class="memberPic devPic" />
 			   	 	</div>
 		<!-- AMANDA -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Amanda Hinchman-Dominguez
+			   	 			<p>Amanda Hinchman-Dominguez</p>
+			   	 			<p class="memberTitle">Android Developer</p>
 			   	 		</span>
 			   	 			<img src="img/defaultPerson.png" class="memberPic devPic" />
 			   	 	</div>
@@ -154,7 +163,8 @@ include('inc/header.php');
 		<!-- SHAUN -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
-			   	 			Shaun Mataire
+			   	 			<p>Shaun Mataire</p>
+			   	 			<p class="memberTitle">Android Developer</p>
 			   	 		</span>
 			   	 			<img src="img/shaun.png" class="memberPic devPic" />
 			   	 	</div>
@@ -163,59 +173,242 @@ include('inc/header.php');
 		<!-- LEXY -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Lexy Greenwell
+			   	 			<p>Lexy Greenwell</p>
+			   	 			<p class="memberTitle">UI Designer</p>
 			   	 		</span>
 			   	 			<img src="img/lexy.png" class="memberPic designPic" />
 			   	 	</div>
 		<!-- SARAH -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Sarah Trop
+			   	 			<p>Sarah Trop</p>
+			   	 			<p class="memberTitle">UI Designer</p>
 			   	 		</span>
 			   	 			<img src="img/sarah.png" class="memberPic designPic" />
 			   	 	</div>
 		<!-- HANNAH -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Hannah Cohn
+			   	 			<p>Hannah Cohn</p>
+			   	 			<p class="memberTitle">UX Researcher</p>
 			   	 		</span>
 			   	 			<img src="img/hannah.png" class="memberPic designPic" />
 			   	 	</div>
 		<!-- CHRIS -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Chris Lee
+			   	 			<p>Chris Lee</p>
+			   	 			<p class="memberTitle">UX Researcher</p>
 			   	 		</span>
 			   	 			<img src="img/chris.png" class="memberPic designPic" />
 			   	 	</div>
 			   	 </div>
+
 			   	 <div class="row rowCentered">
 	<!-- COMMUNITY -->
 
 		<!-- CHLOE -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
-			   	 			Chloe Williams
+			   	 			<p>Chloe Williams</p>
+			   	 			<p class="memberTitle">Community Builder</p>
 			   	 		</span>
 			   	 			<img src="img/defaultPerson.png" class="memberPic comPic" />
 			   	 	</div>
 		<!-- MARK -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Mark Schwabacher
+			   	 			<p>Mark Schwabacher</p>
+			   	 			<p class="memberTitle">Community Builder</p>
 			   	 		</span>
 			   	 			<img src="img/mark.png" class="memberPic comPic" />
 			   	 	</div>
 		<!-- JARREN -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
-			   	 			Jarren Santos
+			   	 			<p>Jarren Santos</p>
+			   	 			<p class="memberTitle">Community Builder</p>
 			   	 		</span>
 			   	 			<img src="img/jarren.png" class="memberPic comPic" />
 			   	 	</div>
-	<!-- TRAINEES -->
+	<!-- TRAINEES 
+
+		<!-- HENRY 
 			   	 	<div class="col-md-2 colCentered">
-			   	 			<img src="img/lea.png" class="memberPic traineePic" />
+			   	 		<span class="memberName">
+			   	 			<p>Henry Fisher</p>
+			   	 			<p class="memberTitle">iOS Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- ADAM 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Adam Hudson<p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	</div>
+
+			   	<div class="row rowCentered">
+		<!-- ELI 
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Eli Most</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- ALEX F 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Alex French</p>
+			   	 			<p class="memberTitle">iOS Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- YAZAN 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Yazan Kittaneh</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- ZACAHARY 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Zacahary Segall</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- CALEB K 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Caleb Kumar</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	</div>
+
+			   	<div class="row rowCentered">
+		<!-- ZHI 
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Zhi Chen</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- REILLY 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Reilly Grant</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- DAVID K 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>David Kraemer</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- ALEXSANDAR 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Aleksandar Hrusanov</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- GREG 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Gregory Garcia</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	</div>
+
+			   	<div class="row rowCentered">
+		<!-- RENN 
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Renn Jervis</p>
+			   	 			<p class="memberTitle">Android Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- YING 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ying Long</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- EZRA 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ezra Edgerton</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- HAN 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Han Trinh</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- SOOJI 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Sooji Son</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	</div>
+
+				<div class="row rowCentered">
+		<!-- RUTH 
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ruth Wu</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+		<!-- ALEX G 
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Alex Greenberg</p>
+			   	 			<p class="memberTitle">Design Trainee</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			Extra spot
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 	</div>
+			   	 -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			Extra spot
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
 			   	 	</div>
 	<!-- PAST -->
 		<!-- DAVID -->
@@ -279,6 +472,8 @@ $(document).ready(function() {
         closeEffect : 'none'
     });
 });
+
+
 </script>
 
     <?php 

@@ -217,4 +217,9 @@ $(document).ready(function() {
 		$("#ft2").addClass("animated fadeInDown");
 	}, { offset: '40%' });
 
+/*Sarah's temp javascript */
+	$('#img').live('mouseover', function(){
+	$('#info').show();
+});
+
 });
