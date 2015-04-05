@@ -990,6 +990,33 @@ code {
     transition: all 0.3s ease;
 } 
 
+.memberLinks {
+	position: absolute;
+    top: 0;
+    color:white;
+    width: 190px;
+    height: 190px; 
+    line-height:275px;
+    text-align: center;
+    z-index: 8;
+    opacity: 0;
+    font-family: "Helvetica Neue";
+    font-size: 1em;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    font-size: 0.8em;
+}
+
+.memberLinks:hover {
+	opacity:1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
 /*.memberName {
     position: absolute;
     top: 0;
