@@ -23,7 +23,7 @@ include('inc/header.php');
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
         					<p>Lea Marolt Sonnenschein</p>
-        					<p class="memberTitle">iOS Team Lead</p>
+        					<p class="memberTitle">iOS Lead</p>
     					</span>
 <!--     					<span class="memberPosition">
     						iOS Lead
@@ -41,7 +41,7 @@ include('inc/header.php');
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
         					<p>Patrick Triest</p>
-        					<p class="memberTitle">Android Team Lead</p>
+        					<p class="memberTitle">Android Lead</p>
     					</span>
 			   	 			<img src="img/patrick.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -76,7 +76,7 @@ include('inc/header.php');
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
         					<p>Alex Mitchell</p>
-        					<p class="memberTitle">iOS Team Lead in Training</p>
+        					<p class="memberTitle">iOS Lead in Training</p>
     					</span>
 			   	 			<img src="img/alex.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -84,7 +84,7 @@ include('inc/header.php');
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Samee Zahid</p>
-			   	 			<p class="memberTitle">Android Team Lead in Training</p>
+			   	 			<p class="memberTitle">Android Lead in Training</p>
 			   	 		</span>
 			   	 			<img src="img/samee.png" class="memberPic leadPic" />
 			   	 	</div>

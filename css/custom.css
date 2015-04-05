@@ -943,7 +943,7 @@ code {
     color:white;
     width: 190px;
     height: 190px;
-    line-height:140px;
+    line-height:190px;
     text-align: center;
     z-index: 10;
     opacity: 0;
@@ -968,9 +968,9 @@ code {
     top: 0;
     color:white;
     width: 190px;
-    height: 190px;
-    line-height:190px;
-    text-align: center;
+    height: 190px; 
+    line-height:235px;
+   text-align: center;
     z-index: 8;
     opacity: 0;
     font-family: "Helvetica Neue";
@@ -980,7 +980,6 @@ code {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
     font-size: 0.8em;
-	font-weight: lighter;
 }
 
 .memberTitle:hover {
@@ -989,7 +988,7 @@ code {
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-}
+} 
 
 /*.memberName {
     position: absolute;
