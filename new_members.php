@@ -588,7 +588,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<span class="memberLinks">
     					</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/prabir.png" class="memberPic traineePic" />
 			   	 	</div>
 			   	
 		<!-- CAMILLA -->
