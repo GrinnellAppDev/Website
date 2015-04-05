@@ -33,7 +33,6 @@ include('inc/header.php');
                     		<a href="http://si.linkedin.com/in/leamarolt" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     	</span> -->
-
 			   	 			<img src="img/lea.png" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
