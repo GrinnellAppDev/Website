@@ -903,6 +903,10 @@ code {
 	z-index:1;
 }
 
+.memberPic:hover {
+	-webkit-filter: blur(5px);
+}
+
 .leadPic {
 	-webkit-filter: sepia(1) hue-rotate(305deg) saturate(1) opacity(.8) brightness(0.75);
 	filter: sepia(1) hue-rotate(305deg) saturate(1) opacity(.8) brightness(0.75);
@@ -951,10 +955,6 @@ code {
     transition: all 0.3s ease;
 }
 
-.memberTitle{
-	font-size: 0.5em;
-	font-weight: lighter;
-}
 .memberName:hover {
     opacity:1;
     -webkit-transition: all 0.3s ease;
@@ -979,7 +979,10 @@ code {
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    font-size: 0.7em;
+	font-weight: lighter;
 }
+
 .memberTitle:hover {
     opacity:1;
     -webkit-transition: all 0.3s ease;

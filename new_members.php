@@ -258,7 +258,7 @@ include('inc/header.php');
 			   	 			<p>Alex French</p>
 			   	 			<p class="memberTitle">iOS Trainee</p>
 			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/alexf.png" class="memberPic traineePic" />
 			   	 	</div>
 		<!-- YAZAN -->
 			   	 	<div class="col-md-2 colCentered">
@@ -282,7 +282,7 @@ include('inc/header.php');
 			   	 			<p>Gregory Garcia</p>
 			   	 			<p class="memberTitle">iOS Trainee</p>
 			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/greg.png" class="memberPic traineePic" />
 			   	 	</div>
 		<!-- RENN -->
 			   		<div class="col-md-2 colCentered">
@@ -317,7 +317,7 @@ include('inc/header.php');
 			   	 			<p>Han Trinh</p>
 			   	 			<p class="memberTitle">Design Trainee</p>
 			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/han.png" class="memberPic traineePic" />
 			   	 	</div>
 		<!-- SOOJI -->
 			   	 	<div class="col-md-2 colCentered">
@@ -325,7 +325,7 @@ include('inc/header.php');
 			   	 			<p>Sooji Son</p>
 			   	 			<p class="memberTitle">Design Trainee</p>
 			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/sooji.png" class="memberPic traineePic" />
 			   	 	</div>
 		<!-- RUTH -->
 			   		<div class="col-md-2 colCentered">
