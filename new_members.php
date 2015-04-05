@@ -226,7 +226,7 @@ include('inc/header.php');
 			   	 			<p>Han Trinh</p>
 			   	 			<p class="memberTitle">UI Design</p>
 			   	 		</span>
-			   	 			<img src="img/han.png" class="memberPic designPic" />
+			   	 			<img src="img/han.png" class="memberPic designPic"/>
 			   	 	</div>
 		<!-- SOOJI -->
 			   	 	<div class="col-md-2 colCentered">
