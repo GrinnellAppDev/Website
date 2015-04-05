@@ -203,6 +203,48 @@ include('inc/header.php');
 			   	 			<img src="img/chris.png" class="memberPic designPic" />
 			   	 	</div>
 			   	 </div>
+			   	 			   	<div class="row rowCentered">
+		<!-- YING -->
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ying Long</p>
+			   	 			<p class="memberTitle">UI Designer</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic designPic" />
+			   	 	</div>
+		<!-- EZRA -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ezra Edgerton</p>
+			   	 			<p class="memberTitle">UI Designer</p>
+			   	 		</span>
+			   	 			<img src="img/defaultPerson.png" class="memberPic designPic" />
+			   	 	</div>
+		<!-- HAN -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Han Trinh</p>
+			   	 			<p class="memberTitle">UI Design</p>
+			   	 		</span>
+			   	 			<img src="img/han.png" class="memberPic designPic" />
+			   	 	</div>
+		<!-- SOOJI -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Sooji Son</p>
+			   	 			<p class="memberTitle">UI Designer</p>
+			   	 		</span>
+			   	 			<img src="img/sooji.png" class="memberPic designPic" />
+			   	 	</div>
+		<!-- RUTH -->
+			   		<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Ruth Wu</p>
+			   	 			<p class="memberTitle">UI Designer</p>
+			   	 		</span>
+			   	 			<img src="img/ruth.png" class="memberPic designPic" />
+			   	 	</div>
+			   	 	</div>
 
 			   	 <div class="row rowCentered">
 	<!-- COMMUNITY -->
@@ -294,49 +336,6 @@ include('inc/header.php');
 			   	 	</div>
 			   	 	</div>
 
-			   	<div class="row rowCentered">
-		<!-- YING -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Ying Long</p>
-			   	 			<p class="memberTitle">Design Trainee</p>
-			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
-			   	 	</div>
-		<!-- EZRA -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Ezra Edgerton</p>
-			   	 			<p class="memberTitle">Design Trainee</p>
-			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
-			   	 	</div>
-		<!-- HAN -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Han Trinh</p>
-			   	 			<p class="memberTitle">Design Trainee</p>
-			   	 		</span>
-			   	 			<img src="img/han.png" class="memberPic traineePic" />
-			   	 	</div>
-		<!-- SOOJI -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Sooji Son</p>
-			   	 			<p class="memberTitle">Design Trainee</p>
-			   	 		</span>
-			   	 			<img src="img/sooji.png" class="memberPic traineePic" />
-			   	 	</div>
-		<!-- RUTH -->
-			   		<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Ruth Wu</p>
-			   	 			<p class="memberTitle">Design Trainee</p>
-			   	 		</span>
-			   	 			<img src="img/ruth.png" class="memberPic traineePic" />
-			   	 	</div>
-			   	 	</div>
-
 				<div class="row rowCentered">
 		<!-- ALEX G -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
@@ -402,12 +401,6 @@ include('inc/header.php');
 			   	 		</span>
 			   	 			<img src="img/maijid.png" class="memberPic pastPic" />
 			   	 	</div>
-		<!-- DUGAN -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			Dugan Knoll
-			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic pastPic" />
 			   	 	</div>
 			   	 </div>
 			   	 </br>
