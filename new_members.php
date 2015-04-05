@@ -270,7 +270,7 @@ include('inc/header.php');
                     		<a href="https://github.com/ahinchman1" target="_blank">
                     		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic devPic" />
+			   	 			<img src="img/amanda.jpg" class="memberPic devPic" />
 			   	 	</div>
 			   	 </div>
 
@@ -493,7 +493,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<span class="memberLinks">
     					</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
+			   	 			<img src="img/adam.png" class="memberPic traineePic" />
 			   	 	</div>
 			   	</div>
 
