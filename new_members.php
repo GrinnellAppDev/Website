@@ -507,13 +507,13 @@ include('inc/header.php');
 			   	 			<p>Alex French</p>
 			   	 			<p class="memberTitle">iOS Trainee</p>
 			   	 		</span>
-			   	 		<span class="memberLinks">
+			   	 		<!-- <span class="memberLinks">
                     		<a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                      
                     		<a href="https://github.com/frenchal17" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
-    					</span>
+    					</span> -->
 			   	 			<img src="img/alexf.png" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
@@ -524,13 +524,13 @@ include('inc/header.php');
 			   	 			<p>Yazan Kittaneh</p>
 			   	 			<p class="memberTitle">Android Trainee</p>
 			   	 		</span>
-			   	 		<span class="memberLinks">
+			   	 		<!-- <span class="memberLinks">
                     		<a href="https://www.linkedin.com/in/yazankittaneh" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     		<a href="https://github.com/YazanKittaneh" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
-    					</span>
+    					</span> -->
 			   	 			<img src="img/yazan.png" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
