@@ -251,7 +251,7 @@ include('inc/header.php');
 	                    	<a href="https://github.com/goldstei1" target="_blank">
 	                    	<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/danielG.jpg" class="memberPic devPic" />
+			   	 			<img src="img/danielG.png" class="memberPic devPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- AMANDA -->
