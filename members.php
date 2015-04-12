@@ -33,7 +33,7 @@ include('inc/header.php');
                     		<a href="http://si.linkedin.com/in/leamarolt" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     	</span> -->
-			   	 			<img src="img/lea.png" class="memberPic leadPic" />
+			   	 			<img src="img/lea.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- PATRICK -->
@@ -48,9 +48,9 @@ include('inc/header.php');
                     		<img class="responsive bioLogo" src="img/home.png"></a>
                     
                     		<a href="http://www.linkedin.com/in/triestpa" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<img class="responsive bioLogo" src="img/linkedLogo.jpg"></a>
     					</span> -->
-			   	 			<img src="img/patrick.png" class="memberPic leadPic" />
+			   	 			<img src="img/patrick.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- NATHALIE -->
@@ -64,7 +64,7 @@ include('inc/header.php');
                     		<a href="http://www.linkedin.com/in/nathalieford" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/nathalie.png" class="memberPic leadPic" />
+			   	 			<img src="img/nathalie.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- LARRY -->
@@ -80,7 +80,7 @@ include('inc/header.php');
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                     
                     		<a href="http://www.github.com/LarryAsanteBoateng" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<img class="responsive bioLogo" src="img/githubLogo.jpg"></a>
     					</span> -->
 			   	 			<img src="img/larry.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -99,7 +99,7 @@ include('inc/header.php');
                     		<a href="http://www.linkedin.com/in/calebsponheim" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/caleb.png" class="memberPic leadPic" />
+			   	 			<img src="img/caleb.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 	</a>
 			   	 </div>
@@ -119,7 +119,7 @@ include('inc/header.php');
                     		<a href=" https://www.github.com/alexthemitchell " target="_blank">
                     		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/alex.png" class="memberPic leadPic" />
+			   	 			<img src="img/alex.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- SAMEE -->
@@ -136,7 +136,7 @@ include('inc/header.php');
                     		<a href=" http://www.linkedin.com/in/samee24" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/samee.png" class="memberPic leadPic" />
+			   	 			<img src="img/samee.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- AJUNA -->
@@ -153,7 +153,7 @@ include('inc/header.php');
                     		<a href="https://www.linkedin.com/in/ajunakyaruzi" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/ajuna.png" class="memberPic leadPic" />
+			   	 			<img src="img/ajuna.jpg" class="memberPic leadPic" />
 			   	 	</div>
 			   	 </a>
 	<!-- DEVELOPERS -->
@@ -172,7 +172,7 @@ include('inc/header.php');
                     		<a href="https://github.com/torresda" target="_blank">
                     		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/danielT.png" class="memberPic devPic" />
+			   	 			<img src="img/danielT.jpg" class="memberPic devPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- MIKE -->
@@ -189,7 +189,7 @@ include('inc/header.php');
                     		<a href="https://github.com/mkowusu" target="_blank">
                     		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/michael.png" class="memberPic devPic" />
+			   	 			<img src="img/michael.jpg" class="memberPic devPic" />
 			   	 	</div>
 			   	 </a>
 			   	 </div>
@@ -203,6 +203,26 @@ include('inc/header.php');
 			   	 		</span>
 			   	 			<img src="img/ty.png" class="memberPic devPic" />
 			   	 	</div>
+<<<<<<< HEAD
+=======
+		<!-- PATRICK S -->
+				<a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Patrick Slough</br>
+        					<span class="memberTitle">iOS Developer</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    		<a href="https://github.com/pslough93" target="_blank">
+							<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/patrickS.jpg" class="memberPic devPic" />
+			   	 	</div>
+			   	 </a>
+>>>>>>> origin/master
 		<!-- TIFFANY -->
 				<a href="https://www.linkedin.com/in/nguyenti" target="_blank">
 			   	 	<div class="col-md-2 colCentered">
@@ -217,7 +237,7 @@ include('inc/header.php');
                     		<a href="https://github.com/nguyenti" target="_blank">
                     		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/tiffany.png" class="memberPic devPic" />
+			   	 			<img src="img/tiffany.jpg" class="memberPic devPic" />
 			   	 	</div>
 			   	 </a>
 		<!-- DANIEL G -->
@@ -265,6 +285,7 @@ include('inc/header.php');
                             <a href="http://trisarahtrops.com" target="_blank">
                             <img class="responsive bioLogo" src="img/home.png"></a>
 
+<<<<<<< HEAD
                             <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
                             <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
                         </span> -->
@@ -307,6 +328,85 @@ include('inc/header.php');
                         <!-- <span class="memberLinks">
                             <a href="https://ashleyfan894.carbonmade.com/" target="_blank">
                             <img class="responsive bioLogo" src="img/home.png"></a>
+=======
+			   	 <div class="row rowCentered">
+		<!-- SHAUN -->
+				<a href="https://www.linkedin.com/pub/shaun-mataire/76/226/46a" target="_blank">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Shaun Mataire</br>
+        					<span class="memberTitle">Android Developer</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="https://www.linkedin.com/pub/shaun-mataire/76/226/46a" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    		<a href="https://github.com/shaun117" target="_blank">
+                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/shaun.jpg" class="memberPic devPic" />
+			   	 	</div>
+			   	 </a>
+	<!-- DESIGN & UX -->
+
+		<!-- LEXY -->
+				<a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Lexy Greenwell</br>
+        					<span class="memberTitle">UI Designer</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    
+                    		<a href="http://www.twitter.com/LexyLGreenwell" target="_blank">
+                    		<img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/lexy.jpg" class="memberPic designPic" />
+			   	 	</div>
+			   	 </a>
+		<!-- SARAH -->
+				<a href="http://trisarahtrops.com" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Sarah Trop</br>
+        					<span class="memberTitle">UI Designer</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="http://trisarahtrops.com" target="_blank">
+                    		<img class="responsive bioLogo" src="img/home.png"></a>
+
+                    		<a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                		</span> -->
+			   	 			<img src="img/sarah.jpg" class="memberPic designPic" />
+			   	 	</div>
+			   	 </a>
+		<!-- HANNAH -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Hannah Cohn</br>
+        					<span class="memberTitle">UX Researcher</span></p>
+			   	 		</span>
+			   	 			<img src="img/hannah.png" class="memberPic designPic" />
+			   	 	</div>
+		<!-- CHRIS -->
+				<a href="https://www.linkedin.com/profile/view?id=154641649trk=nav_responsive_tab_profile_pic" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Chris Lee</br>
+        					<span class="memberTitle">UX Researcher</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/chris.jpg" class="memberPic designPic" />
+			   	 	</div>
+			   	 </a>
+			   	 </div>
+>>>>>>> origin/master
 
                             <a href="http://www.linkedin.com/pub/han-trinh/b0/3b8/477/en" target="_blank">
                             <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
@@ -324,6 +424,26 @@ include('inc/header.php');
     					</span>
 			   	 			<img src="img/ezra.jpg" class="memberPic designPic" />
 			   	 	</div>
+<<<<<<< HEAD
+=======
+		<!-- HAN -->
+				<a href="https://ashleyfan894.carbonmade.com/" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Han Trinh</br>
+        					<span class="memberTitle">UI Design</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="https://ashleyfan894.carbonmade.com/" target="_blank">
+                    		<img class="responsive bioLogo" src="img/home.png"></a>
+
+                    		<a href="http://www.linkedin.com/pub/han-trinh/b0/3b8/477/en" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/han.jpg" class="memberPic designPic"/>
+			   	 	</div>
+			   	 </a>
+>>>>>>> origin/master
 		<!-- SOOJI -->
 				<a href="http://www.linkedin.com/in/soojison" target="_blank">
 			   	 	<div class="col-md-2 colCentered">
@@ -338,7 +458,7 @@ include('inc/header.php');
                     		<a href="https://github.com/soojison" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/sooji.png" class="memberPic designPic" />
+			   	 			<img src="img/sooji.jpg" class="memberPic designPic" />
 			   	 	</div>
 			   	 </a>
                 </div>
@@ -354,7 +474,7 @@ include('inc/header.php');
                     		<a href="http://www.linkedin.com/in/wuruth" target="_blank">
                     		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/ruth.png" class="memberPic designPic" />
+			   	 			<img src="img/ruth.jpg" class="memberPic designPic" />
 			   	 	</div>
 			   	 </a>
         <!-- ALEX G -->
@@ -390,9 +510,29 @@ include('inc/header.php');
                     		<a href="http://www.twitter.com/grinnellappdev" target="_blank">
                     		<img class="responsive bioLogo" src="img/twitterLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/mark.png" class="memberPic comPic" />
+			   	 			<img src="img/mark.jpg" class="memberPic comPic" />
 			   	 	</div>
 			   	 </a>
+<<<<<<< HEAD
+=======
+		<!-- JARREN -->
+				<a href="http://www.linkedin.com/in/jarrenLS" target="_blank">
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+			   	 			<p>Jarren Santos</br>
+        					<span class="memberTitle">Community Builder</span></p>
+			   	 		</span>
+			   	 		<!-- <span class="memberLinks">
+                    		<a href="http://www.linkedin.com/in/jarrenLS" target="_blank">
+                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+
+                    		<a href="https://twitter.com/JarrenLS" target="_blank">
+                    		<img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+    					</span> -->
+			   	 			<img src="img/jarren.jpg" class="memberPic comPic" />
+			   	 	</div>
+			   	 </a>
+>>>>>>> origin/master
 	<!-- TRAINEES -->
 
 		<!-- HENRY -->
@@ -409,7 +549,7 @@ include('inc/header.php');
                     		<a href="https://github.com/henryperson" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/henry.png" class="memberPic traineePic" />
+			   	 			<img src="img/henry.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
                 </div>
@@ -439,7 +579,7 @@ include('inc/header.php');
                     		<a href="https://github.com/frenchal17" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/alexf.png" class="memberPic traineePic" />
+			   	 			<img src="img/alexf.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
 		<!-- YAZAN -->
@@ -456,7 +596,7 @@ include('inc/header.php');
                     		<a href="https://github.com/YazanKittaneh" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/yazan.png" class="memberPic traineePic" />
+			   	 			<img src="img/yazan.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
 		<!-- GREG -->
@@ -473,7 +613,7 @@ include('inc/header.php');
                     		<a href="https://github.com/ge95garcia" target="_blank">
                    			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
     					</span> -->
-			   	 			<img src="img/greg.png" class="memberPic traineePic" />
+			   	 			<img src="img/greg.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
 		<!-- RENN -->
@@ -494,7 +634,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<span class="memberLinks">
     					</span>
-			   	 			<img src="img/prabir.png" class="memberPic traineePic" />
+			   	 			<img src="img/prabir.jpg" class="memberPic traineePic" />
 			   	 	</div>
 
 		<!-- CAMILLA -->
@@ -586,7 +726,7 @@ include('inc/header.php');
 			   	 			<p>David Cowden</br>
         					<span class="memberTitle">Android Lead</span></p>
 			   	 		</span>
-			   	 			<img src="img/david.png" class="memberPic pastPic" />
+			   	 			<img src="img/david.jpg" class="memberPic pastPic" />
 			   	 	</div>
 		<!-- CHRISTINE -->
 			   	 	<div class="col-md-2 colCentered">
@@ -602,7 +742,7 @@ include('inc/header.php');
 			   	 			Spencer Liberto</br>
         					<span class="memberTitle">Android Developer</span></p>
 			   	 		</span>
-			   	 			<img src="img/spencer.png" class="memberPic pastPic" />
+			   	 			<img src="img/spencer.jpg" class="memberPic pastPic" />
 			   	 	</div>
 		<!-- COLIN -->
 			   	 	<div class="col-md-2 colCentered">
@@ -610,7 +750,7 @@ include('inc/header.php');
 			   	 			Colin Tremblay</br>
         					<span class="memberTitle">iOS Developer</span></p>
 			   	 		</span>
-			   	 			<img src="img/colin.png" class="memberPic pastPic" />
+			   	 			<img src="img/colin.jpg" class="memberPic pastPic" />
 			   	 	</div>
                     </div>
 
@@ -621,7 +761,7 @@ include('inc/header.php');
 			   	 			Maijid Moujaled</br>
         					<span class="memberTitle">iOS Lead</span></p>
 			   	 		</span>
-			   	 			<img src="img/maijid.png" class="memberPic pastPic" />
+			   	 			<img src="img/maijid.jpg" class="memberPic pastPic" />
 			   	 	</div>
 			   	 	</div>
 			   	 </div>
