@@ -354,6 +354,18 @@ include('inc/header.php');
 			   	 			<img src="img/ruth.jpg" class="memberPic designPic" />
 			   	 	</div>
 			   	 </a>
+        <!-- ANITA -->
+                    <div class="col-md-2 col-md-offset-1 colCentered">
+                        <span class="memberName">
+                            <p>Anita DeWitt</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                        </span>
+                        <!-- <span class="memberLinks">
+                            <a href="http://www.linkedin.com/in/wuruth" target="_blank">
+                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                        </span> -->
+                            <img src="img/defaultPerson.png" class="memberPic designPic" />
+                    </div>
         <!-- ALEX G -->
                 <div class="col-md-2 colCentered">
                     <span class="memberName">
@@ -390,12 +402,13 @@ include('inc/header.php');
 			   	 			<img src="img/mark.jpg" class="memberPic comPic" />
 			   	 	</div>
 			   	 </a>
+                </div>
 
 	<!-- TRAINEES -->
-
+            <div class="row rowCentered">
 		<!-- HENRY -->
 				<a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Henry Fisher</br>
         					<span class="memberTitle">iOS Trainee</span></p>
@@ -410,11 +423,8 @@ include('inc/header.php');
 			   	 			<img src="img/henry.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
-                </div>
-
-                <div class="row rowCentered">
 		<!-- ADAM -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Adam Hudson</br>
         					<span class="memberTitle">Android Trainee</span></p>
@@ -475,19 +485,19 @@ include('inc/header.php');
 			   	 			<img src="img/greg.jpg" class="memberPic traineePic" />
 			   	 	</div>
 			   	 </a>
+                </div>
+
+                <div class="row rowCentered">
 		<!-- RENN -->
-			   		<div class="col-md-2 colCentered">
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Renn Jervis</br>
         					<span class="memberTitle">iOS Trainee</span></p>
 			   	 		</span>
 			   	 			<img src="img/defaultPerson.png" class="memberPic traineePic" />
 			   	 	</div>
-                 </div>
-
-                <div class="row rowCentered">
 		<!-- PRABIR -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Prabir Pradhan</br>
         					<span class="memberTitle">Android Trainee</span></p>
@@ -543,10 +553,12 @@ include('inc/header.php');
                             <img src="img/shaun.png" class="memberPic pastPic" />
                     </div>
                  </a>
+            </div>
 
+            <div class="row rowCentered">
         <!-- LEXY -->
                 <a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Lexy Greenwell</p>
                             <p class="memberTitle">UI Designer</p>
@@ -561,12 +573,9 @@ include('inc/header.php');
                             <img src="img/lexy.png" class="memberPic pastPic" />
                     </div>
                  </a>
-                </div>
-
-            <div class="row rowCentered">
         <!-- PATRICK S -->
                 <a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a" target="_blank">
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Patrick Slough</p>
                             <p class="memberTitle">iOS Developer</p>
@@ -605,19 +614,19 @@ include('inc/header.php');
 			   	 		</span>
 			   	 			<img src="img/spencer.jpg" class="memberPic pastPic" />
 			   	 	</div>
+                 </div>
+
+                 <div class="row rowCentered">
 		<!-- COLIN -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			Colin Tremblay</br>
         					<span class="memberTitle">iOS Developer</span></p>
 			   	 		</span>
 			   	 			<img src="img/colin.jpg" class="memberPic pastPic" />
 			   	 	</div>
-                    </div>
-
-            <div class="row rowCentered">
 		<!-- MAIJID -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			Maijid Moujaled</br>
         					<span class="memberTitle">iOS Lead</span></p>
