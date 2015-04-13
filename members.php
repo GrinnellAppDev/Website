@@ -355,7 +355,7 @@ include('inc/header.php');
 			   	 	</div>
 			   	 </a>
         <!-- ANITA -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Anita DeWitt</br>
                             <span class="memberTitle">UI Designer</span></p>
