@@ -492,7 +492,7 @@ include('inc/header.php');
 
                 <div class="row rowCentered">
 		<!-- PRABIR -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Prabir Pradhan</br>
         					<span class="memberTitle">Android Trainee</span></p>
