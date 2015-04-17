@@ -254,6 +254,45 @@ include('inc/header.php');
 			   	 			<img src="img/amanda.jpg" class="memberPic devPic" />
 			   	 	</div>
 			   	 </a>
+                        <!-- ALEX F -->
+                <a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Alex French</br>
+                            <span class="memberTitle">iOS Developer</span></p>
+                        </span>
+                        <!-- <span class="memberLinks">
+                            <a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
+                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                     
+                            <a href="https://github.com/frenchal17" target="_blank">
+                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                        </span> -->
+                            <img src="img/alexf.jpg" class="memberPic devPic" />
+                    </div>
+                 </a>
+             </div>
+        
+        <div class="row rowCentered">
+        <!-- HENRY -->
+                <a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
+                        <span class="memberName">
+                            <p>Henry Fisher</br>
+                            <span class="memberTitle">iOS Developer</span></p>
+                        </span>
+                        <!-- <span class="memberLinks">
+                            <a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
+                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                      
+                            <a href="https://github.com/henryperson" target="_blank">
+                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                        </span> -->
+                            <img src="img/henry.jpg" class="memberPic devPic" />
+                    </div>
+                 </a>
+            
+<!-- DESIGN & UX -->
         <!-- SARAH -->
                 <a href="http://trisarahtrops.com" target="_blank">
                     <div class="col-md-2 colCentered">
@@ -271,14 +310,10 @@ include('inc/header.php');
                             <img src="img/sarah.png" class="memberPic designPic" />
                     </div>
                  </a>
-                </div>
-                
-            <div class="row rowCentered">
-
-<!-- DESIGN & UX -->
+            
         <!-- CHRIS -->
                 <a href="https://www.linkedin.com/profile/view?id=154641649trk=nav_responsive_tab_profile_pic" target="_blank">
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Chris Lee</p>
                             <p class="memberTitle">UX Researcher</p>
@@ -311,8 +346,11 @@ include('inc/header.php');
                             <img src="img/han.png" class="memberPic designPic" />
                         </div>
                     </a>
+                </div>
+
+            <div class="row rowCentered">
 		<!-- EZRA -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Ezra Edgerton</br>
         					<span class="memberTitle">UI Designer</span></p>
@@ -338,12 +376,9 @@ include('inc/header.php');
 			   	 			<img src="img/sooji.jpg" class="memberPic designPic" />
 			   	 	</div>
 			   	 </a>
-                </div>
-
-            <div class="row rowCentered">
 		<!-- RUTH -->
 				<a href="http://www.linkedin.com/in/wuruth" target="_blank">
-			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   		<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Ruth Wu</br>
         					<span class="memberTitle">UI Designer</span></p>
@@ -377,10 +412,12 @@ include('inc/header.php');
                     </span>
                             <img src="img/alexg.jpg" class="memberPic designPic" />
                     </div>
+                </div>
 
+            <div class="row rowCentered">
 	<!-- COMMUNITY -->
 		<!-- CHLOE -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Chloe Williams</br>
         					<span class="memberTitle">Community Builder</span></p>
@@ -404,28 +441,8 @@ include('inc/header.php');
 			   	 			<img src="img/mark.jpg" class="memberPic comPic" />
 			   	 	</div>
 			   	 </a>
-                </div>
-
-            <div class="row rowCentered">
                 
 <!-- TRAINEES -->
-		<!-- HENRY -->
-				<a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Henry Fisher</br>
-        					<span class="memberTitle">iOS Trainee</span></p>
-			   	 		</span>
-			   	 		<!-- <span class="memberLinks">
-                    		<a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                      
-                    		<a href="https://github.com/henryperson" target="_blank">
-                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
-    					</span> -->
-			   	 			<img src="img/henry.jpg" class="memberPic traineePic" />
-			   	 	</div>
-			   	 </a>
 		<!-- ADAM -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
@@ -436,24 +453,6 @@ include('inc/header.php');
     					</span>
 			   	 			<img src="img/adam.png" class="memberPic traineePic" />
 			   	 	</div>
-
-		<!-- ALEX F -->
-				<a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Alex French</br>
-        					<span class="memberTitle">iOS Trainee</span></p>
-			   	 		</span>
-			   	 		<!-- <span class="memberLinks">
-                    		<a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                     
-                    		<a href="https://github.com/frenchal17" target="_blank">
-                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
-    					</span> -->
-			   	 			<img src="img/alexf.jpg" class="memberPic traineePic" />
-			   	 	</div>
-			   	 </a>
 		<!-- YAZAN -->
 				<a href="https://www.linkedin.com/in/yazankittaneh" target="_blank">
 			   	 	<div class="col-md-2 colCentered">
