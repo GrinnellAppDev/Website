@@ -906,10 +906,10 @@ code {
 
 /*THIS SEEMS TO ACTUALLY DO BLURRING!!!*/
 
-/*.memberPic:hover {
+.memberPic:hover {
 	-webkit-filter: blur(5px);
 	filter: blur (5px);
-}*/
+}
 
 .leadPic {
     /* linear-gradient(to top, #D8D8D8, #C32828); */
