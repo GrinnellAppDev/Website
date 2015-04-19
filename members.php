@@ -422,7 +422,7 @@ include('inc/header.php');
 			   	 			<p>Chloe Williams</br>
         					<span class="memberTitle">Community Builder</span></p>
 			   	 		</span>
-			   	 			<img src="img/defaultPerson.png" class="memberPic comPic" />
+			   	 			<img src="img/chloe.jpg" class="memberPic comPic" />
 			   	 	</div>
 		<!-- MARK -->
 				<a href="https://www.linkedin.com/profile/view?id=327587355&authType=NAME_SEARCH&authToken=Ex0N&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423429507184%2Ctas%3Amark%20Schwabacher%2Cidx%3A1-1-1" target="_blank">
