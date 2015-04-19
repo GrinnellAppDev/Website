@@ -945,7 +945,6 @@ code {
 
 .memberName {
     position: absolute;
-    top: 50px;
     color:white;
     width: 190px;
     height: 190px;
@@ -959,6 +958,10 @@ code {
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+}
+
+.memberName p {
+	margin-top: 50px;
 }
 
 .memberName:hover {
