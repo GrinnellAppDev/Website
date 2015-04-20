@@ -355,8 +355,8 @@ include('inc/header.php');
 			   	 			<p>Ezra Edgerton</br>
         					<span class="memberTitle">UI Designer</span></p>
 			   	 		</span>
-			   	 		<span class="memberLinks">
-    					</span>
+			   	 		<!-- <span class="memberLinks">
+    					</span> -->
 			   	 			<img src="img/ezra.jpg" class="memberPic designPic" />
 			   	 	</div>
 		<!-- SOOJI -->
@@ -408,8 +408,8 @@ include('inc/header.php');
                         <p>Alex Greenberg</p>
                             <p class="memberTitle">UI Designer</p>
                     </span>
-                    <span class="memberLinks">
-                    </span>
+                    <!-- <span class="memberLinks">
+                    </span> -->
                             <img src="img/alexg.jpg" class="memberPic designPic" />
                     </div>
                 </div>
@@ -449,8 +449,8 @@ include('inc/header.php');
 			   	 			<p>Adam Hudson</br>
         					<span class="memberTitle">Android Trainee</span></p>
 			   	 		</span>
-			   	 		<span class="memberLinks">
-    					</span>
+			   	 		<!-- <span class="memberLinks">
+    					</span> -->
 			   	 			<img src="img/adam.png" class="memberPic traineePic" />
 			   	 	</div>
 		<!-- YAZAN -->
@@ -496,8 +496,8 @@ include('inc/header.php');
 			   	 			<p>Prabir Pradhan</br>
         					<span class="memberTitle">Android Trainee</span></p>
 			   	 		</span>
-			   	 		<span class="memberLinks">
-    					</span>
+			   	 		<!-- <span class="memberLinks">
+    					</span> -->
 			   	 			<img src="img/prabir.jpg" class="memberPic traineePic" />
 			   	 	</div>
 
