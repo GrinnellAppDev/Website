@@ -904,16 +904,8 @@ code {
 	z-index:1;
 }
 
-/*THIS SEEMS TO ACTUALLY DO BLURRING!!!*/
-
-.memberPic:hover {
-	-webkit-filter: blur(5px);
-	filter: blur (5px);
-}
 
 .leadPic {
-    /* linear-gradient(to top, #D8D8D8, #C32828); */
-
 	-webkit-filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75);
 	filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75); 
 }
@@ -978,31 +970,43 @@ code {
 
 	-webkit-filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75) blur(3px);
 	filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75) blur(3px); 
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="devPic"]{
 	-webkit-filter: sepia(1) hue-rotate(150deg) saturate(1) brightness(0.75) blur(3px);
 	filter: sepia(1) hue-rotate(150deg) saturate(1) brightness(0.75) blur(3px);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="designPic"]{
 	-webkit-filter: sepia(1) hue-rotate(230deg) saturate(1.25) brightness(0.75) blur(3px);
 	filter: sepia(1) hue-rotate(230deg) saturate(1.25) brightness(0.75) blur(3px);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="comPic"]{
 	-webkit-filter: sepia(1) hue-rotate(100deg) saturate(1.25) brightness(0.75) blur(3px);
 	filter: sepia(1) hue-rotate(100deg) saturate(1.25) brightness(0.75) blur(3px);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="traineePic"]{
 	-webkit-filter: sepia(1) hue-rotate(330deg) saturate(2) brightness(0.75) blur(3px);
 	filter: sepia(1) hue-rotate(330deg) saturate(2) brightness(0.75) blur(3px);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="pastPic"]{
 	-webkit-filter: saturate(1.5) brightness(0.8) blur(3px);
 	filter: saturate(1.5) brightness(0.8) blur(3px);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .memberTitle {
@@ -1019,21 +1023,13 @@ code {
 
 .memberLinks {
 	position: absolute;
-    top: 0;
     color:white;
-    width: 190px;
-    height: 190px; 
-    line-height:275px;
-    text-align: center;
-    z-index: 8;
+    z-index: 10;
     opacity: 0;
-    font-family: "Helvetica Neue";
-    font-size: 1em;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    font-size: 0.8em;
 }
 
 .memberLinks:hover {
@@ -1101,19 +1097,7 @@ code {
 
 
 
-/*.memberName {
-    position: absolute;
-    top: 0;
-    color:white;
-    width: 190px;
-    height: 190px;
-    line-height:230px;
-    text-align: center;
-    z-index: 10;
-    font-family: "Helvetica";
-    font-size: 1.5em;
-}
-
+/*
 .memberPosition {
     position: absolute;
     top: 0;

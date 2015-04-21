@@ -20,22 +20,22 @@ include('inc/header.php');
 
 <!-- LEADS -->
 		<!-- LEA -->
-				<a href="http://hellosunschein.com/" target="_blank">
+				<a href="http://hellosunschein.com/" target="_blank"> 
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
         					<p>Lea Marolt Sonnenschein </br>
         					<span class="memberTitle">iOS Lead</span></p>
     					</span>
-    					<!-- <span class="memberLinks">
-                    		<a href="http://hellosunschein.com/" target="_blank">
-                    		<img class="responsive bioLogo" src="img/home.png"></a>
-                    
-                    		<a href="http://si.linkedin.com/in/leamarolt" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
-                    	</span> -->
-			   	 			<img src="img/lea.jpg" class="memberPic leadPic" />
+			   	 		<img src="img/lea.jpg" class="memberPic leadPic" />
+                       <!-- <span class="memberLinks">
+                            <a href="http://hellosunschein.com/" target="_blank">
+                            <i class="fi-home"> </i></a>
+                
+                            <a href="http://si.linkedin.com/in/leamarolt" target="_blank">
+                            <i class="fi-social-linkedin"> </i>/a>
+                        </span>  -->
 			   	 	</div>
-			   	 </a>
+			   	  </a>
 		<!-- PATRICK -->
 				<a href="http://triestpa.github.io" target="_blank">
 			   	 	<div class="col-md-2 colCentered">
@@ -45,10 +45,10 @@ include('inc/header.php');
     					</span>
     					<!-- <span class="memberLinks">
                     		<a href="http://triestpa.github.io" target="_blank">
-                    		<img class="responsive bioLogo" src="img/home.png"></a>
+                    		<i class="fi-social-github"> </i></a>
                     
                     		<a href="http://www.linkedin.com/in/triestpa" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.jpg"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/patrick.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -62,7 +62,7 @@ include('inc/header.php');
     					</span>
     					<!-- <span class="memberLinks">
                     		<a href="http://www.linkedin.com/in/nathalieford" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/nathalie.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -77,10 +77,10 @@ include('inc/header.php');
     					<!--
     					<span class="memberLinks">
                     		<a href="http://www.linkedin.com/in/larryboatengasante/" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="http://www.github.com/LarryAsanteBoateng" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.jpg"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/larry.png" class="memberPic leadPic" />
 			   	 	</div>
@@ -94,10 +94,10 @@ include('inc/header.php');
     					</span>
     					<!-- <span class="memberLinks">
                     		<a href="http://calebsponheim.com" target="_blank">
-                    		<img class="responsive bioLogo" src="img/home.png"></a>
+                    		<i class="fi-home> </i></a>
                     
                     		<a href="http://www.linkedin.com/in/calebsponheim" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/caleb.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -114,10 +114,10 @@ include('inc/header.php');
     					</span>
     					<!--<span class="memberLinks">
                     		<a href=" https://www.linkedin.com/in/alexthemitchell " target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
 
                     		<a href=" https://www.github.com/alexthemitchell " target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/alex.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -131,10 +131,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href=" http://samee24.github.io " target="_blank">
-                    		<img class="responsive bioLogo" src="img/home.png"></a>
+                    		<i class="fi-home> </i></a>
 
                     		<a href=" http://www.linkedin.com/in/samee24" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/samee.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -148,10 +148,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="http://www.cs.grinnell.edu/~kyaruzia17" target="_blank">
-                    		<img class="responsive bioLogo" src="img/home.png"></a>
+                    		<i class="fi-home> </i></a>
                     
                     		<a href="https://www.linkedin.com/in/ajunakyaruzi" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/ajuna.jpg" class="memberPic leadPic" />
 			   	 	</div>
@@ -167,10 +167,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!--<span class="memberLinks">
                     		<a href="https://www.linkedin.com/profile/view?id=239234651&trk=nav_responsive_tab_profile" target="_blank">
-	                    	<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+	                    	<i class="fi-social-linkedin"> </i>/a>
 	                    
                     		<a href="https://github.com/torresda" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/danielT.jpg" class="memberPic devPic" />
 			   	 	</div>
@@ -184,10 +184,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!--<span class="memberLinks">
                    			<a href="https://www.linkedin.com/pub/michael-owusu/a3/403/3a1" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                      
                     		<a href="https://github.com/mkowusu" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/michael.jpg" class="memberPic devPic" />
 			   	 	</div>
@@ -212,10 +212,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="https://www.linkedin.com/in/nguyenti" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="https://github.com/nguyenti" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/tiffany.jpg" class="memberPic devPic" />
 			   	 	</div>
@@ -229,10 +229,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="http://www.linkedin.com/profile/view?id=228784400&trk=nav_responsive_tab_profile_pic" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
 	                    	<a href="https://github.com/goldstei1" target="_blank">
-	                    	<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+	                    	<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/danielG.png" class="memberPic devPic" />
 			   	 	</div>
@@ -246,10 +246,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="https://www.linkedin.com/profile/view?id=370482069&trk=nav_responsive_tab_profile" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="https://github.com/ahinchman1" target="_blank">
-                    		<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                    		<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/amanda.jpg" class="memberPic devPic" />
 			   	 	</div>
@@ -263,10 +263,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="http://www.linkedin.com/in/alexgfrench" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                           <i class="fi-social-linkedin"> </i></a>
                      
                             <a href="https://github.com/frenchal17" target="_blank">
-                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                           <i class="fi-social-github"> </i></a>
                         </span> -->
                             <img src="img/alexf.jpg" class="memberPic devPic" />
                     </div>
@@ -283,10 +283,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="https://www.linkedin.com/pub/henry-fisher/79/346/67" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                       
                             <a href="https://github.com/henryperson" target="_blank">
-                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                            <i class="fi-social-github"> </i></a>
                         </span> -->
                             <img src="img/henry.jpg" class="memberPic devPic" />
                     </div>
@@ -302,10 +302,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="http://trisarahtrops.com" target="_blank">
-                            <img class="responsive bioLogo" src="img/home.png"></a>
+                            <i class="fi-home> </i></a>
 
                             <a href="http://www.linkedin.com/pub/sarah-trop/85/b1b/252" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                         </span> -->
                             <img src="img/sarah.png" class="memberPic designPic" />
                     </div>
@@ -320,7 +320,7 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                         </span> -->
                             <img src="img/chris.png" class="memberPic designPic" />
                     </div>
@@ -342,7 +342,7 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="https://ashleyfan894.carbonmade.com/" target="_blank">
-                            <img class="responsive bioLogo" src="img/home.png"></a> -->
+                            <i class="fi-home> </i></a> -->
                             <img src="img/han.png" class="memberPic designPic" />
                         </div>
                     </a>
@@ -368,10 +368,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="http://www.linkedin.com/in/soojison" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                      
                     		<a href="https://github.com/soojison" target="_blank">
-                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                   			<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/sooji.jpg" class="memberPic designPic" />
 			   	 	</div>
@@ -385,7 +385,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="http://www.linkedin.com/in/wuruth" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
     					</span> -->
 			   	 			<img src="img/ruth.jpg" class="memberPic designPic" />
 			   	 	</div>
@@ -398,9 +398,9 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="http://www.linkedin.com/in/wuruth" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                         </span> -->
-                            <img src="img/defaultPerson.png" class="memberPic designPic" />
+                            <img src="img/anita.png" class="memberPic designPic" />
                     </div>
         <!-- ALEX G -->
                 <div class="col-md-2 colCentered">
@@ -433,10 +433,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="https://www.linkedin.com/profile/view?id=327587355&authType=NAME_SEARCH&authToken=Ex0N&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423429507184%2Ctas%3Amark%20Schwabacher%2Cidx%3A1-1-1" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="http://www.twitter.com/grinnellappdev" target="_blank">
-                    		<img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                    		<i class="fi-social-twitter> </i></a>
     					</span> -->
 			   	 			<img src="img/mark.jpg" class="memberPic comPic" />
 			   	 	</div>
@@ -462,10 +462,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href="https://www.linkedin.com/in/yazankittaneh" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="https://github.com/YazanKittaneh" target="_blank">
-                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                   			<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/yazan.jpg" class="memberPic traineePic" />
 			   	 	</div>
@@ -479,10 +479,10 @@ include('inc/header.php');
 			   	 		</span>
 			   	 		<!-- <span class="memberLinks">
                     		<a href=" https://www.linkedin.com/profile/view?id=350207299" target="_blank">
-                    		<img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                    		<i class="fi-social-linkedin"> </i></a>
                     
                     		<a href="https://github.com/ge95garcia" target="_blank">
-                   			<img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                   			<i class="fi-social-github"> </i></a>
     					</span> -->
 			   	 			<img src="img/greg.jpg" class="memberPic traineePic" />
 			   	 	</div>
@@ -511,10 +511,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="http://www.linkedin.com/in/jarrenLS" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
 
                             <a href="https://twitter.com/JarrenLS" target="_blank">
-                            <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                            <i class="fi-social-twitter> </i><</a>
                         </span> -->
                             <img src="img/jarren.png" class="memberPic pastPic" />
                     </div>
@@ -528,10 +528,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="https://www.linkedin.com/pub/shaun-mataire/76/226/46a" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                     
                             <a href="https://github.com/shaun117" target="_blank">
-                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                            <i class="fi-social-github"> </i></a>
                         </span> -->
                             <img src="img/shaun.png" class="memberPic pastPic" />
                     </div>
@@ -545,10 +545,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="http://www.linkedin.com/in/alexisgreenwell" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i>/a>
                     
                             <a href="http://www.twitter.com/LexyLGreenwell" target="_blank">
-                            <img class="responsive bioLogo" src="img/twitterLogo.png"></a>
+                            <i class="fi-social-twitter> </i><</a>
                         </span> -->
                             <img src="img/lexy.png" class="memberPic pastPic" />
                     </div>
@@ -562,10 +562,10 @@ include('inc/header.php');
                         </span>
                         <!-- <span class="memberLinks">
                             <a href="https://www.linkedin.com/pub/patrick-slough/a4/165/94a" target="_blank">
-                            <img class="responsive bioLogo" src="img/linkedLogo.png"></a>
+                            <i class="fi-social-linkedin"> </i></a>
                     
                             <a href="https://github.com/pslough93" target="_blank">
-                            <img class="responsive bioLogo" src="img/githubLogo.png"></a>
+                            <i class="fi-social-github"> </i></a>
                         </span> -->
                             <img src="img/patrickS.png" class="memberPic pastPic" />
                     </div>
