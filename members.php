@@ -45,7 +45,7 @@ include('inc/header.php');
                             </p>
                             <span class="memberLinks">
                                 <a href="http://triestpa.github.io" target="_blank">
-                                <i class="fi-social-github"> </i></a>
+                                <i class="fi-home"> </i></a>
                     
                                 <a href="http://www.linkedin.com/in/triestpa" target="_blank">
                                 <i class="fi-social-linkedin"> </i></a>
@@ -69,7 +69,7 @@ include('inc/header.php');
         			<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
         					<p>Larry Boateng Asante </br>
-        					<span class="memberTitle">Education Manager</span></p>
+        					<span class="memberTitle">Education Manager & Android Developer</span></p>
                             <span class="memberLinks">
                                 <a href="http://www.linkedin.com/in/larryboatengasante/" target="_blank">
                                 <i class="fi-social-linkedin"> </i></a>
