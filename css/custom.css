@@ -940,6 +940,7 @@ code {
     color:white;
     width: 190px;
     height: 190px;
+   	cursor: default;
     /*line-height:190px;*/
     text-align: center;
     z-index: 10;
