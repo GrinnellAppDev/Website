@@ -35,6 +35,36 @@ include('inc/header.php');
     					</span>
 			   	 			<img src="img/larry.png" class="memberPic leadPic" />
                     </div>
+        <!-- ALEX -->
+                    <div class="col-md-2 col-md-offset-1 colCentered">
+                        <span class="memberName">
+                            <p>Alex Mitchell </br>
+                            <span class="memberTitle">iOS Lead</span></p>
+                            <span class="memberLinks">
+                                <a href="https://www.linkedin.com/in/alexthemitchell" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                    
+                                <a href="https://www.github.com/alexthemitchel" target="_blank">
+                                <i class="fi-social-github"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/alex.png" class="memberPic leadPic" />
+                    </div>
+        <!-- SAMEE -->
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Samee Zahid</p>br>
+                            <span class="memberTitle">Android Lead</span></p>
+                            <span class="memberLinks">
+                                <a href="ttp://samee24.github.io" target="_blank">
+                                <i class="fi-home"> </i></a>
+                    
+                                <a href="http://www.linkedin.com/in/samee24" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                            </span>
+                            </span>
+                            <img src="img/samee.jpg" class="memberPic leadPic" />
+                    </div>
 		<!-- AJUNA -->
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
@@ -50,6 +80,7 @@ include('inc/header.php');
 			   	 		    </span>
 			   	 			<img src="img/ajuna.jpg" class="memberPic leadPic" />
 			   	 	</div>
+
         <!-- SARAH -->
                     <div class="col-md-2 colCentered">
                         <span class="memberName">
