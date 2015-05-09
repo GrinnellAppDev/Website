@@ -292,24 +292,9 @@ include('inc/header.php');
 			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Adam Hudson</br>
-        					<span class="memberTitle">Android Trainee</span></p>
+        					<span class="memberTitle">iOS Trainee</span></p>
 			   	 		</span>
 			   	 			<img src="img/adam.png" class="memberPic traineePic" />
-			   	 	</div>
-		<!-- GREG -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Gregory Garcia</br>
-        					<span class="memberTitle">iOS Trainee</span></p>
-                            <span class="memberLinks">
-                                <a href=" https://www.linkedin.com/profile/view?id=350207299" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                    
-                                <a href="https://github.com/ge95garcia" target="_blank">
-                                <i class="fi-social-github"> </i></a>
-                            </span>
-			   	 		</span>
-			   	 			<img src="img/greg.jpg" class="memberPic traineePic" />
 			   	 	</div>
 <!-- PAST -->
         <!-- LEA -->
@@ -328,10 +313,8 @@ include('inc/header.php');
                         </span>
                         <img src="img/lea.jpg" class="memberPic pastPic" />
                     </div>
-                </div>
-                <div class="row rowCentered">
         <!-- PATRICK -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Patrick Triest </br>
                             <span class="memberTitle">Former Android Lead</span>
@@ -346,8 +329,10 @@ include('inc/header.php');
                         </span>
                             <img src="img/patrick.jpg" class="memberPic pastPic" />
                     </div>
+                </div>
+                <div class="row rowCentered">
         <!-- NATHALIE -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Nathalie Ford </br>
                             <span class="memberTitle">Former Administrative Coordinator</span></p>
@@ -400,18 +385,18 @@ include('inc/header.php');
                         </span>
                             <img src="img/chris.png" class="memberPic pastPic" />
                     </div>
-                </div>
-                <div class="row rowCentered">
         <!-- HANNAH -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Hannah Cohn</br>
                             <span class="memberTitle">Former UX Researcher</span></p>
                         </span>
                             <img src="img/hannah.png" class="memberPic pastPic" />
                     </div>
+                </div>
+                <div class="row rowCentered">
         <!-- JARREN -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Jarren Santos</br>
                             <span class="memberTitle">Former Community Builder</span></p>
@@ -470,18 +455,18 @@ include('inc/header.php');
                         </span>
                             <img src="img/patrickS.png" class="memberPic pastPic" />
                     </div>
-                </div>
-                <div class="row rowCentered">
 		<!-- DAVID -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>David Cowden</br>
         					<span class="memberTitle">Former Android Lead</span></p>
 			   	 		</span>
 			   	 			<img src="img/david.jpg" class="memberPic pastPic" />
 			   	 	</div>
+                </div>
+                <div class="row rowCentered">
 		<!-- CHRISTINE -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Christine Tran</br>
         					<span class="memberTitle">Former UI Designer</span></p>
