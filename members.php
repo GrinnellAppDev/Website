@@ -53,7 +53,7 @@ include('inc/header.php');
         <!-- SAMEE -->
                     <div class="col-md-2 colCentered">
                         <span class="memberName">
-                            <p>Samee Zahid</p>br>
+                            <p>Samee Zahid</br>
                             <span class="memberTitle">Android Lead</span></p>
                             <span class="memberLinks">
                                 <a href="ttp://samee24.github.io" target="_blank">
