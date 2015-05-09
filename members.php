@@ -36,7 +36,7 @@ include('inc/header.php');
 			   	 			<img src="img/larry.png" class="memberPic leadPic" />
                     </div>
         <!-- ALEX -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Alex Mitchell </br>
                             <span class="memberTitle">iOS Lead</span></p>
