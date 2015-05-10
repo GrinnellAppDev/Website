@@ -96,6 +96,19 @@ include('inc/header.php');
             <?php } if (isset($_GET["status"]) and $_GET["status"] == "incomplete") { ?>
             <p class="redForm">Hey, you! You sent us an incomplete form. Shame on you! Please try again.</p> <?php } ?> 
 
+<!-- Do not change the code! -->
+<a id="foxyform_embed_link_666381" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+  var g = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+  g.src = "http://www.foxyform.com/js.php?id=666381&sec_hash=26c05849dd0&width=350px";
+  s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! —>
+
+<!--
                     <form class="form" action="contact.php" method="post" id="contact">
                         <fieldset>
             <label for="name">Name: *</label> <br />
@@ -104,11 +117,11 @@ include('inc/header.php');
             <input type="text" id="email" name="email"><br />
             <label for="essay">Message: *</label><br />
             <textarea name="essay" rows="5" cols="80" maxlength="1000" id="essay"></textarea> <br />
-            
+
                             <br>
                             <button onclick="<?php $success = true; ?>" type="submit">Submit</button>
                         </fieldset>
-                    </form>
+                    </form> -->
                 </div>
                         <div class="col-lg-3"></div>
             </div>
