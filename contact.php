@@ -86,7 +86,7 @@ include('inc/header.php');
 
                 <div class="col-lg-6">
                     <h2>Shoot us an email!</h2>
-
+<center>
 <!-- Do not change the code! -->
 <a id="foxyform_embed_link_666381" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
@@ -97,7 +97,8 @@ include('inc/header.php');
   s.parentNode.insertBefore(g, s);
 }(document, "script"));
 </script>
-<!-- Do not change the code! —>
+</center>
+<!-- Do not change the code! -—>
 
 <!--
             <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
@@ -122,7 +123,8 @@ include('inc/header.php');
                             <br>
                             <button onclick="<?php $success = true; ?>" type="submit">Submit</button>
                         </fieldset>
-                    </form> -->
+                    </form>
+                    -->
                 </div>
                         <div class="col-lg-3"></div>
             </div>
