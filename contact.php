@@ -86,15 +86,6 @@ include('inc/header.php');
 
                 <div class="col-lg-6">
                     <h2>Shoot us an email!</h2>
-                    
-            <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
-            <p class="redForm">Thanks for your message, we'll be in touch shortly!</p>
-            <?php } if (isset($_GET["status"]) and $_GET["status"] == "spam") { ?>
-            <p class="redForm">Are you trying to spam us? Shame on you!</p>
-            <?php } if (isset($_GET["status"]) and $_GET["status"] == "invalidEmail") { ?>
-            <p class="redForm">The email you provided seems to be invalid. Please try again.</p>
-            <?php } if (isset($_GET["status"]) and $_GET["status"] == "incomplete") { ?>
-            <p class="redForm">Hey, you! You sent us an incomplete form. Shame on you! Please try again.</p> <?php } ?> 
 
 <!-- Do not change the code! -->
 <a id="foxyform_embed_link_666381" href="http://www.foxyform.com/">foxyform</a>
@@ -109,6 +100,16 @@ include('inc/header.php');
 <!-- Do not change the code! —>
 
 <!--
+            <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
+            <p class="redForm">Thanks for your message, we'll be in touch shortly!</p>
+            <?php } if (isset($_GET["status"]) and $_GET["status"] == "spam") { ?>
+            <p class="redForm">Are you trying to spam us? Shame on you!</p>
+            <?php } if (isset($_GET["status"]) and $_GET["status"] == "invalidEmail") { ?>
+            <p class="redForm">The email you provided seems to be invalid. Please try again.</p>
+            <?php } if (isset($_GET["status"]) and $_GET["status"] == "incomplete") { ?>
+            <p class="redForm">Hey, you! You sent us an incomplete form. Shame on you! Please try again.</p> <?php } ?> 
+
+
                     <form class="form" action="contact.php" method="post" id="contact">
                         <fieldset>
             <label for="name">Name: *</label> <br />
