@@ -56,7 +56,7 @@ include('inc/header.php');
                             <p>Samee Zahid</br>
                             <span class="memberTitle">Android Lead</span></p>
                             <span class="memberLinks">
-                                <a href="ttp://samee24.github.io" target="_blank">
+                                <a href="http://samee.ninja" target="_blank">
                                 <i class="fi-home"> </i></a>
                     
                                 <a href="http://www.linkedin.com/in/samee24" target="_blank">
