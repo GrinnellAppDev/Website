@@ -29,7 +29,7 @@ include('inc/header.php');
                                 <a href="http://www.linkedin.com/in/larryboatengasante/" target="_blank">
                                 <i class="fi-social-linkedin"> </i></a>
                     
-                                <a href="http://www.github.com/LarryAsanteBoateng" target="_blank">
+                                <a href="http://www.github.com/LarryAsante" target="_blank">
                                 <i class="fi-social-github"> </i></a>
                             </span>
     					</span>
