@@ -251,6 +251,8 @@ include('inc/header.php');
 			   	 			<p>Ruth Wu</br>
         					<span class="memberTitle">UI Designer</span></p>
                             <span class="memberLinks">
+                                 <a href="http://wutangruth.com" target="_blank">
+                                <i class="fi-home"> </i></a>
                                 <a href="http://www.linkedin.com/in/wuruth" target="_blank">
                                 <i class="fi-social-linkedin"> </i></a>
                             </span>
