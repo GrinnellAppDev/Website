@@ -490,6 +490,15 @@ include('inc/header.php');
                             <img src="img/ezra.jpg" class="memberPic pastPic" />
                     </div>
                 </div>
+        <!-- MAIJID -->
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Maijid Moujaled</br>
+                            <span class="memberTitle">Former iOS Lead</span></p>
+                        </span>
+                            <img src="img/maijid.jpg" class="memberPic pastPic" />
+                    </div>
+                    </div>
                 <div class="row rowCentered">
 		<!-- DAVID -->
 			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
@@ -522,15 +531,6 @@ include('inc/header.php');
         					<span class="memberTitle">Former iOS Developer</span></p>
 			   	 		</span>
 			   	 			<img src="img/colin.jpg" class="memberPic pastPic" />
-			   	 	</div>
-		<!-- MAIJID -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Maijid Moujaled</br>
-        					<span class="memberTitle">Former iOS Lead</span></p>
-			   	 		</span>
-			   	 			<img src="img/maijid.jpg" class="memberPic pastPic" />
-			   	 	</div>
 			   	 	</div>
 			   	 </div>
 			   	 </br>
