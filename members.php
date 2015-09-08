@@ -497,7 +497,6 @@ include('inc/header.php');
                         </span>
                             <img src="img/maijid.jpg" class="memberPic pastPic" />
                     </div>
-                    </div>
                 </div>
                 <div class="row rowCentered">
 		<!-- DAVID -->
@@ -532,6 +531,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 			<img src="img/colin.jpg" class="memberPic pastPic" />
 			   	 	</div>
+                    </div>
 			   	 </div>
 			   	 </br>
 			   	 </br>
