@@ -222,7 +222,7 @@ include('inc/header.php');
                         </div>
 
 		<!-- SOOJI -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Sooji Son</br>
         					<span class="memberTitle">UI Designer</span></p>
@@ -239,7 +239,7 @@ include('inc/header.php');
                  </div>
                 <div class="row rowCentered">
 		<!-- RUTH -->
-			   		<div class="col-md-2 colCentered">
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Ruth Wu</br>
         					<span class="memberTitle">UI Designer</span></p>
@@ -282,7 +282,7 @@ include('inc/header.php');
 			   	 			<img src="img/chloe.jpg" class="memberPic comPic" />
 			   	 	</div>
 		<!-- MARK -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Mark Schwabacher</br>
         					<span class="memberTitle">Community Builder</span></p>
@@ -300,7 +300,7 @@ include('inc/header.php');
              <div class="row rowCentered">
 <!-- TRAINEES -->
 		<!-- ADAM -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Adam Hudson</br>
         					<span class="memberTitle">iOS Trainee</span></p>
@@ -356,7 +356,7 @@ include('inc/header.php');
                             <img src="img/patrick.jpg" class="memberPic pastPic" />
                     </div>
         <!-- NATHALIE -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Nathalie Ford </br>
                             <span class="memberTitle">Former Administrative Coordinator</span></p>
@@ -370,7 +370,7 @@ include('inc/header.php');
                 </div>
                 <div class="row rowCentered">
         <!-- CALEB -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Caleb Sponheim</br>
                             <span class="memberTitle">Former Design Lead</span></p>
@@ -420,7 +420,7 @@ include('inc/header.php');
                             <img src="img/hannah.png" class="memberPic pastPic" />
                     </div>
         <!-- JARREN -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Jarren Santos</br>
                             <span class="memberTitle">Former Community Builder</span></p>
@@ -437,7 +437,7 @@ include('inc/header.php');
                 </div>
                 <div class="row rowCentered">
         <!-- SHAUN -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Shaun Mataire</br>
                             <span class="memberTitle">Former Android Developer</span></p>
@@ -492,7 +492,7 @@ include('inc/header.php');
                 </div>
                 <div class="row rowCentered">
 		<!-- DAVID -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>David Cowden</br>
         					<span class="memberTitle">Former Android Lead</span></p>
@@ -500,7 +500,7 @@ include('inc/header.php');
 			   	 			<img src="img/david.jpg" class="memberPic pastPic" />
 			   	 	</div>
 		<!-- CHRISTINE -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Christine Tran</br>
         					<span class="memberTitle">Former UI Designer</span></p>
