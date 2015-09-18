@@ -207,118 +207,22 @@ include('inc/header.php');
                         </span>
                             <img src="img/prabir.jpg" class="memberPic devPic" />
                     </div>
-<!-- DESIGN & UX -->
-        <!-- HAN -->
+
+        <!-- ADAM -->
+        
                     <div class="col-md-2 colCentered">
                         <span class="memberName">
-                            <p>Han Trinh</br>
-                            <span class="memberTitle">UI Designer</span></p>
-                            <span class="memberLinks">
-                                <a href="https://ashleyfan894.carbonmade.com/" target="_blank">
-                                <i class="fi-home"> </i></a>
-                            </span>
+                            <p>Adam Hudson</br>
+                            <span class="memberTitle">iOS Developer</span></p>
                         </span>
-                            <img src="img/han.png" class="memberPic designPic" />
+                            <img src="img/adam.png" class="memberPic devPic" />                        
                         </div>
-		<!-- EZRA -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Ezra Edgerton</br>
-        					<span class="memberTitle">UI Designer</span></p>
-			   	 		</span>
-			   	 			<img src="img/ezra.jpg" class="memberPic designPic" />
-			   	 	</div>
-                 </div>
-                <div class="row rowCentered">
-		<!-- SOOJI -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Sooji Son</br>
-        					<span class="memberTitle">UI Designer</span></p>
-                            <span class="memberLinks">
-                                <a href="http://www.linkedin.com/in/soojison" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                     
-                                <a href="https://github.com/soojison" target="_blank">
-                                <i class="fi-social-github"> </i></a>
-                            </span>
-			   	 		</span>
-			   	 			<img src="img/sooji.jpg" class="memberPic designPic" />
-			   	 	</div>
-		<!-- RUTH -->
-			   		<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Ruth Wu</br>
-        					<span class="memberTitle">UI Designer</span></p>
-                            <span class="memberLinks">
-                                 <a href="http://wutangruth.com" target="_blank">
-                                <i class="fi-home"> </i></a>
-                                <a href="http://www.linkedin.com/in/wuruth" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                            </span>
-			   	 		</span>
-			   	 			<img src="img/ruth.jpg" class="memberPic designPic" />
-			   	 	</div>
-        <!-- ANITA -->
-                    <div class="col-md-2 colCentered">
-                        <span class="memberName">
-                            <p>Anita DeWitt</br>
-                            <span class="memberTitle">UI Designer</span></p>
-                            <span class="memberLinks">
-                                <a href="http://www.linkedin.com/in/wuruth" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                            </span>
-                        </span>
-                            <img src="img/anita.png" class="memberPic designPic" />
-                    </div>
-        <!-- ALEX G -->
-                    <div class="col-md-2 colCentered">
-                        <span class="memberName">
-                            <p>Alex Greenberg</br>
-                            <span class="memberTitle">UI Designer</span></p>
-                        </span>
-                            <img src="img/alexg.jpg" class="memberPic designPic" />
-                    </div>
-	<!-- COMMUNITY -->
-		<!-- CHLOE -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Chloe Williams</br>
-        					<span class="memberTitle">Community Builder</span></p>
-			   	 		</span>
-			   	 			<img src="img/chloe.jpg" class="memberPic comPic" />
-			   	 	</div>
-            </div>
-             <div class="row rowCentered">
-		<!-- MARK -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Mark Schwabacher</br>
-        					<span class="memberTitle">Community Builder</span></p>
-                            <span class="memberLinks">
-                                <a href="https://www.linkedin.com/profile/view?id=327587355&authType=NAME_SEARCH&authToken=Ex0N&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423429507184%2Ctas%3Amark%20Schwabacher%2Cidx%3A1-1-1" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                    
-                                <a href="http://www.twitter.com/grinnellappdev" target="_blank">
-                                <i class="fi-social-twitter"> </i></a>
-                            </span>
-			   	 		</span>
-			   	 			<img src="img/mark.jpg" class="memberPic comPic" />
-			   	 	</div>
-<!-- TRAINEES -->
-		<!-- ADAM -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Adam Hudson</br>
-        					<span class="memberTitle">iOS Trainee</span></p>
-			   	 		</span>
-			   	 			<img src="img/adam.png" class="memberPic traineePic" />
-			   	 	</div>
         <!-- YAZAN -->
-                    <div class="col-md-2 colCentered">
+		
+			   	 	<div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Yazan Kittaneh</br>
-                            <span class="memberTitle">Android Trainee</span></p>
+                            <span class="memberTitle">Android Developer</span></p>
                             <span class="memberLinks">
                                 <a href="https://www.linkedin.com/in/yazankittaneh" target="_blank">
                                 <i class="fi-social-linkedin"> </i></a>
@@ -327,7 +231,103 @@ include('inc/header.php');
                                 <i class="fi-social-github"> </i></a>
                             </span>
                         </span>
-                            <img src="img/yazan.jpg" class="memberPic traineePic" />
+                            <img src="img/yazan.jpg" class="memberPic devPic" />			   	 		
+			   	 	</div>
+                 </div>
+                <div class="row rowCentered">
+<!-- DESIGN & UX -->
+        <!-- HAN -->
+		
+			   		<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+                            <p>Han Trinh</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                            <span class="memberLinks">
+                                <a href="https://ashleyfan894.carbonmade.com/" target="_blank">
+                                <i class="fi-home"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/han.png" class="memberPic designPic" />
+			   	 	</div>
+        <!-- SOOJI -->        
+        
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Sooji Son</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                            <span class="memberLinks">
+                                <a href="http://www.linkedin.com/in/soojison" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                     
+                                <a href="https://github.com/soojison" target="_blank">
+                                <i class="fi-social-github"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/sooji.jpg" class="memberPic designPic" />
+                    </div>
+        <!-- RUTH -->
+        
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Ruth Wu</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                            <span class="memberLinks">
+                                 <a href="http://wutangruth.com" target="_blank">
+                                <i class="fi-home"> </i></a>
+                                <a href="http://www.linkedin.com/in/wuruth" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/ruth.jpg" class="memberPic designPic" />
+                    </div>
+	
+		
+        <!-- ANITA -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+                            <p>Anita DeWitt</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                            <span class="memberLinks">
+                                <a href="http://www.linkedin.com/in/wuruth" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/anita.png" class="memberPic designPic" />
+			   	 	</div>
+		
+        <!-- ALEX G -->
+			   	 	<div class="col-md-2 colCentered">
+			   	 		<span class="memberName">
+                            <p>Alex Greenberg</br>
+                            <span class="memberTitle">UI Designer</span></p>
+                        </span>
+                            <img src="img/alexg.jpg" class="memberPic designPic" />
+			   	 	</div>
+            </div>
+             <div class="row rowCentered">
+<!-- COMMUNITY -->
+        <!-- CHLOE -->
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 		<span class="memberName">
+                            <p>Chloe Williams</br>
+                            <span class="memberTitle">Community Builder</span></p>
+                        </span>
+                            <img src="img/chloe.jpg" class="memberPic comPic" />
+			   	 	</div>
+        <!-- MARK -->
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Mark Schwabacher</br>
+                            <span class="memberTitle">Community Builder</span></p>
+                            <span class="memberLinks">
+                                <a href="https://www.linkedin.com/profile/view?id=327587355&authType=NAME_SEARCH&authToken=Ex0N&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423429507184%2Ctas%3Amark%20Schwabacher%2Cidx%3A1-1-1" target="_blank">
+                                <i class="fi-social-linkedin"> </i></a>
+                    
+                                <a href="http://www.twitter.com/grinnellappdev" target="_blank">
+                                <i class="fi-social-twitter"> </i></a>
+                            </span>
+                        </span>
+                            <img src="img/mark.jpg" class="memberPic comPic" />
                     </div>
 <!-- PAST -->
         <!-- LEA -->
@@ -362,10 +362,8 @@ include('inc/header.php');
                         </span>
                             <img src="img/patrick.jpg" class="memberPic pastPic" />
                     </div>
-                </div>
-                <div class="row rowCentered">
         <!-- NATHALIE -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Nathalie Ford </br>
                             <span class="memberTitle">Former Administrative Coordinator</span></p>
@@ -376,8 +374,10 @@ include('inc/header.php');
                         </span>
                             <img src="img/nathalie.jpg" class="memberPic pastPic" />
                     </div>
+                </div>
+                <div class="row rowCentered">
         <!-- CALEB -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Caleb Sponheim</br>
                             <span class="memberTitle">Former Design Lead</span></p>
@@ -426,10 +426,8 @@ include('inc/header.php');
                         </span>
                             <img src="img/hannah.png" class="memberPic pastPic" />
                     </div>
-                </div>
-                <div class="row rowCentered">
         <!-- JARREN -->
-                    <div class="col-md-2 col-md-offset-1 colCentered">
+                    <div class="col-md-2 colCentered">
                         <span class="memberName">
                             <p>Jarren Santos</br>
                             <span class="memberTitle">Former Community Builder</span></p>
@@ -443,8 +441,10 @@ include('inc/header.php');
                         </span>
                             <img src="img/jarren.png" class="memberPic pastPic" />
                     </div>
+                </div>
+                <div class="row rowCentered">
         <!-- SHAUN -->
-                    <div class="col-md-2 colCentered">
+                    <div class="col-md-2 col-md-offset-1 colCentered">
                         <span class="memberName">
                             <p>Shaun Mataire</br>
                             <span class="memberTitle">Former Android Developer</span></p>
@@ -488,18 +488,34 @@ include('inc/header.php');
                         </span>
                             <img src="img/patrickS.png" class="memberPic pastPic" />
                     </div>
+        <!-- EZRA -->
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Ezra Edgerton</br>
+                            <span class="memberTitle">Past UI Designer</span></p>
+                        </span>
+                            <img src="img/ezra.jpg" class="memberPic pastPic" />
+                    </div>
+        <!-- MAIJID -->
+                    <div class="col-md-2 colCentered">
+                        <span class="memberName">
+                            <p>Maijid Moujaled</br>
+                            <span class="memberTitle">Former iOS Lead</span></p>
+                        </span>
+                            <img src="img/maijid.jpg" class="memberPic pastPic" />
+                    </div>
+                </div>
+                <div class="row rowCentered">
 		<!-- DAVID -->
-			   	 	<div class="col-md-2 colCentered">
+			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>David Cowden</br>
         					<span class="memberTitle">Former Android Lead</span></p>
 			   	 		</span>
 			   	 			<img src="img/david.jpg" class="memberPic pastPic" />
 			   	 	</div>
-                </div>
-                <div class="row rowCentered">
 		<!-- CHRISTINE -->
-			   	 	<div class="col-md-2 col-md-offset-1 colCentered">
+			   	 	<div class="col-md-2 colCentered">
 			   	 		<span class="memberName">
 			   	 			<p>Christine Tran</br>
         					<span class="memberTitle">Former UI Designer</span></p>
@@ -522,15 +538,7 @@ include('inc/header.php');
 			   	 		</span>
 			   	 			<img src="img/colin.jpg" class="memberPic pastPic" />
 			   	 	</div>
-		<!-- MAIJID -->
-			   	 	<div class="col-md-2 colCentered">
-			   	 		<span class="memberName">
-			   	 			<p>Maijid Moujaled</br>
-        					<span class="memberTitle">Former iOS Lead</span></p>
-			   	 		</span>
-			   	 			<img src="img/maijid.jpg" class="memberPic pastPic" />
-			   	 	</div>
-			   	 	</div>
+                    </div>
 			   	 </div>
 			   	 </br>
 			   	 </br>
