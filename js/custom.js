@@ -123,6 +123,7 @@ $(document).ready(function() {
 		desi = false;
 		uxd = false;
 		comm = false;
+		$('html, body').animate({ scrollTop: ($(".jobRole").position().top - $(".navbar-collapse").height()) }, 500);
 	});
 	
 		$("#desi").click( function() {
@@ -140,6 +141,7 @@ $(document).ready(function() {
 		desi = true;
 		uxd = false;
 		comm = false;
+		$('html, body').animate({ scrollTop: ($(".jobRole").position().top - $(".navbar-collapse").height()) }, 500);
 	});
 	
 		$("#uxd").click( function() {
@@ -156,6 +158,7 @@ $(document).ready(function() {
 		desi = false;
 		uxd = true;
 		comm = false;
+		$('html, body').animate({ scrollTop: ($(".jobRole").position().top - $(".navbar-collapse").height()) }, 500);
 	});
 	
 		$("#comm").click( function() {
@@ -172,6 +175,7 @@ $(document).ready(function() {
 		desi = false;
 		uxd = false;
 		comm = true;
+		$('html, body').animate({ scrollTop: ($(".jobRole").position().top - $(".navbar-collapse").height()) }, 500);
 	});
 	
 	
