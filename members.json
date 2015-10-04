@@ -1,0 +1,275 @@
+{
+	"Larry Boateng Asante": {
+		"title":"Education Manager & Android Developer",
+		"link1":"http://www.linkedin.com/in/larryboatengasante/",
+		"link2":"http://www.github.com/LarryAsante",
+		"image":"img/larry.png",
+		"type": "lead"
+	},
+	"Alex Mitchell": {
+		"title":"iOS Lead",
+		"link1":"https://www.linkedin.com/in/alexthemitchell",
+		"link2":"https://www.github.com/alexthemitchel",
+		"image":"img/alex.png",
+		"type": "lead"
+	},
+	"Samee Zahid": {
+		"title":"Android Lead",
+		"link1":"http://samee.ninja",
+		"link2":"http://www.linkedin.com/in/samee24",
+		"image":"img/samee.jpg",
+		"type": "lead"
+	},
+	"Ajuna Kyaruzi": {
+		"title":"Ajuna Kyaruzi",
+		"link1":"http://www.cs.grinnell.edu/~kyaruzia17",
+		"link2":"https://www.linkedin.com/in/ajunakyaruzi",
+		"image":"img/ajuna.jpg",
+		"type": "lead"
+	},
+	"Sarah Trop": {
+		"title":"Design Lead",
+		"link1":"http://trisarahtrops.com",
+		"link2":"http://www.linkedin.com/pub/sarah-trop/85/b1b/252",
+		"image":"img/sarah.png",
+		"type": "lead"
+	},
+	"Michael Owusu": {
+		"title":"Android Developer",
+		"link1":"https://www.linkedin.com/pub/michael-owusu/a3/403/3a1",
+		"link2":"https://github.com/mkowusu",
+		"image":"img/michael.jpg",
+		"type": "dev"
+	},
+	"Tyler Dewey": {
+		"title":"iOS Developer",
+		"link1":"",
+		"link2":"",
+		"image":"img/ty.png",
+		"type": "dev"
+	},
+	"Tiffany Nguyen": {
+		"title":"Android Developer",
+		"link1":"https://www.linkedin.com/in/nguyenti",
+		"link2":"https://github.com/nguyenti",
+		"image":"img/tiffany.jpg",
+		"type": "dev"
+	},
+	"Daniel Goldstein": {
+		"title":"Android Developer",
+		"link1":"http://www.linkedin.com/profile/view?id=228784400&trk=nav_responsive_tab_profile_pic",
+		"link2":"https://github.com/goldstei1",
+		"image":"img/danielG.png",
+		"type": "dev"
+	},
+	"Amanda Hinchman-Dominguez": {
+		"title":"Android Developer",
+		"link1":"https://www.linkedin.com/profile/view?id=370482069&trk=nav_responsive_tab_profile",
+		"link2":"https://github.com/ahinchman1",
+		"image":"img/amanda.jpg",
+		"type": "dev"
+	},
+	"Alex French": {
+		"title":"iOS Developer",
+		"link1":"http://www.linkedin.com/in/alexgfrench",
+		"link2":"https://github.com/frenchal17",
+		"image":"img/alexf.jpg",
+		"type": "dev"
+	},
+	"Henry Fisher": {
+		"title":"iOS Developer",
+		"link1":"https://www.linkedin.com/pub/henry-fisher/79/346/67",
+		"link2":"https://github.com/henryperson",
+		"image":"img/henry.jpg",
+		"type": "dev"
+	},
+	"Prabir Pradhan": {
+		"title":"Android Developer",
+		"link1":"",
+		"link2":"",
+		"image":"img/prabir.jpg",
+		"type": "dev"
+	},
+	"Adam Hudson": {
+		"title":"iOS Developer",
+		"link1":"",
+		"link2":"",
+		"image":"img/adam.png",
+		"type": "dev"
+	},
+	"Yazan Kittaneh": {
+		"title":"Android Developer",
+		"link1":"https://www.linkedin.com/in/yazankittaneh",
+		"link2":"https://github.com/YazanKittaneh",
+		"image":"img/yazan.jpg",
+		"type": "dev"
+	},
+	"Han Trinh": {
+		"title":"UI Designer",
+		"link1":"https://ashleyfan894.carbonmade.com/",
+		"link2":"",
+		"image":"img/han.png",
+		"type": "design"
+	},
+	"Sooji Son": {
+		"title":"UI Designer",
+		"link1":"http://www.linkedin.com/in/soojison",
+		"link2":"https://github.com/soojison",
+		"image":"img/sooji.jpg",
+		"type": "design"
+	},
+	"Ruth Wu": {
+		"title":"UI Designer",
+		"link1":"http://wutangruth.com",
+		"link2":"http://www.linkedin.com/in/wuruth",
+		"image":"img/ruth.jpg",
+		"type": "design"
+	},
+	"Anita DeWitt": {
+		"title":"UI Designer",
+		"link1":"http://www.linkedin.com/in/wuruth",
+		"link2":"",
+		"image":"img/anita.png",
+		"type": "design"
+	},
+	"Alex Greenberg": {
+		"title":"UI Designer",
+		"link1":"",
+		"link2":"",
+		"image":"img/alexg.jpg",
+		"type": "design"
+	},
+	"Chloe Williams": {
+		"title":"Community Builder",
+		"link1":"",
+		"link2":"",
+		"image":"img/chloe.jpg",
+		"type": "com"
+	},
+	"Mark Schwabacher": {
+		"title":"Community Builder",
+		"link1":"https://www.linkedin.com/pub/mark-schwabacher/91/860/23",
+		"link2":"http://www.twitter.com/grinnellappdev",
+		"image":"img/mark.jpg",
+		"type": "com"
+	},
+	"Lea Marolt Sonnenschein": {
+		"title":"Former iOS Lead",
+		"link1":"http://hellosunschein.com/",
+		"link2":"http://si.linkedin.com/in/leamarolt",
+		"image":"img/lea.jpg",
+		"type": "past"
+	},
+	"Patrick Triest ": {
+		"title":"Former Android Lead",
+		"link1":"http://triestpa.github.io",
+		"link2":"http://www.linkedin.com/in/triestpa",
+		"image":"img/patrick.jpg",
+		"type": "past"
+	},
+	"Nathalie Ford ": {
+		"title":"Former Administrative Coordinator",
+		"link1":"http://www.linkedin.com/in/nathalieford",
+		"link2":"",
+		"image":"img/nathalie.jpg",
+		"type": "past"
+	},
+	"Caleb Sponheim": {
+		"title":"Former Design Lead",
+		"link1":"http://calebsponheim.com",
+		"link2":"http://www.linkedin.com/in/calebsponheim",
+		"image":"img/caleb.jpg",
+		"type": "past"
+	},
+	"Daniel Torres": {
+		"title":"Former iOS Developer",
+		"link1":"https://www.linkedin.com/profile/view?id=239234651&trk=nav_responsive_tab_profile",
+		"link2":"https://github.com/torresda",
+		"image":"img/danielT.jpg",
+		"type": "past"
+	},
+	"Chris Lee": {
+		"title":"Former UX Researcher",
+		"link1":"https://www.linkedin.com/profile/view?id=154641649&trk=nav_responsive_tab_profile_pic",
+		"link2":"",
+		"image":"img/chris.png",
+		"type": "past"
+	},
+	"Hannah Cohn": {
+		"title":"Former UX Researcher",
+		"link1":"",
+		"link2":"",
+		"image":"img/hannah.png",
+		"type": "past"
+	},
+	"Jarren Santos": {
+		"title":"Former Community Builder",
+		"link1":"http://www.linkedin.com/in/jarrenLS",
+		"link2":"https://twitter.com/JarrenLS",
+		"image":"img/jarren.png",
+		"type": "past"
+	},
+	"Shaun Mataire": {
+		"title":"Shaun Mataire",
+		"link1":"https://www.linkedin.com/pub/shaun-mataire/76/226/46a",
+		"link2":"https://github.com/shaun117",
+		"image":"img/shaun.png",
+		"type": "past"
+	},
+	"Lexy Greenwell": {
+		"title":"Former UI Designer",
+		"link1":"http://www.linkedin.com/in/alexisgreenwell",
+		"link2":"http://www.twitter.com/LexyLGreenwell",
+		"image":"img/lexy.png",
+		"type": "past"
+	},
+	"Patrick Slough": {
+		"title":"Former iOS Developer",
+		"link1":"https://www.linkedin.com/pub/patrick-slough/a4/165/94a",
+		"link2":"https://github.com/pslough93",
+		"image":"img/patrickS.png",
+		"type": "past"
+	},
+	"Ezra Edgerton": {
+		"title":"Past UI Designer",
+		"link1":"",
+		"link2":"",
+		"image":"img/ezra.jpg",
+		"type": "past"
+	},
+	"Maijid Moujaled": {
+		"title":"Former iOS Lead",
+		"link1":"",
+		"link2":"",
+		"image":"img/maijid.jpg",
+		"type": "past"
+	},
+	"David Cowden": {
+		"title":"David Cowden",
+		"link1":"",
+		"link2":"",
+		"image":"img/david.jpg",
+		"type": "past"
+	},
+	"Christine Tran": {
+		"title":"Former UI Designer",
+		"link1":"",
+		"link2":"",
+		"image":"img/christine.png",
+		"type": "past"
+	},
+	"Spencer Liberto": {
+		"title":"Former Android Developer",
+		"link1":"",
+		"link2":"",
+		"image":"img/spencer.jpg",
+		"type": "past"
+	},
+	"Colin Tremblay": {
+		"title":"Former iOS Developer",
+		"link1":"",
+		"link2":"",
+		"image":"img/colin.jpg",
+		"type": "past"
+	}
+}
