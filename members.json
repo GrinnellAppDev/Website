@@ -125,6 +125,20 @@
 		"image":"img/amanda.jpg",
 		"type": "dev"
 	},
+
+	"Albert Owusu-Asare": {
+		"title":"Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/albertowusuasare",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/albertowusuasare",
+			"type": "social-github"
+			},
+		"image":"img/albert.png",
+		"type": "dev"
+	},
 	
 	"Alex French": {
 		"title":"iOS Developer",
@@ -178,7 +192,7 @@
 			"url": "https://github.com/YazanKittaneh",
 			"type": "social-github"
 			},
-		"image":"img/yazan.jpg",
+		"image":"img/yazan.png",
 		"type": "dev"
 	},
 
@@ -514,7 +528,7 @@
 			"url": "",
 			"type": ""
 		},
-		"image":"img/colin.jpg",
+		"image":"img/colin.png",
 		"type": "past"
 	}
 }

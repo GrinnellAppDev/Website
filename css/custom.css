@@ -967,42 +967,42 @@ code {
 
 
 .memberName:hover + img[class~="leadPic"] {
-	-webkit-filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75) blur(3px);
+	-webkit-filter: blur(3px) sepia(1) hue-rotate(300deg) saturate(1.5) brightness(.75);
 	filter: sepia(1) hue-rotate(300deg) saturate(1.5) brightness(0.75) blur(3px); 
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="devPic"]{
-	-webkit-filter: sepia(1) hue-rotate(150deg) saturate(1) brightness(0.75) blur(3px);
+	-webkit-filter: blur(3px) sepia(1) hue-rotate(150deg) saturate(1) brightness(0.75);
 	filter: sepia(1) hue-rotate(150deg) saturate(1) brightness(0.75) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="designPic"]{
-	-webkit-filter: sepia(1) hue-rotate(230deg) saturate(1.25) brightness(0.75) blur(3px);
+	-webkit-filter: blur(3px) sepia(1) hue-rotate(230deg) saturate(1.25) brightness(0.75);
 	filter: sepia(1) hue-rotate(230deg) saturate(1.25) brightness(0.75) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="comPic"]{
-	-webkit-filter: sepia(1) hue-rotate(100deg) saturate(1.25) brightness(0.75) blur(3px);
+	-webkit-filter: blur(3px) sepia(1) hue-rotate(100deg) saturate(1.25) brightness(0.75);
 	filter: sepia(1) hue-rotate(100deg) saturate(1.25) brightness(0.75) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="traineePic"]{
-	-webkit-filter: sepia(1) hue-rotate(330deg) saturate(2) brightness(0.75) blur(3px);
+	-webkit-filter: blur(3px) sepia(1) hue-rotate(330deg) saturate(2) brightness(0.75);
 	filter: sepia(1) hue-rotate(330deg) saturate(2) brightness(0.75) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 
 .memberName:hover + img[class~="pastPic"]{
-	-webkit-filter: saturate(1.5) brightness(0.8) blur(3px);
+	-webkit-filter: blur(3px) saturate(1.5) brightness(0.8);
 	filter: saturate(1.5) brightness(0.8) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;

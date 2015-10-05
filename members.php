@@ -22,7 +22,6 @@ $membersArray = json_decode($membersContents, true);
 		<div class="col-md-12">
         <?php
         $counter = 0;
-        
         foreach ($membersArray as $name => $info) {
             $extra_class = "";
             if ($counter % 5 == 0) {
