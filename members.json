@@ -112,20 +112,6 @@
 		"type": "dev"
 	},
 	
-	"Daniel Goldstein": {
-		"title":"Android Developer",
-		"link1": {
-			"url": "http://www.linkedin.com/profile/view?id=228784400&trk=nav_responsive_tab_profile_pic",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/goldstei1",
-			"type": "social-github"
-			},
-		"image":"img/danielG.png",
-		"type": "dev"
-	},
-	
 	"Amanda Hinchman-Dominguez": {
 		"title":"Android Developer",
 		"link1": {
@@ -182,20 +168,6 @@
 		"type": "dev"
 	},
 	
-	"Adam Hudson": {
-		"title":"iOS Developer",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-			},
-		"image":"img/adam.png",
-		"type": "dev"
-	},
-	
 	"Yazan Kittaneh": {
 		"title":"Android Developer",
 		"link1": {
@@ -207,6 +179,20 @@
 			"type": "social-github"
 			},
 		"image":"img/yazan.jpg",
+		"type": "dev"
+	},
+
+	"Shaun Mataire": {
+		"title":"iOS Developer",
+		"link1": {
+		"url": "https://www.linkedin.com/pub/shaun-mataire/76/226/46a",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/shaun117",
+			"type": "social-github"
+		},
+		"image":"img/shaun.png",
 		"type": "dev"
 	},
 	
@@ -265,19 +251,19 @@
 		"image":"img/anita.png",
 		"type": "design"
 	},
-	
-	"Alex Greenberg": {
-		"title":"UI Designer",
+
+	"Jarren Santos": {
+		"title":"Former Community Builder",
 		"link1": {
-			"url": "",
-			"type": ""
+			"url": "http://www.linkedin.com/in/jarrenLS",
+			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "",
-			"type": ""
-			},
-		"image":"img/alexg.jpg",
-		"type": "design"
+			"url": "https://twitter.com/JarrenLS",
+			"type": "social-twitter"
+		},
+		"image":"img/jarren.png",
+		"type": "com"
 	},
 	
 	"Chloe Williams": {
@@ -363,6 +349,20 @@
 		"image":"img/caleb.jpg",
 		"type": "past"
 	},
+
+	"Daniel Goldstein": {
+		"title":"Android Developer",
+		"link1": {
+			"url": "http://www.linkedin.com/profile/view?id=228784400&trk=nav_responsive_tab_profile_pic",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/goldstei1",
+			"type": "social-github"
+			},
+		"image":"img/danielG.png",
+		"type": "past"
+	},
 	
 	"Daniel Torres": {
 		"title":"Former iOS Developer",
@@ -403,34 +403,6 @@
 			"type": ""
 		},
 		"image":"img/hannah.png",
-		"type": "past"
-	},
-	
-	"Jarren Santos": {
-		"title":"Former Community Builder",
-		"link1": {
-			"url": "http://www.linkedin.com/in/jarrenLS",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://twitter.com/JarrenLS",
-			"type": "social-twitter"
-		},
-		"image":"img/jarren.png",
-		"type": "past"
-	},
-	
-	"Shaun Mataire": {
-		"title":"Shaun Mataire",
-		"link1": {
-		"url": "https://www.linkedin.com/pub/shaun-mataire/76/226/46a",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/shaun117",
-			"type": "social-github"
-		},
-		"image":"img/shaun.png",
 		"type": "past"
 	},
 	
@@ -491,7 +463,7 @@
 	},
 	
 	"David Cowden": {
-		"title":"David Cowden",
+		"title":"Former Android Lead",
 		"link1": {
 			"url": "",
 			"type": ""
