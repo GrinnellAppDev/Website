@@ -30,24 +30,31 @@ $membersArray = json_decode($membersContents, true);
                 echo '<div class="row rowCentered">';
             }
 
+            $icons = "";
+            $iconTemplate = 
+            '<a href="%s" target="_blank">
+            <i class="fi-%s"> </i></a>';
+
+            if ($info["link1"]["url"] != "") {
+                $icons .= sprintf($iconTemplate, $info["link1"]["url"], $info["link1"]["type"]);
+            }
+            if ($info["link2"]["url"] != "") {
+                $icons .= sprintf($iconTemplate, $info["link2"]["url"], $info["link2"]["type"]);
+            }
+
             $member_html = 
                 '<div class="col-md-2 %s colCentered">
                         <span class="memberName">
                             <p>%s</br>
                             <span class="memberTitle">%s</span></p>
                             <span class="memberLinks">
-                                <a href="%s" target="_blank">
-                                <i class="fi-social-linkedin"> </i></a>
-                    
-                                <a href="%s target="_blank">
-                                <i class="fi-social-github"> </i></a>
+                                %s
                             </span>
                         </span>
                             <img src="%s" class="memberPic %sPic" />
                     </div>';
             echo sprintf($member_html, $extra_class, $name, 
-                $info["title"], $info["link1"], $info["link2"],
-                $info["image"], $info["type"]);
+                $info["title"], $icons, $info["image"], $info["type"]);
 
             $counter++;
             if ($counter % 5 == 0) {
