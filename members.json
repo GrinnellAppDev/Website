@@ -307,6 +307,20 @@
 		"image":"img/mark.jpg",
 		"type": "com"
 	},
+
+	"Matt Murphy": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/matt-murphy-84888b106",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/murphymatt",
+			"type": "social-github"
+		},
+		"image": "img/matt.jpg",
+		"type": "trainee"
+	},
 	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
