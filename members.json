@@ -308,6 +308,16 @@
 		"type": "com"
 	},
 
+	"Dave Kreis": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "kreisdavid.github.io",
+			"type": "home"
+		},
+		"image": "img/dave.jpg",
+		"type": "trainee"
+	},
+
 	"Matt Murphy": {
 		"title": "iOS Trainee",
 		"link1": {
