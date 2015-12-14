@@ -331,6 +331,26 @@
 		"image": "img/matt.jpg",
 		"type": "trainee"
 	},
+
+	"David Chang": {
+		"title": "iOS Trainee",
+		"image": "img/david_chang.jpg",
+		"type": "trainee"
+	},
+
+	"Zachary Susag": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/zacharysusag",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://twitter.com/zsusag",
+			"type": "social-twitter"
+		},
+		"image": "img/zachary.jpg",
+		"type": "trainee"
+	},
 	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
