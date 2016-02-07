@@ -158,20 +158,6 @@
 		"type": "dev"
 	},
 	
-	"Henry Fisher": {
-		"title":"iOS Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/pub/henry-fisher/79/346/67",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/henryperson",
-			"type": "social-github"
-			},
-		"image":"img/henry.jpg",
-		"type": "dev"
-	},
-	
 	"Prabir Pradhan": {
 		"title":"Android Developer",
 		"link1": {
@@ -257,6 +243,20 @@
 		"image":"img/anita.png",
 		"type": "design"
 	},
+/*
+	"Doyi Lee": {
+		"title":"UI Designer",
+		"link1": {
+			"url": " ",
+			"type": " "
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":" ",
+		"type": "design"
+	}, */
 
 /* COMMUNITY BUILDERS */
 
@@ -302,9 +302,9 @@
 		"type": "com"
 	},
 
-<<<<<<< .merge_file_WjHpCa
-/* PAST MEMBERS */
-=======
+
+/* TRAINEES */
+
 	"Dave Kreis": {
 		"title": "iOS Trainee",
 		"link1": {
@@ -348,7 +348,8 @@
 		"image": "img/zachary.jpg",
 		"type": "trainee"
 	},
->>>>>>> .merge_file_UJ01vy
+
+/* PAST MEMBERS */
 	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
