@@ -1,7 +1,5 @@
 {
 
-/* LEADS */
-
 	"Larry Boateng Asante": {
 		"title":"Education Manager & Android Developer",
 		"link1": {
@@ -71,8 +69,6 @@
 		"image":"img/sarah.png",
 		"type": "lead"
 	},
-	
-/* DEVELOPERS */
 
 	"Michael Owusu": {
 		"title":"Android Developer",
@@ -199,8 +195,6 @@
 		"image":"img/shaun.png",
 		"type": "dev"
 	},
-
-/* DESIGNERS */
 	
 	"Sooji Son": {
 		"title":"UI Designer",
@@ -243,7 +237,7 @@
 		"image":"img/anita.png",
 		"type": "design"
 	},
-/*
+
 	"Doyi Lee": {
 		"title":"UI Designer",
 		"link1": {
@@ -256,9 +250,7 @@
 			},
 		"image":"img/doyi.jpg",
 		"type": "design"
-	}, */
-
-/* COMMUNITY BUILDERS */
+	},
 
 	"Jarren Santos": {
 		"title":"Community Builder",
@@ -301,9 +293,6 @@
 		"image":"img/mark.jpg",
 		"type": "com"
 	},
-
-
-/* TRAINEES */
 
 	"Dave Kreis": {
 		"title": "iOS Trainee",
@@ -349,8 +338,6 @@
 		"type": "trainee"
 	},
 
-/* PAST MEMBERS */
-	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
 		"link1": {
