@@ -302,7 +302,53 @@
 		"type": "com"
 	},
 
+<<<<<<< .merge_file_WjHpCa
 /* PAST MEMBERS */
+=======
+	"Dave Kreis": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://kreisdavid.github.io",
+			"type": "home"
+		},
+		"image": "img/dave.jpg",
+		"type": "trainee"
+	},
+
+	"Matt Murphy": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/matt-murphy-84888b106",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/murphymatt",
+			"type": "social-github"
+		},
+		"image": "img/matt.jpg",
+		"type": "trainee"
+	},
+
+	"David Chang": {
+		"title": "iOS Trainee",
+		"image": "img/david_chang.jpg",
+		"type": "trainee"
+	},
+
+	"Zachary Susag": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/zacharysusag",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://twitter.com/zsusag",
+			"type": "social-twitter"
+		},
+		"image": "img/zachary.jpg",
+		"type": "trainee"
+	},
+>>>>>>> .merge_file_UJ01vy
 	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
