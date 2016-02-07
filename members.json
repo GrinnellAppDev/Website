@@ -1,5 +1,7 @@
 {
-	
+
+/* LEADS */	
+
 	"Larry Boateng Asante": {
 		"title":"Education Manager & Android Developer",
 		"link1": {
@@ -70,6 +72,8 @@
 		"type": "lead"
 	},
 	
+/* DEVELOPERS */
+
 	"Michael Owusu": {
 		"title":"Android Developer",
 		"link1": {
@@ -209,20 +213,8 @@
 		"image":"img/shaun.png",
 		"type": "dev"
 	},
-	
-	"Han Trinh": {
-		"title":"UI Designer",
-		"link1": {
-			"url": "https://ashleyfan894.carbonmade.com/",
-			"type": "home"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-			},
-		"image":"img/han.png",
-		"type": "design"
-	},
+
+/* DESIGNERS */
 	
 	"Sooji Son": {
 		"title":"UI Designer",
@@ -266,6 +258,8 @@
 		"type": "design"
 	},
 
+/* COMMUNITY BUILDERS */
+
 	"Jarren Santos": {
 		"title":"Community Builder",
 		"link1": {
@@ -307,6 +301,8 @@
 		"image":"img/mark.jpg",
 		"type": "com"
 	},
+
+/* PAST MEMBERS */
 	
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
