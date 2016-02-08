@@ -338,6 +338,20 @@
 		"type": "trainee"
 	},
 
+	"Mattori Birnbaum": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/mattori-birnbaum-221451a3",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/PsychicNoodles",
+			"type": "social-github"
+		},
+		"image": "img/mattori.jpg",
+		"type": "trainee"
+	},
+
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
 		"link1": {
