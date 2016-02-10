@@ -352,6 +352,20 @@
 		"type": "trainee"
 	},
 
+	"Henry Fisher": {
+		"title":"Former iOS Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/pub/henry-fisher/79/346/67",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/henryperson",
+			"type": "social-github"
+			},
+		"image":"img/henry.jpg",
+		"type": "past"
+	},
+
 	"Lea Marolt Sonnenschein": {
 		"title":"Former iOS Lead",
 		"link1": {
