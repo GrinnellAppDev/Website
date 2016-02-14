@@ -294,6 +294,20 @@
 		"type": "com"
 	},
 
+	"Kevin Nguyen": {
+		"title":"Community Builder",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image":"img/",
+		"type": "com"
+	},
+
 	"Dave Kreis": {
 		"title": "iOS Trainee",
 		"link1": {
@@ -305,7 +319,7 @@
 	},
 
 	"Matt Murphy": {
-		"title": "iOS Trainee",
+		"title": "Android Trainee",
 		"link1": {
 			"url": "https://www.linkedin.com/in/matt-murphy-84888b106",
 			"type": "social-linkedin"
@@ -318,12 +332,6 @@
 		"type": "trainee"
 	},
 
-	"David Chang": {
-		"title": "iOS Trainee",
-		"image": "img/david_chang.jpg",
-		"type": "trainee"
-	},
-
 	"Zachary Susag": {
 		"title": "Android Trainee",
 		"link1": {
@@ -331,8 +339,8 @@
 			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "https://twitter.com/zsusag",
-			"type": "social-twitter"
+			"url": "www.zacharysusag.com",
+			"type": "home"
 		},
 		"image": "img/zachary.jpg",
 		"type": "trainee"
@@ -349,6 +357,34 @@
 			"type": "social-github"
 		},
 		"image": "img/mattori.png",
+		"type": "trainee"
+	},
+
+	"Linqing Peng": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/linqingpeng",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/",
+		"type": "trainee"
+	},
+
+	"Eli Salm": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.github.com/salmeli",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/",
 		"type": "trainee"
 	},
 
