@@ -294,20 +294,6 @@
 		"type": "com"
 	},
 
-	"Kevin Nguyen": {
-		"title":"Community Builder",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image":"img/",
-		"type": "com"
-	},
-
 	"Dave Kreis": {
 		"title": "iOS Trainee",
 		"link1": {
@@ -315,6 +301,20 @@
 			"type": "home"
 		},
 		"image": "img/dave.jpg",
+		"type": "trainee"
+	},
+
+	"Marcel Champagne": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/champagnemarcel",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/mnaircckel",
+			"type": "social-github"
+		},
+		"image": "img/marcel.jpg",
 		"type": "trainee"
 	},
 
@@ -357,34 +357,6 @@
 			"type": "social-github"
 		},
 		"image": "img/mattori.png",
-		"type": "trainee"
-	},
-
-	"Linqing Peng": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/linqingpeng",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/",
-		"type": "trainee"
-	},
-
-	"Eli Salm": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "https://www.github.com/salmeli",
-			"type": "social-github"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/",
 		"type": "trainee"
 	},
 

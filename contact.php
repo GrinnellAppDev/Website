@@ -98,9 +98,8 @@ include('inc/header.php');
 }(document, "script"));
 </script>
 </center>
-<!-- Do not change the code! -—>
+<!-- Do not change the code! -->
 
-<!--
             <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for your message, we'll be in touch shortly!</p>
             <?php } if (isset($_GET["status"]) and $_GET["status"] == "spam") { ?>
@@ -124,7 +123,7 @@ include('inc/header.php');
                             <button onclick="<?php $success = true; ?>" type="submit">Submit</button>
                         </fieldset>
                     </form>
-                    -->
+                    
                 </div>
                         <div class="col-lg-3"></div>
             </div>
