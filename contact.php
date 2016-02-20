@@ -88,6 +88,7 @@ include('inc/header.php');
                     <h2>Shoot us an email!</h2>
 <center>
 <!-- Do not change the code! -->
+
 <a id="foxyform_embed_link_666381" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
 (function(d, t){
@@ -99,7 +100,7 @@ include('inc/header.php');
 </script>
 </center>
 <!-- Do not change the code! -->
-
+<!--
             <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for your message, we'll be in touch shortly!</p>
             <?php } if (isset($_GET["status"]) and $_GET["status"] == "spam") { ?>
@@ -110,8 +111,8 @@ include('inc/header.php');
             <p class="redForm">Hey, you! You sent us an incomplete form. Shame on you! Please try again.</p> <?php } ?> 
 
 
-                    <form class="form" action="contact.php" method="post" id="contact">
-                        <fieldset>
+            <form class="form" action="contact.php" method="post" id="contact">
+            <fieldset>
             <label for="name">Name: *</label> <br />
             <input type="text" id="name" name="name"><br />
             <label for="email">Email: *</label> <br />
@@ -123,7 +124,7 @@ include('inc/header.php');
                             <button onclick="<?php $success = true; ?>" type="submit">Submit</button>
                         </fieldset>
                     </form>
-                    
+                -->
                 </div>
                         <div class="col-lg-3"></div>
             </div>
