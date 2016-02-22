@@ -10,7 +10,7 @@
 			"url": "http://www.github.com/LarryAsante",
 			"type": "social-github"
 		},
-		"image":"img/larry.png",
+		"image":"img/larry.jpg",
 		"type": "lead"
 	},
 	
@@ -45,7 +45,7 @@
 	"Ajuna Kyaruzi": {
 		"title":"Director",
 		"link1": {
-			"url": "http://www.cs.grinnell.edu/~kyaruzia17",
+			"url": "ajuna.me",
 			"type": "home"
 		},
 		"link2": {
@@ -66,7 +66,7 @@
 			"url": "http://www.linkedin.com/pub/sarah-trop/85/b1b/252",
 			"type": "social-linkedin"
 		},
-		"image":"img/sarah.png",
+		"image":"img/sarah.jpg",
 		"type": "lead"
 	},
 
@@ -94,7 +94,7 @@
 			"url": "",
 			"type": ""
 			},
-		"image":"img/ty.png",
+		"image":"img/ty.jpg",
 		"type": "dev"
 	},
 	
@@ -136,7 +136,7 @@
 			"url": "https://github.com/albertowusuasare",
 			"type": "social-github"
 			},
-		"image":"img/albert.png",
+		"image":"img/albert.jpg",
 		"type": "dev"
 	},
 	
@@ -150,7 +150,7 @@
 			"url": "https://github.com/frenchal17",
 			"type": "social-github"
 			},
-		"image":"img/alexf.jpg",
+		"image":"img/alexfrench.jpg",
 		"type": "dev"
 	},
 	
@@ -192,7 +192,7 @@
 			"url": "https://github.com/shaun117",
 			"type": "social-github"
 		},
-		"image":"img/shaun.png",
+		"image":"img/shaun.jpg",
 		"type": "dev"
 	},
 	
@@ -252,6 +252,20 @@
 		"type": "design"
 	},
 
+	"Alex Greenberg": {
+		"title":"UI Designer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":"img/alexg.jpg",
+		"type": "design"
+	},
+
 	"Jarren Santos": {
 		"title":"Community Builder",
 		"link1": {
@@ -262,7 +276,7 @@
 			"url": "https://twitter.com/JarrenLS",
 			"type": "social-twitter"
 		},
-		"image":"img/jarren.png",
+		"image":"img/jarren.jpg",
 		"type": "com"
 	},
 	
@@ -304,6 +318,20 @@
 		"type": "trainee"
 	},
 
+	"Eli Salm": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/eli-salm-58b136115",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://www.github.com/salmeli",
+			"type": "social-github"
+		},
+		"image": "img/eli.jpg",
+		"type": "trainee"
+	},
+
 	"Marcel Champagne": {
 		"title": "Android Trainee",
 		"link1": {
@@ -314,7 +342,7 @@
 			"url": "https://github.com/mnaircckel",
 			"type": "social-github"
 		},
-		"image": "img/marcel.jpg",
+		"image": "img/marcel.png",
 		"type": "trainee"
 	},
 
@@ -356,7 +384,7 @@
 			"url": "https://github.com/PsychicNoodles",
 			"type": "social-github"
 		},
-		"image": "img/mattori.png",
+		"image": "img/mattori.jpg",
 		"type": "trainee"
 	},
 
@@ -529,7 +557,7 @@
 	},
 	
 	"Maijid Moujaled": {
-		"title":"Former iOS Lead",
+		"title":"Former iOS Lead and Founder",
 		"link1": {
 			"url": "",
 			"type": ""
@@ -543,7 +571,7 @@
 	},
 	
 	"David Cowden": {
-		"title":"Former Android Lead",
+		"title":"Former Android Lead and Founder",
 		"link1": {
 			"url": "",
 			"type": ""
@@ -571,7 +599,7 @@
 	},
 	
 	"Spencer Liberto": {
-		"title":"Former Android Developer",
+		"title":"Former Android Develope and Founder",
 		"link1": {
 			"url": "",
 			"type": ""
@@ -585,7 +613,7 @@
 	},
 	
 	"Colin Tremblay": {
-		"title":"Former iOS Developer",
+		"title":"Former iOS Developer and Founder",
 		"link1": {
 			"url": "",
 			"type": ""
