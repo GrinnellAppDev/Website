@@ -195,7 +195,7 @@ h4 {
 .color .members .container {
 	width: 100%;
 	height: 800px;
-	background-image: url("../img/Group Photo.jpg");
+	background-image: url("../img/groupphoto2016.jpg");
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
@@ -397,7 +397,6 @@ h4 {
 .color .portfolio .container {
 	width: 100%;
 	height: 100%;
-	/* background-image: url("../img/old_moon.png"); */
 	background-color: #EADCDC;
 	padding-top: 30px;
 	padding-bottom: 0px;
@@ -422,7 +421,6 @@ h4 {
 .color .apply .container {
 	width: 100%;
 	height: 100%;
-	/* background-image: url("../img/old_moon.png"); */
 	background-color: #EADCDC;
 	padding-top: 30px;
 	padding-bottom: 0px;
@@ -432,7 +430,6 @@ h4 {
 .color .contact .container {
 	width: 100%;
 	height: 100%;
-	/* background-image: url("../img/old_moon.png"); */
 	background-color: #EADCDC;
 	padding-top: 30px;
 	padding-bottom: 0px;
