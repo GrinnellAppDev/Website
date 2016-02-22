@@ -12,7 +12,7 @@ $membersArray = json_decode($membersContents, true);
         <div class="members">
             <div class="container">
                 <div class="page-header main-content">
-                    <h1 style="padding-top:150px;">The faces behind the apps?!</h1>
+                    <h1 style="padding-top:350px;">The faces behind the apps?!</h1>
                 </div>
             </div>
         </div>
