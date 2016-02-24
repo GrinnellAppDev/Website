@@ -269,7 +269,7 @@
 	"Jarren Santos": {
 		"title":"Community Builder",
 		"link1": {
-			"url": "http://www.linkedin.com/in/jarrenLS",
+			"url": "https://www.linkedin.com/in/jarrenls",
 			"type": "social-linkedin"
 		},
 		"link2": {
@@ -346,6 +346,16 @@
 		"type": "trainee"
 	},
 
+	"Medha Gopalaswamy": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "github.com/gopalasw",
+			"type": "social-github"
+		},
+		"image": "img/medha.jpg",
+		"type": "trainee"
+	},
+	
 	"Matt Murphy": {
 		"title": "Android Trainee",
 		"link1": {
