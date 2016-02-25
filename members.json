@@ -308,11 +308,29 @@
 		"type": "com"
 	},
 
+	"Kevin Nguyen": {
+		"title":"Community Builder",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image":"img/kevin.jpg",
+		"type": "com"
+	},
+
 	"Dave Kreis": {
 		"title": "iOS Trainee",
 		"link1": {
 			"url": "https://kreisdavid.github.io",
 			"type": "home"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
 		},
 		"image": "img/dave.jpg",
 		"type": "trainee"
@@ -351,6 +369,10 @@
 		"link1": {
 			"url": "github.com/gopalasw",
 			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
 		},
 		"image": "img/medha.jpg",
 		"type": "trainee"
