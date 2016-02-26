@@ -350,6 +350,16 @@
 		"type": "trainee"
 	},
 
+	"Linqing Peng": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/linqingpeng",
+			"type": "social-linkedin"
+		},
+		"image": "img/linqing.jpg",
+		"type": "trainee"
+	},
+
 	"Marcel Champagne": {
 		"title": "Android Trainee",
 		"link1": {
