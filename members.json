@@ -430,6 +430,34 @@
 		"type": "trainee"
 	},
 
+	"Saung Thuya": {
+		"title": "Design Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/saung-thuya-946586b2",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/saung.jpg",
+		"type": "trainee"
+	},
+
+	"Richard Li": {
+		"title": "Design Trainee",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/richard.jpg",
+		"type": "trainee"
+	},
+
 	"Henry Fisher": {
 		"title":"Former iOS Developer",
 		"link1": {
