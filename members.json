@@ -157,12 +157,12 @@
 	"Prabir Pradhan": {
 		"title":"Android Developer",
 		"link1": {
-			"url": "",
-			"type": ""
+			"url": "http://github.com/prabirmsp",
+			"type": "social-github"
 		},
 		"link2": {
-			"url": "",
-			"type": ""
+			"url": "https://www.linkedin.com/in/prabirmsp",
+			"type": "social-linkedin"
 			},
 		"image":"img/prabir.jpg",
 		"type": "dev"
