@@ -308,20 +308,6 @@
 		"type": "com"
 	},
 
-	"Dave Kreis": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "https://kreisdavid.github.io",
-			"type": "home"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/dave.jpg",
-		"type": "trainee"
-	},
-
 	"Eli Salm": {
 		"title": "iOS Trainee",
 		"link1": {
