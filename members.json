@@ -223,20 +223,6 @@
 		"image":"img/ruth.jpg",
 		"type": "design"
 	},
-	
-	"Anita DeWitt": {
-		"title":"UI Designer",
-		"link1": {
-			"url": "http://www.linkedin.com/in/wuruth",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-			},
-		"image":"img/anita.png",
-		"type": "design"
-	},
 
 	"Doyi Lee": {
 		"title":"UI Designer",
@@ -456,6 +442,20 @@
 		},
 		"image": "img/richard.jpg",
 		"type": "trainee"
+	},
+
+	"Anita DeWitt": {
+		"title":"Former UI Designer",
+		"link1": {
+			"url": "http://www.linkedin.com/in/wuruth",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":"img/anita.png",
+		"type": "past"
 	},
 
 	"Henry Fisher": {
