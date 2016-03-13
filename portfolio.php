@@ -407,13 +407,6 @@ include('inc/header.php');
                     President Kington will also be participating in the challenge and publicly posting his 
                     progress to help motivate our campus community.
                     </p>
-                    <!-- iOS Store --> 
-                    <a href="https://itunes.apple.com/us/app/grinwell/id921395710?mt=8" target="_blank">
-                    <img class="responsive store" src="img/appleStore.png"></a>
-
-                    <!-- Google Play --> 
-                    <a href="https://play.google.com/store/apps/details?id=edu.grinnellappdev.grinwell_android" target="_blank">
-                    <img class="responsive store" src="img/googlePlay.png"></a>
 
                     </center>
                 </div>

@@ -423,10 +423,24 @@
 			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "http://github.com/ampofote",
+			"url": "https://github.com/ampofote",
 			"type": "social-github"
 		},
 		"image": "img/mama.jpg",
+		"type": "trainee"
+	},
+
+	"Mira Lamb": {
+		"title": "Design Trainee",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/mira.jpg",
 		"type": "trainee"
 	},
 
