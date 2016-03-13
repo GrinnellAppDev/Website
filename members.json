@@ -345,20 +345,6 @@
 		"image": "img/marcel.png",
 		"type": "trainee"
 	},
-
-	"Medha Gopalaswamy": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "github.com/gopalasw",
-			"type": "social-github"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/medha.jpg",
-		"type": "trainee"
-	},
 	
 	"Matt Murphy": {
 		"title": "Android Trainee",
@@ -425,6 +411,20 @@
 		"link2": {
 			"url": "",
 			"type": ""
+		},
+		"image": "img/richard.jpg",
+		"type": "trainee"
+	},
+
+	"Mama Ampofote": {
+		"title": "Design Trainee",
+		"link1": {
+			"url": "https://www.linkedin.com/in/mama-yaa-biamah-ampofo-tenkorang-537b19b7",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "http://github.com/ampofote",
+			"type": "social-github"
 		},
 		"image": "img/richard.jpg",
 		"type": "trainee"
