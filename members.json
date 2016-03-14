@@ -416,7 +416,7 @@
 		"type": "trainee"
 	},
 
-	"Mama Ampofote": {
+	"Mama Ampofo-Tenkorang": {
 		"title": "Design Trainee",
 		"link1": {
 			"url": "https://www.linkedin.com/in/mama-yaa-biamah-ampofo-tenkorang-537b19b7",
@@ -427,20 +427,6 @@
 			"type": "social-github"
 		},
 		"image": "img/mama.jpg",
-		"type": "trainee"
-	},
-
-	"Mira Lamb": {
-		"title": "Design Trainee",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/mira.jpg",
 		"type": "trainee"
 	},
 
