@@ -1,5 +1,5 @@
+<!--
 <?php 
-
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $name = trim($_POST["name"]);
@@ -53,7 +53,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     header("Location: contact.php?status=thanks");
     exit;
 }
-?><?php 
+?> -->
+<?php 
 $activeClass = "contact";
 include('inc/header.php'); 
 ?>
@@ -88,17 +89,15 @@ include('inc/header.php');
                     <h2>Shoot us an email!</h2>
 <center>
 <!-- Do not change the code! -->
-
-<a id="foxyform_embed_link_666381" href="http://www.foxyform.com/">foxyform</a>
+<a id="foxyform_embed_link_768700" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
 (function(d, t){
-  var g = d.createElement(t),
-      s = d.getElementsByTagName(t)[0];
-  g.src = "http://www.foxyform.com/js.php?id=666381&sec_hash=26c05849dd0&width=350px";
-  s.parentNode.insertBefore(g, s);
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=768700&sec_hash=c607bcbb309&width=350px";
+   s.parentNode.insertBefore(g, s);
 }(document, "script"));
 </script>
-</center>
 <!-- Do not change the code! -->
 <!--
             <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
@@ -126,7 +125,7 @@ include('inc/header.php');
                     </form>
                 -->
                 </div>
-                        <div class="col-lg-3"></div>
+            <div class="col-lg-3"></div>
             </div>
         </div>
 
