@@ -86,10 +86,19 @@ include('inc/header.php');
                 <div class="col-lg-3"></div>
 
                 <div class="col-lg-6">
-<!-- Change the width and height values to suit you best -->
-<div class="typeform-widget" data-url="https://grinnellappdev.typeform.com/to/g7RzII" data-text="Contact Form" style="width:100%;height:500px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
-<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"><a href="https://www.typeform.com/examples/forms/?utm_campaign=g7RzII&amp;utm_source=typeform.com-148909-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-onlineform&amp;utm_term=EN" style="color: #999" target="_blank">Online form</a> powered by Typeform</div>
+                    <h2>Shoot us an email!</h2>
+<center>
+<!-- Do not change the code! -->
+<a id="foxyform_embed_link_768700" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=768700&sec_hash=c607bcbb309&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->
 <!--
             <?php if (isset($_GET["status"]) and $_GET["status"] == "thanks") { ?>
             <p class="redForm">Thanks for your message, we'll be in touch shortly!</p>
