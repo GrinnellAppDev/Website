@@ -332,6 +332,20 @@
 		"type": "trainee"
 	},
 
+	"Libby Farrell": {
+		"title": "iOS Trainee",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/libby.jpg",
+		"type": "trainee"
+	},
+
 	"Marcel Champagne": {
 		"title": "Android Trainee",
 		"link1": {
@@ -357,20 +371,6 @@
 			"type": "social-github"
 		},
 		"image": "img/matt.jpg",
-		"type": "trainee"
-	},
-
-	"Libby Farrell": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/libby.jpg",
 		"type": "trainee"
 	},
 
