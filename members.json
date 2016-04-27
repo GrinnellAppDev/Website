@@ -360,6 +360,20 @@
 		"type": "trainee"
 	},
 
+	"Libby Farrell": {
+		"title": "Android Trainee",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/libby.jpg",
+		"type": "trainee"
+	},
+
 	"Zachary Susag": {
 		"title": "Android Trainee",
 		"link1": {
