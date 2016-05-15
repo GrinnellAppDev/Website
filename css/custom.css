@@ -928,8 +928,8 @@ code {
 }
 
 .pastPic {
-	-webkit-filter: saturate(1.5) brightness(0.8);
-	filter: saturate(1.5) brightness(0.8);
+	-webkit-filter: grayscale(100%) saturate(1.5) brightness(0.8);
+	filter: grayscale(100%) saturate(1.5) brightness(0.8);
 }
 
 .memberName {
@@ -999,8 +999,8 @@ code {
 }
 
 .memberName:hover + img[class~="pastPic"]{
-	-webkit-filter: blur(3px) saturate(1.5) brightness(0.8);
-	filter: saturate(1.5) brightness(0.8) blur(3px);
+	-webkit-filter: blur(3px) grayscale(100%) saturate(1.5) brightness(0.8);
+	filter: grayscale(100%) saturate(1.5) brightness(0.8) blur(3px);
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
