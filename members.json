@@ -41,6 +41,20 @@
 		"image":"img/samee.jpg",
 		"type": "lead"
 	},
+
+	"Ajuna Kyaruzi": {
+		"title":"Administrative Outreach",
+		"link1": {
+			"url": "http://ajuna.me/",
+			"type": "home"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/ajunakyaruzi",
+			"type": "social-linkedin"
+		},
+		"image":"img/ajuna.jpg",
+		"type": "lead"
+	},
 	
 	"Sarah Trop": {
 		"title":"Design Lead",
@@ -330,20 +344,6 @@
 		},
 		"image": "img/mama.jpg",
 		"type": "trainee"
-	},
-
-	"Ajuna Kyaruzi": {
-		"title":"Former Director",
-		"link1": {
-			"url": "http://ajuna.me/",
-			"type": "home"
-		},
-		"link2": {
-			"url": "https://www.linkedin.com/in/ajunakyaruzi",
-			"type": "social-linkedin"
-		},
-		"image":"img/ajuna.jpg",
-		"type": "past"
 	},
 
 	"Tyler Dewey": {
