@@ -83,34 +83,6 @@
 		"image":"img/mark.jpg",
 		"type": "lead"
 	},
-
-	"Michael Owusu": {
-		"title":"Android Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/pub/michael-owusu/a3/403/3a1",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/mkowusu",
-			"type": "social-github"
-			},
-		"image":"img/michael.jpg",
-		"type": "dev"
-	},
-	
-	"Amanda Hinchman-Dominguez": {
-		"title":"Android Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/profile/view?id=370482069&trk=nav_responsive_tab_profile",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/ahinchman1",
-			"type": "social-github"
-			},
-		"image":"img/amanda.jpg",
-		"type": "dev"
-	},
 	
 	"Alex French": {
 		"title":"iOS Developer",
