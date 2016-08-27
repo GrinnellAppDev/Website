@@ -1,7 +1,7 @@
 {
 
 	"Larry Boateng Asante": {
-		"title":"Education Manager & Android Developer",
+		"title":"Director of Engineering: Android and Education",
 		"link1": {
 			"url": "http://www.linkedin.com/in/larryboatengasante/",
 			"type": "social-linkedin"
@@ -15,7 +15,7 @@
 	},
 	
 	"Alex Mitchell": {
-		"title":"iOS Lead",
+		"title":"Director of Engineering: iOS",
 		"link1": {
 			"url": "https://www.linkedin.com/in/alexthemitchell",
 			"type": "social-linkedin"
@@ -57,7 +57,7 @@
 	},
 	
 	"Sarah Trop": {
-		"title":"Design Lead",
+		"title":"Director of Design",
 		"link1": {
 			"url": "http://trisarahtrops.com",
 			"type": "home"
@@ -71,7 +71,7 @@
 	},
 
 	"Mark Schwabacher": {
-		"title":"Director",
+		"title":"Director of Business Operations",
 		"link1": {
 			"url": "https://www.linkedin.com/pub/mark-schwabacher/91/860/23",
 			"type": "social-linkedin"
