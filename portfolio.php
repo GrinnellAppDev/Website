@@ -382,44 +382,22 @@ include('inc/header.php');
                 </div>
             </div>
 
-<!--  #grinwell -->
-</br></br>
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/grinwellApp.png" class="appProfile" style="margin-top: 60px;"/>
-                    </br></br>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>#grinwell</h1>
-                    
-                    <a href="https://github.com/GrinnellAppDev/GrinWell-iOS">iOS Codebase</a> 
-                    | 
-                    <a href="https://github.com/GrinnellAppDev/GrinWell-Android">Android Codebase</a>
-                    </br></br>
-                    <p>The President’s Wellness Challenge is a 12-week event for students, staff, and faculty. 
-                    The goal of the challenge is to motivate wellness behaviors in a number of dimensions. 
-                    President Kington will also be participating in the challenge and publicly posting his 
-                    progress to help motivate our campus community.
-                    </p>
-
-                    </center>
-                </div>
-                <div class="col-md-3">
-                </div>
-            </div>
-
 <!-- KDIC -->
 
             <div class="col-md-12">
 
-                <div class="col-md-3">
+                <div class="col-md-2">
                 </div>
+
+                <div class="col-md-2">
+                    <center>
+                    </br>
+                    <img src="img/kdicApp.png" class="appProfile" style="margin-top: 20px;"/>
+                    </br></br>
+                    </center>
+
+                </div>
+
                 <div class="col-md-5 profileStyle" >
                 <center>
                     <h1>KDIC</h1>
@@ -445,48 +423,6 @@ include('inc/header.php');
                     <!-- Google Play --> 
                     <a href="https://play.google.com/store/apps/details?id=edu.grinnell.kdic" target="_blank">
                     <img class="responsive store" src="img/googlePlay.png"></a>
-
-                    </center>
-                </div>
-
-                <div class="col-md-2">
-                    <center>
-                    </br>
-                    <img src="img/kdicApp.png" class="appProfile" style="margin-top: 20px;"/>
-                    </br></br>
-                    </center>
-
-                </div>
-                <div class="col-md-2">
-                </div>
-            </div>
-
-<!--  FACETAG -->
-</br></br>
-            <div class="col-md-12">
-
-                <div class="col-md-2">
-                </div>
-                <div class="col-md-2">
-                    <center>
-                    <img src="img/facetagApp.png" class="appProfile" style="margin-top: 50px;"/>
-                    </br></br>
-
-                </div>
-                <div class="col-md-5 profileStyle">
-                <center>
-                    <h1>FaceTag</h1>
-                    
-                    <a href="https://github.com/GrinnellAppDev/FaceTag-iOS">iOS Codebase</a> 
-                    | 
-                    <a href="https://github.com/GrinnellAppDev/FaceTag-Android">Android Codebase</a>
-                    </br></br>
-                    <p>FaceTag was a fun game for Android and iOS. Developed at MHacks Winter 2014.
-                    Description: Set up a game with your friends and specify the duration of the game 
-                    (time or points). Everyone will be given a target to tag! The first person to get a 
-                    picture of their target's face gets a point and the game proceeds to the next round.
-                    Currently out of production.
-                    </p>
 
                     </center>
                 </div>
