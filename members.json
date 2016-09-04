@@ -97,6 +97,44 @@
 		"image":"img/alexfrench.jpg",
 		"type": "dev"
 	},
+
+	"Eli Salm": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/eli-salm-58b136115",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://www.github.com/salmeli",
+			"type": "social-github"
+		},
+		"image": "img/eli.jpg",
+		"type": "dev"
+	},
+
+	"Linqing Peng": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/linqingpeng",
+			"type": "social-linkedin"
+		},
+		"image": "img/linqing.jpg",
+		"type": "dev"
+	},
+
+	"Libby Farrell": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/libby.jpg",
+		"type": "dev"
+	},
 	
 	"Prabir Pradhan": {
 		"title":"Android Developer",
@@ -123,6 +161,62 @@
 			"type": "social-github"
 			},
 		"image":"img/yazan.png",
+		"type": "dev"
+	},
+
+	"Marcel Champagne": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/champagnemarcel",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/mnaircckel",
+			"type": "social-github"
+		},
+		"image": "img/marcel.png",
+		"type": "dev"
+	},
+	
+	"Matt Murphy": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/matt-murphy-84888b106",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/murphymatt",
+			"type": "social-github"
+		},
+		"image": "img/matt.jpg",
+		"type": "dev"
+	},
+
+	"Zachary Susag": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/zacharysusag",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "http://zacharysusag.com/",
+			"type": "home"
+		},
+		"image": "img/zachary.jpg",
+		"type": "dev"
+	},
+
+	"Mattori Birnbaum": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/mattori-birnbaum-221451a3",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/PsychicNoodles",
+			"type": "social-github"
+		},
+		"image": "img/mattori.jpg",
 		"type": "dev"
 	},
 	
@@ -154,6 +248,48 @@
 		"type": "design"
 	},
 
+	"Saung Thuya": {
+		"title": "UI Designer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/saung-thuya-946586b2",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/saung.jpg",
+		"type": "design"
+	},
+
+	"Richard Li": {
+		"title": "UI Designer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/richard.jpg",
+		"type": "design"
+	},
+
+	"Mama Ampofo-Tenkorang": {
+		"title": "UI Designer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/mama-yaa-biamah-ampofo-tenkorang-537b19b7",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/ampofote",
+			"type": "social-github"
+		},
+		"image": "img/mama.jpg",
+		"type": "design"
+	},
+
 	"Jarren Santos": {
 		"title":"Community Builder",
 		"link1": {
@@ -180,142 +316,6 @@
 		},
 		"image":"img/kevin.jpg",
 		"type": "com"
-	},
-
-	"Eli Salm": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/eli-salm-58b136115",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://www.github.com/salmeli",
-			"type": "social-github"
-		},
-		"image": "img/eli.jpg",
-		"type": "trainee"
-	},
-
-	"Linqing Peng": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/linqingpeng",
-			"type": "social-linkedin"
-		},
-		"image": "img/linqing.jpg",
-		"type": "trainee"
-	},
-
-	"Libby Farrell": {
-		"title": "iOS Trainee",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/libby.jpg",
-		"type": "trainee"
-	},
-
-	"Marcel Champagne": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/champagnemarcel",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/mnaircckel",
-			"type": "social-github"
-		},
-		"image": "img/marcel.png",
-		"type": "trainee"
-	},
-	
-	"Matt Murphy": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/matt-murphy-84888b106",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/murphymatt",
-			"type": "social-github"
-		},
-		"image": "img/matt.jpg",
-		"type": "trainee"
-	},
-
-	"Zachary Susag": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/zacharysusag",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "http://zacharysusag.com/",
-			"type": "home"
-		},
-		"image": "img/zachary.jpg",
-		"type": "trainee"
-	},
-
-	"Mattori Birnbaum": {
-		"title": "Android Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/mattori-birnbaum-221451a3",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/PsychicNoodles",
-			"type": "social-github"
-		},
-		"image": "img/mattori.jpg",
-		"type": "trainee"
-	},
-
-	"Saung Thuya": {
-		"title": "Design Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/saung-thuya-946586b2",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/saung.jpg",
-		"type": "trainee"
-	},
-
-	"Richard Li": {
-		"title": "Design Trainee",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/richard.jpg",
-		"type": "trainee"
-	},
-
-	"Mama Ampofo-Tenkorang": {
-		"title": "Design Trainee",
-		"link1": {
-			"url": "https://www.linkedin.com/in/mama-yaa-biamah-ampofo-tenkorang-537b19b7",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/ampofote",
-			"type": "social-github"
-		},
-		"image": "img/mama.jpg",
-		"type": "trainee"
 	},
 
 	"Tyler Dewey": {
