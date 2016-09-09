@@ -356,7 +356,7 @@ include('inc/header.php');
                     </br></br>
 
                     <!-- Description -->
-                    <p>A mobile interface for Grinnell College's Campus Directory, DB. Stalking just got so much easier...
+                    <p>A mobile interface for Grinnell College's Campus Directory, DB. 
                     </p>
 
                     <!-- iOS Store --> 
