@@ -59,7 +59,7 @@
 	"Sarah Trop": {
 		"title":"Director of Design",
 		"link1": {
-			"url": "http://trisarahtrops.com",
+			"url": "http://sarahtrop.dance",
 			"type": "home"
 		},
 		"link2": {
@@ -136,6 +136,20 @@
 		"type": "dev"
 	},
 	
+	"Kevin Kim": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "http://github.com/Woochul0318",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/kevin2.png",
+		"type": "dev"
+	},
+
 	"Prabir Pradhan": {
 		"title":"Android Developer",
 		"link1": {
@@ -245,20 +259,6 @@
 			"type": "social-linkedin"
 			},
 		"image":"img/ruth.jpg",
-		"type": "design"
-	},
-
-	"Saung Thuya": {
-		"title": "UI Designer",
-		"link1": {
-			"url": "https://www.linkedin.com/in/saung-thuya-946586b2",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/saung.jpg",
 		"type": "design"
 	},
 
