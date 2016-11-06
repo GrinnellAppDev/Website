@@ -346,6 +346,20 @@
 		"type": "com"
 	},
 
+	"Katie Herbert": {
+		"title":"Community Builder",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "img/katie.png",
+			"type": "com"
+		},
+		"image":"img/kevin.jpg",
+		"type": "com"
+	},
+
 	"Tyler Dewey": {
 		"title":"Former iOS Developer",
 		"link1": {
