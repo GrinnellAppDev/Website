@@ -251,14 +251,14 @@
 	"Nicolas Knoebber": {
 		"title":"Services Engineer",
 		"link1": {
-			"url": "",
-			"type": ""
+			"url": "http://nicolasknoebber.com",
+			"type": "home"
 		},
 		"link2": {
-			"url": "",
-			"type": ""
+			"url": "https://github.com/knoebber",
+			"type": "social-github"
 			},
-		"image":"img/",
+		"image":"img/nick.png",
 		"type": "dev"
 	},
 
