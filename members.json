@@ -265,14 +265,14 @@
 	"Aditi Munshi": {
 		"title":"Services Engineer",
 		"link1": {
-			"url": "",
-			"type": ""
+			"url": "https://www.linkedin.com/in/aditi-munshi-a0148a10a",
+			"type": "social-linkedin"
 		},
 		"link2": {
 			"url": "",
 			"type": ""
 			},
-		"image":"img/",
+		"image":"img/aditi.jpg",
 		"type": "dev"
 	},
 
