@@ -1,7 +1,7 @@
 {
 
 	"Larry Boateng Asante": {
-		"title":"Director of Engineering: Android and Education",
+		"title":"Director of Engineering: Android & Education",
 		"link1": {
 			"url": "http://www.linkedin.com/in/larryboatengasante/",
 			"type": "social-linkedin"
@@ -15,7 +15,7 @@
 	},
 	
 	"Alex Mitchell": {
-		"title":"Director of Engineering: iOS",
+		"title":"Director of Engineering: iOS & Backend Services",
 		"link1": {
 			"url": "https://www.linkedin.com/in/alexthemitchell",
 			"type": "social-linkedin"
@@ -29,7 +29,7 @@
 	},
 	
 	"Samee Zahid": {
-		"title":"Android Lead",
+		"title":"Director of Product Development",
 		"link1": {
 			"url": "http://samee.ninja",
 			"type": "home"
@@ -233,7 +233,63 @@
 		"image": "img/mattori.jpg",
 		"type": "dev"
 	},
+
+	"Ruth Wu": {
+		"title":"Services Engineer",
+		"link1": {
+			"url": "http://wutangruth.com",
+			"type": "home"
+		},
+		"link2": {
+			"url": "http://www.linkedin.com/in/wuruth",
+			"type": "social-linkedin"
+			},
+		"image":"img/ruth.jpg",
+		"type": "dev"
+	},
 	
+	"Nicolas Knoebber": {
+		"title":"Services Engineer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":"img/",
+		"type": "dev"
+	},
+
+	"Aditi Munshi": {
+		"title":"Services Engineer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":"img/",
+		"type": "dev"
+	},
+
+	"Zander Otavka": {
+		"title":"Services Engineer",
+		"link1": {
+			"url": "https://github.com/AlexanderOtavka",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+			},
+		"image":"img/zander.png",
+		"type": "dev"
+	},
+
 	"Sooji Son": {
 		"title":"UI Designer",
 		"link1": {
@@ -245,20 +301,6 @@
 			"type": "social-github"
 			},
 		"image":"img/sooji.jpg",
-		"type": "design"
-	},
-	
-	"Ruth Wu": {
-		"title":"UI Designer",
-		"link1": {
-			"url": "http://wutangruth.com",
-			"type": "home"
-		},
-		"link2": {
-			"url": "http://www.linkedin.com/in/wuruth",
-			"type": "social-linkedin"
-			},
-		"image":"img/ruth.jpg",
 		"type": "design"
 	},
 
