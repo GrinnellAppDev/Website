@@ -206,20 +206,6 @@
 		"type": "dev"
 	},
 
-	"Zachary Susag": {
-		"title": "Android Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/in/zacharysusag",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "http://zacharysusag.com/",
-			"type": "home"
-		},
-		"image": "img/zachary.jpg",
-		"type": "dev"
-	},
-
 	"Mattori Birnbaum": {
 		"title": "Android Developer",
 		"link1": {
