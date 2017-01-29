@@ -230,9 +230,24 @@
 			"url": "",
 			"type": ""
 		},
-		"image": "img/liam.png",
+		"image": "",
 		"type": "dev"
 	},
+
+	"Kamal Nadesan": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "http://github.com/Xanos20",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "",
+		"type": "dev"
+	},
+
 
 	"Prabir Pradhan": {
 		"title":"Android Developer",
@@ -315,6 +330,48 @@
 			"type": "social-github"
 		},
 		"image": "img/otabek.png",
+		"type": "dev"
+	},
+
+	"Zebediah Figura": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "http://www.cs.grinnell.edu/~figuraze/",
+			"type": "home"
+		},
+		"link2": {
+			"url": "https://github.com/obsequiousnewt",
+			"type": "social-github"
+		},
+		"image": "",
+		"type": "dev"
+	},
+
+	"Shelby Frazier": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "http://github.com/sheltah22",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "",
+		"type": "dev"
+	},
+
+	"Nannan Ji": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://github.com/pumpkinjnn",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "",
 		"type": "dev"
 	},
 
