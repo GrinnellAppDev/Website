@@ -29,7 +29,7 @@
 	},
 	
 	"Samee Zahid": {
-		"title":"Director of Product Development",
+		"title":"Director of Product",
 		"link1": {
 			"url": "http://samee.ninja",
 			"type": "home"
@@ -150,6 +150,90 @@
 		"type": "dev"
 	},
 
+	"Garrett Wang": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://github.com/wyk9787",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/garrett-wang",
+			"type": "social-linkedin"
+		},
+		"image": "img/garret.png",
+		"type": "dev"
+	},
+
+	"Addison Gould": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://github.com/addigould",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/addison-gould-7b9430111?trk=nav_responsive_tab_profile_pic",
+			"type": "social-linkedin"
+		},
+		"image": "img/addison.png",
+		"type": "dev"
+	},
+
+	"Devin Dooley": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://github.com/dooleydevin",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/devin-dooley",
+			"type": "social-linkedin"
+		},
+		"image": "img/devin.png",
+		"type": "dev"
+	},
+
+	"Ziwen Chen": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://github.com/arthurhero",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/ziwen-chen-359b24131/",
+			"type": "social-linkedin"
+		},
+		"image": "",
+		"type": "dev"
+	},
+
+	"Mike Zou": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "https://github.com/Mizkoeu",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/public-profile/settings?trk=prof-edit-edit-public_profile",
+			"type": "social-linkedin"
+		},
+		"image": "img/mike.png",
+		"type": "dev"
+	},
+
+	"Liam Li": {
+		"title": "iOS Developer",
+		"link1": {
+			"url": "",
+			"type": ""
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/liam.png",
+		"type": "dev"
+	},
+
 	"Prabir Pradhan": {
 		"title":"Android Developer",
 		"link1": {
@@ -217,6 +301,20 @@
 			"type": "social-github"
 		},
 		"image": "img/mattori.jpg",
+		"type": "dev"
+	},
+
+	"Otabek Nazarov": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/otabek-nazarov-a0429911",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/mudabek",
+			"type": "social-github"
+		},
+		"image": "img/otabek.png",
 		"type": "dev"
 	},
 
@@ -290,17 +388,31 @@
 		"type": "design"
 	},
 
-	"Richard Li": {
+	"Cameron Quinn Chen": {
 		"title": "UI Designer",
 		"link1": {
-			"url": "",
-			"type": ""
+			"url": "https://www.linkedin.com/in/cameron-chen-8847b1111?trk=hp-identity-name",
+			"type": "social-linkedin"
 		},
 		"link2": {
 			"url": "",
 			"type": ""
 		},
-		"image": "img/richard.jpg",
+		"image": "img/cameron.png",
+		"type": "design"
+	},
+
+	"Anaan Ramay": {
+		"title": "UI Designer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/anaan-ramay-b8b96a3b?trk=hp-identity-name",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "http://www.ramay.me",
+			"type": "home"
+		},
+		"image": "img/anaan.png",
 		"type": "design"
 	},
 
