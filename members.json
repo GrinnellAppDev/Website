@@ -213,7 +213,7 @@
 			"type": "social-github"
 		},
 		"link2": {
-			"url": "https://www.linkedin.com/public-profile/settings?trk=prof-edit-edit-public_profile",
+			"url": "www.linkedin.com/in/mizkoeu",
 			"type": "social-linkedin"
 		},
 		"image": "img/mike.png",
@@ -368,8 +368,8 @@
 			"type": "social-github"
 		},
 		"link2": {
-			"url": "",
-			"type": ""
+			"url": "http://www.linkedin.com/in/楠楠-姬-18b94b110",
+			"type": "social-linkedin"
 		},
 		"image": "",
 		"type": "dev"
