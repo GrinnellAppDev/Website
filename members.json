@@ -244,7 +244,7 @@
 			"url": "",
 			"type": ""
 		},
-		"image": "",
+		"image": "img/kamal.png",
 		"type": "dev"
 	},
 
@@ -372,6 +372,20 @@
 			"type": "social-linkedin"
 		},
 		"image": "",
+		"type": "dev"
+	},
+
+	"Jemuel Santos": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://github.com/santosjem",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": " https://www.linkedin.com/in/jemuel-santos-4a8b30120",
+			"type": "social-linkedin"
+		},
+		"image": "img/jemuel.png",
 		"type": "dev"
 	},
 
