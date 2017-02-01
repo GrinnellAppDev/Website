@@ -83,6 +83,20 @@
 		"image":"img/mark.jpg",
 		"type": "lead"
 	},
+
+	"Duy Duong": {
+		"title":"Director of Business Operations in Training",
+		"link1": {
+			"url": "https://www.linkedin.com/in/duongduy",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image":"img/duy.png",
+		"type": "lead"
+	},
 	
 	"Alex French": {
 		"title":"iOS Developer",
