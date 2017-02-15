@@ -416,6 +416,34 @@
 		"type": "dev"
 	},
 
+	"Linh Pham": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/linh-pham-b72a3bbb",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/linh.png",
+		"type": "dev"
+	},
+
+	"Jacob Ekstrand": {
+		"title": "Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/jacob-ekstrand-b99289127?trk=hp-identity-photo",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/jacob.png",
+		"type": "dev"
+	},
+
 	"Ruth Wu": {
 		"title":"Services Engineer",
 		"link1": {

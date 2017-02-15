@@ -74,15 +74,15 @@
 
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav <?php echo $activeClass?>">
-                            <li><a href="about.php">About</a></li>
+                            <li><a href="about.html">About</a></li>
 
                             <li><a href="members.php">Members</a></li>
 
-                            <li><a href="portfolio.php">Portfolio</a></li>
+                            <li><a href="portfolio.html">Portfolio</a></li>
 
-                            <li><a href="apply.php">Apply</a></li>
+                            <li><a href="apply.html">Apply</a></li>
 
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="contact.html">Contact</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </div>
