@@ -174,7 +174,7 @@
 			"url": "https://www.linkedin.com/in/garrett-wang",
 			"type": "social-linkedin"
 		},
-		"image": "img/garret.png",
+		"image": "",
 		"type": "dev"
 	},
 
@@ -563,8 +563,8 @@
 			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "https://twitter.com/JarrenLS",
-			"type": "social-twitter"
+			"url": "https://github.com/jarrenLS",
+			"type": "social-github"
 		},
 		"image":"img/jarren.jpg",
 		"type": "com"
