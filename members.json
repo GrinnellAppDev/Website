@@ -1,91 +1,7 @@
 {
 
-	"Larry Boateng Asante": {
-		"title":"Director of Engineering: Android & Education",
-		"link1": {
-			"url": "http://www.linkedin.com/in/larryboatengasante/",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "http://www.github.com/LarryAsante",
-			"type": "social-github"
-		},
-		"image":"img/larry.jpg",
-		"type": "lead"
-	},
-	
-	"Alex Mitchell": {
-		"title":"Director of Engineering: iOS & Backend Services",
-		"link1": {
-			"url": "https://www.linkedin.com/in/alexthemitchell",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://www.github.com/alexthemitchell",
-			"type": "social-github"
-		},
-		"image":"img/alex.png",
-		"type": "lead"
-	},
-	
-	"Samee Zahid": {
-		"title":"Director of Product",
-		"link1": {
-			"url": "http://samee.ninja",
-			"type": "home"
-		},
-		"link2": {
-			"url": "http://www.linkedin.com/in/samee24",
-			"type": "social-linkedin"
-		},
-		"image":"img/samee.jpg",
-		"type": "lead"
-	},
-
-	"Ajuna Kyaruzi": {
-		"title":"Administrative Outreach",
-		"link1": {
-			"url": "http://ajuna.me/",
-			"type": "home"
-		},
-		"link2": {
-			"url": "https://www.linkedin.com/in/ajunakyaruzi",
-			"type": "social-linkedin"
-		},
-		"image":"img/ajuna.jpg",
-		"type": "lead"
-	},
-	
-	"Sarah Trop": {
-		"title":"Director of Design",
-		"link1": {
-			"url": "http://sarahtrop.dance",
-			"type": "home"
-		},
-		"link2": {
-			"url": "http://www.linkedin.com/pub/sarah-trop/85/b1b/252",
-			"type": "social-linkedin"
-		},
-		"image":"img/sarah.jpg",
-		"type": "lead"
-	},
-
-	"Mark Schwabacher": {
-		"title":"Director of Business Operations",
-		"link1": {
-			"url": "https://www.linkedin.com/pub/mark-schwabacher/91/860/23",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "http://www.twitter.com/grinnellappdev",
-			"type": "social-twitter"
-		},
-		"image":"img/mark.jpg",
-		"type": "lead"
-	},
-
 	"Duy Duong": {
-		"title":"Director of Business Operations in Training",
+		"title":"Director of Business Operations",
 		"link1": {
 			"url": "https://www.linkedin.com/in/duongduy",
 			"type": "social-linkedin"
@@ -97,19 +13,57 @@
 		"image":"img/duy.png",
 		"type": "lead"
 	},
-	
-	"Alex French": {
-		"title":"iOS Developer",
+
+	"Sooji Son": {
+		"title":"Director of Design",
 		"link1": {
-			"url": "http://www.linkedin.com/in/alexgfrench",
+			"url": "http://www.linkedin.com/in/soojison",
 			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "https://github.com/frenchal17",
+			"url": "https://github.com/soojison",
 			"type": "social-github"
 			},
-		"image":"img/alexfrench.jpg",
-		"type": "dev"
+		"image":"img/sooji.jpg",
+		"type": "lead"
+	},
+
+	"Prabir Pradhan": {
+		"title":"Director of Engineering: Android ",
+		"link1": {
+			"url": "http://github.com/prabirmsp",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/prabirmsp",
+			"type": "social-linkedin"
+			},
+		"image":"img/prabir.jpg",
+		"type": "lead"
+	},
+
+	"Ziwen Chen": {
+		"title": "Director of Engineering: iOS",
+		"link1": {
+			"url": "https://github.com/arthurhero",
+			"type": "social-github"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/ziwen-chen-359b24131/",
+			"type": "social-linkedin"
+		},
+		"image": "img/ziwen.png",
+		"type": "lead"
+	},
+
+	"Linqing Peng": {
+		"title": "Director of Engineering: iOS",
+		"link1": {
+			"url": "https://www.linkedin.com/in/linqingpeng",
+			"type": "social-linkedin"
+		},
+		"image": "img/linqing.jpg",
+		"type": "lead"
 	},
 
 	"Eli Salm": {
@@ -123,30 +77,6 @@
 			"type": "social-github"
 		},
 		"image": "img/eli.jpg",
-		"type": "dev"
-	},
-
-	"Linqing Peng": {
-		"title": "iOS Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/in/linqingpeng",
-			"type": "social-linkedin"
-		},
-		"image": "img/linqing.jpg",
-		"type": "dev"
-	},
-
-	"Libby Farrell": {
-		"title": "iOS Developer",
-		"link1": {
-			"url": "",
-			"type": ""
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/libby.jpg",
 		"type": "dev"
 	},
 	
@@ -192,20 +122,6 @@
 		"type": "dev"
 	},
 
-	"Ziwen Chen": {
-		"title": "iOS Developer",
-		"link1": {
-			"url": "https://github.com/arthurhero",
-			"type": "social-github"
-		},
-		"link2": {
-			"url": "https://www.linkedin.com/in/ziwen-chen-359b24131/",
-			"type": "social-linkedin"
-		},
-		"image": "img/ziwen.png",
-		"type": "dev"
-	},
-
 	"Mike Zou": {
 		"title": "iOS Developer",
 		"link1": {
@@ -234,60 +150,18 @@
 		"type": "dev"
 	},
 
-	"Madeleine Hardt": {
-		"title": "iOS Developer",
-		"link1": {
-			"url": " https://www.linkedin.com/in/madeleine-hardt",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "",
-			"type": ""
-		},
-		"image": "img/maddy.png",
-		"type": "dev"
-	},
-
-	"Prabir Pradhan": {
-		"title":"Android Developer",
-		"link1": {
-			"url": "http://github.com/prabirmsp",
-			"type": "social-github"
-		},
-		"link2": {
-			"url": "https://www.linkedin.com/in/prabirmsp",
-			"type": "social-linkedin"
-			},
-		"image":"img/prabir.jpg",
-		"type": "dev"
-	},
-	
-	"Yazan Kittaneh": {
-		"title":"Android Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/in/yazankittaneh",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/YazanKittaneh",
-			"type": "social-github"
-			},
-		"image":"img/yazan.png",
-		"type": "dev"
-	},
-
-	"Marcel Champagne": {
+	"Mattori Birnbaum": {
 		"title": "Android Developer",
 		"link1": {
-			"url": "https://www.linkedin.com/in/champagnemarcel",
+			"url": "https://www.linkedin.com/in/mattori-birnbaum-221451a3",
 			"type": "social-linkedin"
 		},
 		"link2": {
-			"url": "https://github.com/mnaircckel",
+			"url": "https://github.com/PsychicNoodles",
 			"type": "social-github"
 		},
-		"image": "img/marcel.png",
-		"type": "dev"
+		"image": "img/mattori.jpg",
+		"type": "android"
 	},
 	
 	"Matt Murphy": {
@@ -301,20 +175,6 @@
 			"type": "social-github"
 		},
 		"image": "img/matt.jpg",
-		"type": "dev"
-	},
-
-	"Mattori Birnbaum": {
-		"title": "Android Developer",
-		"link1": {
-			"url": "https://www.linkedin.com/in/mattori-birnbaum-221451a3",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/PsychicNoodles",
-			"type": "social-github"
-		},
-		"image": "img/mattori.jpg",
 		"type": "dev"
 	},
 
@@ -388,34 +248,6 @@
 		"type": "dev"
 	},
 
-	"Ruth Wu": {
-		"title":"Services Engineer",
-		"link1": {
-			"url": "http://wutangruth.com",
-			"type": "home"
-		},
-		"link2": {
-			"url": "http://www.linkedin.com/in/wuruth",
-			"type": "social-linkedin"
-			},
-		"image":"img/ruth.jpg",
-		"type": "dev"
-	},
-	
-	"Nicolas Knoebber": {
-		"title":"Services Engineer",
-		"link1": {
-			"url": "http://nicolasknoebber.com",
-			"type": "home"
-		},
-		"link2": {
-			"url": "https://github.com/knoebber",
-			"type": "social-github"
-			},
-		"image":"img/nick.png",
-		"type": "dev"
-	},
-
 	"Aditi Munshi": {
 		"title":"Services Engineer",
 		"link1": {
@@ -442,20 +274,6 @@
 			},
 		"image":"img/zander.png",
 		"type": "dev"
-	},
-
-	"Sooji Son": {
-		"title":"UI Designer",
-		"link1": {
-			"url": "http://www.linkedin.com/in/soojison",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/soojison",
-			"type": "social-github"
-			},
-		"image":"img/sooji.jpg",
-		"type": "design"
 	},
 
 	"Cameron Quinn Chen": {
@@ -500,20 +318,6 @@
 		"type": "design"
 	},
 
-	"Jarren Santos": {
-		"title":"Community Builder",
-		"link1": {
-			"url": "https://www.linkedin.com/in/jarrenls",
-			"type": "social-linkedin"
-		},
-		"link2": {
-			"url": "https://github.com/jarrenLS",
-			"type": "social-github"
-		},
-		"image":"img/jarren.jpg",
-		"type": "com"
-	},
-
 	"Kevin Nguyen": {
 		"title":"Community Builder",
 		"link1": {
@@ -540,6 +344,189 @@
 		},
 		"image":"img/katie.png",
 		"type": "com"
+	},
+
+	"Larry Boateng Asante": {
+		"title":"Former Director of Engineering: Android & Education",
+		"link1": {
+			"url": "http://www.linkedin.com/in/larryboatengasante/",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "http://www.github.com/LarryAsante",
+			"type": "social-github"
+		},
+		"image":"img/larry.jpg",
+		"type": "past"
+	},
+	
+	"Alex Mitchell": {
+		"title":"Former Director of Engineering: iOS & Backend Services",
+		"link1": {
+			"url": "https://www.linkedin.com/in/alexthemitchell",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://www.github.com/alexthemitchell",
+			"type": "social-github"
+		},
+		"image":"img/alex.png",
+		"type": "past"
+	},
+	
+	"Samee Zahid": {
+		"title":"Former Director of Product",
+		"link1": {
+			"url": "http://samee.ninja",
+			"type": "home"
+		},
+		"link2": {
+			"url": "http://www.linkedin.com/in/samee24",
+			"type": "social-linkedin"
+		},
+		"image":"img/samee.jpg",
+		"type": "past"
+	},
+
+	"Ajuna Kyaruzi": {
+		"title":"Former Administrative Outreach",
+		"link1": {
+			"url": "http://ajuna.me/",
+			"type": "home"
+		},
+		"link2": {
+			"url": "https://www.linkedin.com/in/ajunakyaruzi",
+			"type": "social-linkedin"
+		},
+		"image":"img/ajuna.jpg",
+		"type": "past"
+	},
+	
+	"Sarah Trop": {
+		"title":"Former Director of Design",
+		"link1": {
+			"url": "http://sarahtrop.dance",
+			"type": "home"
+		},
+		"link2": {
+			"url": "http://www.linkedin.com/pub/sarah-trop/85/b1b/252",
+			"type": "social-linkedin"
+		},
+		"image":"img/sarah.jpg",
+		"type": "past"
+	},
+
+	"Mark Schwabacher": {
+		"title":"Former Director of Business Operations",
+		"link1": {
+			"url": "https://www.linkedin.com/pub/mark-schwabacher/91/860/23",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "http://www.twitter.com/grinnellappdev",
+			"type": "social-twitter"
+		},
+		"image":"img/mark.jpg",
+		"type": "past"
+	},
+
+	"Ruth Wu": {
+		"title":"Former Services Engineer and UI Designer",
+		"link1": {
+			"url": "http://wutangruth.com",
+			"type": "home"
+		},
+		"link2": {
+			"url": "http://www.linkedin.com/in/wuruth",
+			"type": "social-linkedin"
+			},
+		"image":"img/ruth.jpg",
+		"type": "past"
+	},
+	
+	"Nicolas Knoebber": {
+		"title":"Former Services Engineer",
+		"link1": {
+			"url": "http://nicolasknoebber.com",
+			"type": "home"
+		},
+		"link2": {
+			"url": "https://github.com/knoebber",
+			"type": "social-github"
+			},
+		"image":"img/nick.png",
+		"type": "past"
+	},
+
+	"Alex French": {
+		"title":"Former iOS Developer",
+		"link1": {
+			"url": "http://www.linkedin.com/in/alexgfrench",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/frenchal17",
+			"type": "social-github"
+			},
+		"image":"img/alexfrench.jpg",
+		"type": "past"
+	},
+
+	"Jarren Santos": {
+		"title":"Former Community Builder",
+		"link1": {
+			"url": "https://www.linkedin.com/in/jarrenls",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/jarrenLS",
+			"type": "social-github"
+		},
+		"image":"img/jarren.jpg",
+		"type": "past"
+	},
+
+	"Madeleine Hardt": {
+		"title": "Former iOS Developer",
+		"link1": {
+			"url": " https://www.linkedin.com/in/madeleine-hardt",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "",
+			"type": ""
+		},
+		"image": "img/maddy.png",
+		"type": "past"
+	},
+
+	
+	"Yazan Kittaneh": {
+		"title":"Former Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/yazankittaneh",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/YazanKittaneh",
+			"type": "social-github"
+			},
+		"image":"img/yazan.png",
+		"type": "past"
+	},
+
+		"Marcel Champagne": {
+		"title": "Former Android Developer",
+		"link1": {
+			"url": "https://www.linkedin.com/in/champagnemarcel",
+			"type": "social-linkedin"
+		},
+		"link2": {
+			"url": "https://github.com/mnaircckel",
+			"type": "social-github"
+		},
+		"image": "img/marcel.png",
+		"type": "past"
 	},
 
 	"Tyler Dewey": {
