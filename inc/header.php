@@ -10,14 +10,14 @@
     <link rel="shortcut icon" href="favicon.png">
 
     <title>Grinnell AppDev!</title><!-- Bootstrap core CSS -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
     <link rel="stylesheet" href="dist/source/jquery.fancybox.css" type="text/css" media="screen" />
     <script type="text/javascript" src="dist/source/jquery.fancybox.pack.js"></script>
     <link href="dist/css/bootstrap.css" rel="stylesheet" type="text/css"><!-- Custom styles for this template -->
     <link href="css/custom.css" rel="stylesheet" type="text/css"><!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <!-- Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
     <!-- Animate.css / danedan -->
     <link rel="stylesheet" href="dist/css/animate.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -26,7 +26,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
 
 <!-- Add mousewheel plugin (this is optional) -->
 <script type="text/javascript" src="../fancyBox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
@@ -42,7 +42,7 @@
 
 <link rel="stylesheet" href="../fancyBox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 <script type="text/javascript" src="../fancyBox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-    
+
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -68,7 +68,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                        <span class="sr-only">Toggle navigation</span></button> 
+                        <span class="sr-only">Toggle navigation</span></button>
                         <a class="navbar-brand" href="index.php"><img style="max-width:35px; margin: 0px; padding: 0px; margin-top: -10px; margin-left: -25px; margin-right:10px;" src="img/AppDevLogoLight.png"> Grinnell AppDev</a>
                     </div>
 
