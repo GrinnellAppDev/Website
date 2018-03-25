@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  apache:
+    container_name: adw-apache-dev
+    image: php:7.0-apache
+    ports:
+      - "8080:80"
+    volumes:
+      - "./www:/var/www/html"
+      - "./conf/site.conf:/etc/apache2/site.conf"
+      - "./conf/docker-apache.conf:/etc/apache2/sites-available/000-default.conf"
