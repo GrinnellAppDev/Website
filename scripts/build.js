@@ -18,6 +18,7 @@ publicFiles.forEach(file => {
 })
 
 // Render templates
+
 const templateFiles = fs.readdirSync(`${root}/src/templates`)
 const partialFiles = templateFiles.filter(fileName => fileName[0] === "_")
 
@@ -34,15 +35,15 @@ partialFiles.forEach(file => {
 })
 
 templateFiles.filter(fileName => fileName[0] !== "_").forEach(file => {
-    // For now, just copy them
-    // fs.copySync(`${root}/src/templates/${file}`, `${root}/www/${file}`)
+    const fileName = path.basename(file, path.extname(file))
+
     fs.writeFileSync(
         `${root}/www/${file}`,
         mustache.render(
             fs.readFileSync(`${root}/src/templates/${file}`, {
                 encoding: "utf-8"
             }),
-            {},
+            { page: fileName },
             partials
         )
     )
