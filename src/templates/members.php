@@ -1,6 +1,5 @@
 <?php
 $activeClass = "members";
-include('inc/header.php');
 $membersContents = file_get_contents("members.json");
 $membersArray = json_decode($membersContents, true);
 
@@ -93,34 +92,41 @@ function renderMembers($array, $title) {
 }
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
+<html>
 
-<link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" />
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" />
+</head>
 
-<div class="color">
-    <div class="members">
-        <div class="container">
-            <div class="page-header main-content">
-                <h1 style="padding-top:350px;">The faces behind the apps?!</h1>
+<body>
+    {{> navbar}}
+
+    <div class="color">
+        <div class="members">
+            <div class="container">
+                <div class="page-header main-content">
+                    <h1 style="padding-top:350px;">The faces behind the apps?!</h1>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<?php renderMembers($leads, "Leadership") ?>
-<?php renderMembers($devs, "Engineers") ?>
-<?php renderMembers($designers, "Designers") ?>
-<?php renderMembers($pastMembers, "Former Members") ?>
+    <?php renderMembers($leads, "Leadership") ?>
+    <?php renderMembers($devs, "Engineers") ?>
+    <?php renderMembers($designers, "Designers") ?>
+    <?php renderMembers($pastMembers, "Former Members") ?>
 
-<script type="text/javascript">
-$(document).ready(function() {
-    $(".fancybox").fancybox({
-        openEffect  : 'none',
-        closeEffect : 'none'
-    });
-});
-</script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox({
+                openEffect  : 'none',
+                closeEffect : 'none'
+            });
+        });
+    </script>
 
-<?php include('inc/footer.php'); ?>
+    {{> footer}}
 </body>
 </html>

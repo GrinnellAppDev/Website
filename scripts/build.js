@@ -17,6 +17,12 @@ publicFiles.forEach(file => {
     fs.copySync(`${root}/src/public/${file}`, `${root}/www/${file}`)
 })
 
+// Copy over contents of data
+const dataFiles = fs.readdirSync(`${root}/src/data`)
+dataFiles.forEach(file => {
+    fs.copySync(`${root}/src/data/${file}`, `${root}/www/${file}`)
+})
+
 // Render templates
 
 const templateFiles = fs.readdirSync(`${root}/src/templates`)
