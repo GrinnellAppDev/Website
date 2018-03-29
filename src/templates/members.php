@@ -93,7 +93,7 @@ function renderMembers($array, $title) {
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     {{> head}}
@@ -129,4 +129,5 @@ function renderMembers($array, $title) {
 
     {{> footer}}
 </body>
+
 </html>
