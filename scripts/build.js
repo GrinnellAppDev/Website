@@ -1,5 +1,6 @@
 const fs = require("fs-extra")
 const mustache = require("mustache")
+const path = require("path")
 
 const root = `${__dirname}/..`
 
@@ -18,7 +19,31 @@ publicFiles.forEach(file => {
 
 // Render templates
 const templateFiles = fs.readdirSync(`${root}/src/templates`)
-templateFiles.forEach(file => {
+const partialFiles = templateFiles.filter(fileName => fileName[0] === "_")
+
+const partials = {}
+partialFiles.forEach(file => {
+    const fileName = path.basename(file, path.extname(file))
+
+    // Strip out the leading "_"
+    const cleanFileName = fileName.substr(1)
+
+    partials[cleanFileName] = fs.readFileSync(`${root}/src/templates/${file}`, {
+        encoding: "utf-8"
+    })
+})
+
+templateFiles.filter(fileName => fileName[0] !== "_").forEach(file => {
     // For now, just copy them
-    fs.copySync(`${root}/src/templates/${file}`, `${root}/www/${file}`)
+    // fs.copySync(`${root}/src/templates/${file}`, `${root}/www/${file}`)
+    fs.writeFileSync(
+        `${root}/www/${file}`,
+        mustache.render(
+            fs.readFileSync(`${root}/src/templates/${file}`, {
+                encoding: "utf-8"
+            }),
+            {},
+            partials
+        )
+    )
 })
