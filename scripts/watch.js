@@ -1,3 +1,7 @@
+//
+// Run build whenever /src changes
+//
+
 const fs = require("fs")
 const build = require("./build")
 

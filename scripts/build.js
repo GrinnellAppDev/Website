@@ -1,6 +1,11 @@
+//
+// Copy files and render templates to /www
+//
+
 const fs = require("fs-extra")
 const mustache = require("mustache")
 const path = require("path")
+const createTemplateContext = require("./create-template-context")
 
 const build = () => {
     const rootDir = `${__dirname}/..`
@@ -24,8 +29,19 @@ const build = () => {
 
     // Copy over contents of data
     const dataFiles = fs.readdirSync(dataDir)
+    const data = {}
     dataFiles.forEach(file => {
-        fs.copySync(`${dataDir}/${file}`, `${wwwDir}/${file}`)
+        const fileContents = fs.readFileSync(`${dataDir}/${file}`, {
+            encoding: "utf-8"
+        })
+
+        const fileExtName = path.extname(file)
+        if (fileExtName === ".json") {
+            const fileBaseName = path.basename(file, fileExtName)
+            data[fileBaseName] = JSON.parse(fileContents)
+        }
+
+        fs.writeFileSync(`${wwwDir}/${file}`, fileContents)
     })
 
     // Render templates
@@ -35,18 +51,17 @@ const build = () => {
 
     const partials = {}
     partialFiles.forEach(file => {
-        const fileName = path.basename(file, path.extname(file))
+        const fileBaseName = path.basename(file, path.extname(file))
 
         // Strip out the leading "_"
-        const cleanFileName = fileName.substr(1)
-
-        partials[cleanFileName] = fs.readFileSync(`${templatesDir}/${file}`, {
+        const cleanName = fileBaseName.substr(1)
+        partials[cleanName] = fs.readFileSync(`${templatesDir}/${file}`, {
             encoding: "utf-8"
         })
     })
 
     templateFiles.filter(fileName => fileName[0] !== "_").forEach(file => {
-        const fileName = path.basename(file, path.extname(file))
+        const fileBaseName = path.basename(file, path.extname(file))
 
         fs.writeFileSync(
             `${wwwDir}/${file}`,
@@ -54,7 +69,10 @@ const build = () => {
                 fs.readFileSync(`${templatesDir}/${file}`, {
                     encoding: "utf-8"
                 }),
-                { page: fileName },
+                createTemplateContext(
+                    { ...data, page: fileBaseName },
+                    partials
+                ),
                 partials
             )
         )

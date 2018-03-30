@@ -1,0 +1,16 @@
+<article class="member">
+    <span class="memberName">
+        <p>
+            {{name}}</br>
+            <span class="memberTitle">{{title}}</span>
+        </p>
+        <span class="memberLinks">
+            {{#links}}
+            <a href="{{url}}" target="_blank">
+                <i class="fi-{{type}}"></i>
+            </a>
+            {{/links}}
+        </span>
+    </span>
+    <img src="{{image}}" class="memberPic {{type}}Pic" />
+</article>
