@@ -5,9 +5,10 @@
 const fs = require("fs-extra")
 const mustache = require("mustache")
 const path = require("path")
+const gm = require("gm")
 const createTemplateContext = require("./create-template-context")
 
-const build = () => {
+const build = ({ optimize = true }) => {
     const rootDir = `${__dirname}/..`
     const publicDir = `${rootDir}/src/public`
     const dataDir = `${rootDir}/src/data`
@@ -26,6 +27,41 @@ const build = () => {
     publicFiles.forEach(file => {
         fs.copySync(`${publicDir}/${file}`, `${wwwDir}/${file}`)
     })
+
+    // Optimize images
+    if (optimize) {
+        const memberImages = fs.readdirSync(`${publicDir}/img/members`)
+        memberImages.forEach(image => {
+            const imageType = path.extname(image)
+            if (imageType !== ".jpg" && imageType !== ".png") return
+
+            let imageGraphics = gm(`${publicDir}/img/members/${image}`)
+
+            imageGraphics.size((err, size) => {
+                if (err) {
+                    console.error(err)
+                } else {
+                    const { width, height } = size
+                    if (width !== height) {
+                        const newDimension = Math.min(width, height)
+                        imageGraphics = imageGraphics.crop(
+                            newDimension,
+                            newDimension,
+                            (width - newDimension) / 2,
+                            (height - newDimension) / 2
+                        )
+                    }
+
+                    const MEMBER_DIMENSION = 400
+                    imageGraphics
+                        .resize(MEMBER_DIMENSION, MEMBER_DIMENSION)
+                        .write(`${wwwDir}/img/members/${image}`, err => {
+                            if (err) console.error(err)
+                        })
+                }
+            })
+        })
+    }
 
     // Copy over contents of data
     const dataFiles = fs.readdirSync(dataDir)
@@ -80,7 +116,7 @@ const build = () => {
 }
 
 if (module === require.main) {
-    build()
+    build({ optimize: !process.argv.includes("--no-optimize") })
 } else {
     module.exports = build
 }
