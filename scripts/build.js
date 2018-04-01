@@ -55,6 +55,7 @@ const build = ({ optimize = true }) => {
                     const MEMBER_DIMENSION = 400
                     imageGraphics
                         .resize(MEMBER_DIMENSION, MEMBER_DIMENSION)
+                        .colorspace("Rec709Luma") // Make images Grey scale
                         .write(`${wwwDir}/img/members/${image}`, err => {
                             if (err) console.error(err)
                         })
