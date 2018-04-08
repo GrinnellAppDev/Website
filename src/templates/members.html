@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="css/foundation-icons/foundation-icons.css" />
+</head>
+
+<body>
+    {{> navbar}}
+
+    <div class="color">
+        <div class="members">
+            <div class="container">
+                <div class="page-header main-content">
+                    <h1 style="padding-top:350px;">The faces behind the apps?!</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="container membersPalette">
+        <h1>Leadership</h1>
+        <div class="member-section__grid">
+            {{#memberSections.lead}} {{> member}} {{/memberSections.lead}}
+        </div>
+    </section>
+
+    <section class="container membersPalette">
+        <h1>Engineers</h1>
+        <div class="member-section__grid" >
+            {{#memberSections.dev}} {{> member}} {{/memberSections.dev}}
+        </div>
+    </section>
+
+    <section class="container membersPalette">
+        <h1>Designers</h1>
+        <div class="member-section__grid" >
+            {{#memberSections.design}} {{> member}} {{/memberSections.design}}
+        </div>
+    </section>
+
+    <section class="container membersPalette">
+        <h1>Former Members</h1>
+        <div class="member-section__grid" >
+            {{#memberSections.past}} {{> member}} {{/memberSections.past}}
+        </div>
+    </section>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox({
+                openEffect  : 'none',
+                closeEffect : 'none'
+            });
+        });
+    </script>
+
+    {{> footer}}
+</body>
+
+</html>

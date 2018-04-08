@@ -1,0 +1,6 @@
+# Enable rewrite engine
+RewriteEngine on
+Options FollowSymLinks
+
+# Make urls prettier: rewrites /about -> /about.html
+RewriteRule ^(\w+)$ $1.html
