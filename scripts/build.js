@@ -5,9 +5,13 @@
 const fs = require("fs-extra")
 const mustache = require("mustache")
 const path = require("path")
+const gm = require("gm")
+const htmlMinifier = require("html-minifier")
+const CleanCss = require("clean-css")
+const uglifyJs = require("uglify-js")
 const createTemplateContext = require("./create-template-context")
 
-const build = () => {
+const build = ({ optimize = true }) => {
     const rootDir = `${__dirname}/..`
     const publicDir = `${rootDir}/src/public`
     const dataDir = `${rootDir}/src/data`
@@ -77,10 +81,108 @@ const build = () => {
             )
         )
     })
+
+    // Optimize everything in www in place
+    if (optimize) {
+        const optimizeDirInPlace = dirPath => {
+            const dirContents = fs.readdirSync(dirPath)
+            dirContents.forEach(file => {
+                const filePath = path.join(dirPath, file)
+                if (fs.lstatSync(filePath).isDirectory()) {
+                    optimizeDirInPlace(filePath)
+                } else {
+                    const extName = path.extname(file)
+                    if (extName === ".jpg" || extName === ".png") {
+                        if (dirPath === path.join(wwwDir, "img/members")) {
+                            // Special optimizations for member images
+                            let imageGraphics = gm(filePath)
+
+                            imageGraphics.size((err, size) => {
+                                if (err) {
+                                    throw err
+                                } else {
+                                    const { width, height } = size
+                                    if (width !== height) {
+                                        const newDimension = Math.min(
+                                            width,
+                                            height
+                                        )
+                                        imageGraphics = imageGraphics.crop(
+                                            newDimension,
+                                            newDimension,
+                                            (width - newDimension) / 2,
+                                            (height - newDimension) / 2
+                                        )
+                                    }
+
+                                    const MEMBER_DIMENSION = 400
+                                    imageGraphics
+                                        .resize(
+                                            MEMBER_DIMENSION,
+                                            MEMBER_DIMENSION
+                                        )
+                                        .colorspace("Rec709Luma") // Make images Grey scale
+                                        .write(filePath, err => {
+                                            if (err) throw err
+                                        })
+                                }
+                            })
+                        } else {
+                            // TODO: lossless compression?
+                        }
+                    } else if (extName === ".html") {
+                        fs.readFile(filePath, "utf-8", (err, data) => {
+                            if (err) {
+                                throw err
+                            } else {
+                                const minified = htmlMinifier.minify(data, {
+                                    removeAttributeQuotes: true,
+                                    removeComments: true,
+                                    minifyCSS: true,
+                                    minifyJS: true,
+                                    collapseWhitespace: true,
+                                    collapseBooleanAttributes: true
+                                })
+                                fs.writeFile(filePath, minified, err => {
+                                    if (err) throw err
+                                })
+                            }
+                        })
+                    } else if (extName === ".css") {
+                        fs.readFile(filePath, "utf-8", (err, data) => {
+                            if (err) {
+                                throw err
+                            } else {
+                                const minified = new CleanCss({
+                                    sourceMap: true
+                                }).minify(data)
+                                fs.writeFile(filePath, minified.styles, err => {
+                                    if (err) throw err
+                                })
+                            }
+                        })
+                    } else if (extName === ".js") {
+                        fs.readFile(filePath, "utf-8", (err, data) => {
+                            if (err) {
+                                throw err
+                            } else {
+                                const minified = uglifyJs.minify(data)
+                                fs.writeFile(filePath, minified.code, err => {
+                                    if (err) throw err
+                                })
+                            }
+                        })
+                    }
+                }
+            })
+        }
+
+        optimizeDirInPlace(wwwDir)
+    }
 }
 
 if (module === require.main) {
-    build()
+    build({ optimize: !process.argv.includes("--no-optimize") })
 } else {
     module.exports = build
 }

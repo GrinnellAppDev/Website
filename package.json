@@ -10,7 +10,11 @@
         "start": "node scripts/watch.js"
     },
     "dependencies": {
+        "clean-css": "^4.1.11",
         "fs-extra": "^5.0.0",
-        "mustache": "^2.3.0"
+        "gm": "^1.23.1",
+        "html-minifier": "^3.5.13",
+        "mustache": "^2.3.0",
+        "uglify-js": "^3.3.17"
     }
 }
