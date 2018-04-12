@@ -28,33 +28,24 @@
 
     <section class="container membersPalette">
         <h1>Engineers</h1>
-        <div class="member-section__grid" >
+        <div class="member-section__grid">
             {{#memberSections.dev}} {{> member}} {{/memberSections.dev}}
         </div>
     </section>
 
     <section class="container membersPalette">
         <h1>Designers</h1>
-        <div class="member-section__grid" >
+        <div class="member-section__grid">
             {{#memberSections.design}} {{> member}} {{/memberSections.design}}
         </div>
     </section>
 
     <section class="container membersPalette">
         <h1>Former Members</h1>
-        <div class="member-section__grid" >
+        <div class="member-section__grid">
             {{#memberSections.past}} {{> member}} {{/memberSections.past}}
         </div>
     </section>
-
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $(".fancybox").fancybox({
-                openEffect  : 'none',
-                closeEffect : 'none'
-            });
-        });
-    </script>
 
     {{> footer}}
 </body>
