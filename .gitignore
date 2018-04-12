@@ -1,5 +1,2 @@
-# Ignore symlink to actual wiki
-/wiki
-
 /node_modules
 /www
