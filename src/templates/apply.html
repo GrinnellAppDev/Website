@@ -4,57 +4,70 @@
 
 <head>
     {{> head}}
+
+    <style>
+        .jobPic {
+            display: block;
+        }
+
+        .apply-info {
+            margin: 0 10%;
+            padding-top: 30px;
+            font-size: 2rem;
+        }
+
+        @media (max-width: 500px) {
+            .apply-info {
+                margin: 0 15px;
+            }
+        }
+    </style>
 </head>
 
 <body>
     <div id="wrap">
         {{> navbar}}
 
-        <div class="apply">
-            <div class="color">
-                <div class="apply">
-                    <div class="container">
-                        <div class="page-header main-content">
-                            <h1 class="redTitle">You wanna make apps, too?!</h1>
+        <div class="color">
+            <div class="apply">
+                <div class="container">
+                    <div class="page-header main-content">
+                        <h1 class="redTitle">You wanna make apps, too?!</h1>
 
-                            <h3 class="redTitle">Roles in AppDev:</h3>
+                        <p>What interests you?</p>
 
-                            <div id="jobOfferings">
-                                <div class="col-lg-3">
-                                    <div class="jobPic" id="devs">
-                                        <img class="responsive jobs" src="img/developper.png" />
-                                        <h2 id="developers">
-                                            <span>Engineering</span>
-                                        </h2>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="jobPic" id="desi">
-                                    <img class="responsive jobs" src="img/designer.png">
-                                    <h2 id="designers">
-                                        <span>UX &amp; Design</span>
-                                    </h2>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="jobPic" id="uxd">
-                                    <img class="responsive jobs" src="img/ux.png">
-                                    <h2 id="ux">
-                                        <span>Finance</span>
-                                    </h2>
+                        <div class="col-lg-3">
+                            <a class="jobPic" href="#engineering-and-design">
+                                <img class="responsive jobs" src="img/developper.png" />
+                                <h2>
+                                    <span>Engineering</span>
+                                </h2>
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a class="jobPic" href="#engineering-and-design">
+                                <img class="responsive jobs" src="img/designer.png">
+                                <h2>
+                                    <span>UI &amp; UX Design</span>
+                                </h2>
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a class="jobPic" href="#finance">
+                                <img class="responsive jobs" src="img/ux.png">
+                                <h2>
+                                    <span>Finance</span>
+                                </h2>
 
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="jobPic" id="comm">
-                                    <img class="responsive jobs" src="img/community.png" />
-                                    <h2 id="community">
-                                        <span>Community</span>
-                                    </h2>
-                                </div>
-                            </div>
-
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a class="jobPic" href="#community">
+                                <img class="responsive jobs" src="img/community.png" />
+                                <h2>
+                                    <span>Community</span>
+                                </h2>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -62,24 +75,63 @@
         </div>
 
         <div class="container">
+            <section id="engineering-and-design" class="apply-info">
+                <h2>Engineering and Design</h2>
 
-            <!-- Typeform -->
-            <div class="typeform-widget" data-url="https://grinnellappdev.typeform.com/to/izbPJq" data-text="AppDev Application" style="width:100%;height:800px;"></div>
-            <script>
-                (function () { var qs, js, q, s, d = document, gi = d.getElementById, ce = d.createElement, gt = d.getElementsByTagName, id = 'typef_orm', b = 'https://s3-eu-west-1.amazonaws.com/share.typeform.com/'; if (!gi.call(d, id)) { js = ce.call(d, 'script'); js.id = id; js.src = b + 'widget.js'; q = gt.call(d, 'script')[0]; q.parentNode.insertBefore(js, q) } })()
-            </script>
-            <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by
-                <a href="https://www.typeform.com/examples/forms/?utm_campaign=izbPJq&amp;utm_source=typeform.com-148909-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN"
-                    style="color: #999" target="_blank">Typeform</a>
-            </div>
+                <p>
+                    Our engineers and designers are the backbone of AppDev. Designers are responsible for creating the look and feel of apps,
+                    and engineers write the code to make them a reality. Taking on a role in engineering and design is a
+                    great way to get practical experience in the app development industry.
+                </p>
 
+                <p>
+                    Engineering and Design are high skill positions, meaning you will need to complete the appropriate training program or demonstrate
+                    proficiency in the technologies covered therein. We offer four training programs.
+                </p>
 
-            <div class="col-lg-3"></div>
-            <div class="col-lg-6 jobRole"></div>
-            <div class="col-lg-3"></div>
+                <ol>
+                    <li>
+                        <b>iOS Engineering.</b> Learn to make iPhone and iPad apps.
+                    </li>
+                    <li>
+                        <b>Android Engineering.</b> Learn to make Android apps.
+                    </li>
+                    <li>
+                        <b>Web Services Engineering.</b> Learn to make web APIs.
+                    </li>
+                    <li>
+                        <b>Design.</b> Learn to design quality user interfaces and experiences.
+                    </li>
+                </ol>
 
+                <p>
+                    You can attend more than one training program. Training starts at the
+                    <b>beginning of each semester</b>, at which point we will reach out on multiple channels. To ensure that
+                    you are notified, you can
+                    <a href="/contact">contact us</a> and indicate your interest in joining or ask any questions you may have.
+                </p>
+            </section>
+
+            <section id="finance" class="apply-info">
+                <h2>Finance and Business</h2>
+
+                <p>
+                    There is no formal training program for finance and business. Prior experience is preferred, but not required as our current
+                    business leadership can mentor you in the skills you will need. Please
+                    <a href="/contact">contact us</a> if you are interested.
+                </p>
+            </section>
+
+            <section id="community" class="apply-info">
+                <h2>Community Outreach</h2>
+
+                <p>
+                    There is no formal training program for community outreach. Some experience within AppDev is preferred, but not required
+                    as our current leadership can mentor you in the skills you will need. Please
+                    <a href="/contact">contact us</a> if you are interested.
+                </p>
+            </section>
         </div>
-        <div class="col-lg-12"></div>
     </div>
 
     {{> footer}}
