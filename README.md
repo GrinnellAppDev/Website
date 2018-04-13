@@ -18,7 +18,11 @@ container with PHP support.
 
 ## Production Environment
 
-Run `yarn build`, then configure your Apache server with `www` as the
-document root. Be sure to add an `Include` directive for `conf/site.conf` in
-your virtual host configuration. `conf/docker-apache.conf` is a good example
-of a super basic virtual host config that does this.
+*   Run `yarn build` every time you pull.
+*   Configure your Apache server with `www` as the document root.
+*   Be sure to add an `Include` directive for `conf/site.conf` in your virtual
+    host configuration. `conf/docker-apache.conf` is a good example of a super
+    basic virtual host config that does this.
+*   Add symlink `src/public/wiki` that points to your mediawiki installation.
+*   Optionally add symlink `src/public/archive` that points to an appropriate
+    archive directory.
